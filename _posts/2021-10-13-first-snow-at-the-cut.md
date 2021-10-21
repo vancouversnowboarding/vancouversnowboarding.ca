@@ -3,21 +3,8 @@ layout: post
 title:  "First snow at the Cut!"
 date:   2021-10-13T12:00:00+00:00
 tag: Grouse mountain
+image: https://vancouversnowboarding.files.wordpress.com/2021/10/output.jpg
 ---
-
-
-<div class="entry-content">
-		
-<figure class="wp-block-image"><img src="https://vancouversnowboarding.files.wordpress.com/2021/10/output.jpg" alt="" scale="0"></figure>
-
-
-
-<p></p>
-
-
-
-<p></p>
-
 
 
 <p>A capture from Grouse mountain “Chalet cam” live cam:</p>
