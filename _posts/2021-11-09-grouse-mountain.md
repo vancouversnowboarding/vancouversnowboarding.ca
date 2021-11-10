@@ -28,7 +28,64 @@ Cons
 
 ## Major runs
 
-* [The Cut](http://localhost:4000/the-cut/)
+* [The Cut](/the-cut/)
 * Peak
-* [Paper Trail](http://localhost:4000/paper-trail/)
+* [Paper Trail](/paper-trail/)
 * Expo
+
+## Details
+
+Runs
+
+* Green
+    * Chalet Road
+    * [Paradise](/paradise/)
+    * [Magic Carpet (Ski Wee)](/magic-carpet/)
+    * [The Cut](/the-cut/)
+* Blue
+    * Blue Face
+    * Centennial
+    * Deliverance
+    * Dogleg
+    * Expo
+    * [Heaven's Sake](/heavens-sake/)
+    * Lower Buckhorn
+    * Lower Peak
+    * Lower Side Cut
+    * [Paper Trail](/paper-trail/)
+    * Peak
+    * Side Cut
+    * Skyline
+    * Tyee Chute
+    * Upper Buckhorn
+    * Mountain Highway
+    * Grinder Tracks
+    * Coola's Corner
+* Black & Double Black Diamonds
+    * Blazes
+    * Coffin
+    * Hades
+    * Inferno
+    * Outer Limits
+    * Devil's Advocate
+    * Purgatory
+    * Peak Glades
+    * Expo Glades
+    * Chimney
+    * Upper Blazes
+
+
+Chairlifts
+
+* Screaming Eagle High-Speed Quad Chair
+* Olympic Express High-Speed Quad Chair
+* Greenway Quad Chair
+* Magic Carpet
+* Peak Quad Chair (Mostly closed)
+
+Parks
+
+* Cut Park (Not available in season 2020/2021)
+* Paradise Jib Park
+* Cut Rookie Park
+* Grouse Park
