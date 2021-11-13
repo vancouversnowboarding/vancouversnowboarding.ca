@@ -37,4 +37,6 @@ Until Expo opens, the only exit from Heaven's Sake is to cross Lower Peak to go 
 
 ## Normal season
 
-WIP
+You can ride from Heaven's Sake, Deliverance, and Expo. Heaven's Sake condition is very stable but both Deliverance and Expo tend to be icy or mogul, so.
+
+(*Planning to put a video here in 2021/2022*)
