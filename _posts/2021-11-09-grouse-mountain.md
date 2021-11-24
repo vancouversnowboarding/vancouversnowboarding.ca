@@ -18,7 +18,7 @@ Pros
 * Lowest price for season pass thanks to Y2Play pass
 * Easiest to access either by public transit or car
 * Least busy at chairlift
-* The Cut is definitely the best run for carving
+* [The Cut](/grouse/the-cut/) is definitely the best run for carving
 * Chalet (lodge) is big with a nice washroom
 
 Cons
@@ -29,9 +29,9 @@ Cons
 ## Major runs
 
 * [The Cut](/grouse/the-cut/)
-* Peak
+* [Peak](/grouse/peak/)
 * [Paper Trail](/paper-trail/)
-* Expo
+* [Expo](/grouse/expo/)
 
 ## Details
 
@@ -39,21 +39,21 @@ Runs
 
 * Green
     * Chalet Road
-    * [Paradise](/paradise/)
+    * [Paradise](/grouse/paradise/)
     * [Magic Carpet (Ski Wee)](/magic-carpet/)
-    * [The Cut](/the-cut/)
+    * [The Cut](/grouse/the-cut/)
 * Blue
     * Blue Face
     * Centennial
     * Deliverance
     * Dogleg
-    * Expo
+    * [Expo](/grouse/expo/)
     * [Heaven's Sake](/heavens-sake/)
     * Lower Buckhorn
     * Lower Peak
     * Lower Side Cut
     * [Paper Trail](/paper-trail/)
-    * Peak
+    * [Peak](/grouse/peak/)
     * Side Cut
     * Skyline
     * Tyee Chute
@@ -78,10 +78,10 @@ Runs
 Chairlifts
 
 * Screaming Eagle High-Speed Quad Chair
-* Olympic Express High-Speed Quad Chair
-* Greenway Quad Chair
+* [Olympic Express High-Speed Quad Chair](/grouse/olympic-express/)
+* [Greenway Quad Chair](/grouse/greenway-chair/)
 * Magic Carpet
-* Peak Quad Chair (Mostly closed)
+* [Peak Quad Chair (Mostly closed)](/grouse/peak-chair/)
 
 Parks
 
