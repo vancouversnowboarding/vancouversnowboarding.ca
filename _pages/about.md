@@ -32,3 +32,5 @@ We are also publishing snow conditions for major runs at Grouse and Seymour moun
 </div>
 
 </div>
+
+We originally hosted this web site at <https://vancouversnowboarding.wordpress.com/> using WordDpress.com, but we moved to here.

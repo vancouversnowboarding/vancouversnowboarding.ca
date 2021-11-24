@@ -30,6 +30,6 @@ Though this year 2021/2022 Seymour is installing more chairlifts, so it is likel
 
 ## Major runs
 
-* Manning
+* [Manning](/seymour/manning)
 * Northlands
 * Unicorn
