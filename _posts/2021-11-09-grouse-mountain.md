@@ -28,7 +28,7 @@ Cons
 
 ## Major runs
 
-* [The Cut](/the-cut/)
+* [The Cut](/grouse/the-cut/)
 * Peak
 * [Paper Trail](/paper-trail/)
 * Expo

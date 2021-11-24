@@ -1,10 +1,7 @@
 ---
-layout: post
+layout: post2
 title: The Cut (Green)
-date: 2020-03-16 22:21:00.000000000 +00:00
-tag: Uncategorized
 image: https://vancouversnowboarding.files.wordpress.com/2020/03/img_2759.jpg
-
 ---
 What's to say about The Cut? At 855 meters in length with a 181 meter vertical drop, The Cut is Grouse's most famous and only true green run. Considered one of the <a href="https://www.cnn.com/travel/article/worlds-best-ski-runs/index.html">100 best ski runs in the world</a>, while only a green run I think The Cut offers something for riders of all skill levels, that's if you can take eyes off the breathtaking views of the city below. 
 
