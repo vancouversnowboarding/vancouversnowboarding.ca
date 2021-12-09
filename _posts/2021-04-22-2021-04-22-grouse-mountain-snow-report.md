@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2021-04-22 Grouse mountain snow report
-date: 2021-04-23 00:17:23.000000000 +00:00
+date: 2021-04-22 00:17:23.000000000 +00:00
 tag: Grouse mountain
 image: https://vancouversnowboarding.files.wordpress.com/2021/04/dry.jpg
 
