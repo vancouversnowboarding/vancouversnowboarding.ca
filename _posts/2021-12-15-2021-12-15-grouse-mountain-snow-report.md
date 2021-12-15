@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2021-12-15 Grouse mountain snow report
+date: 2021-12-15 20:30:00.000000000 +08:00
+tag: Grouse mountain
+image: assets/images/2021-12-15-grouse-mountain-snow-report.jpg
+---
+The Cut fully opened up, while Olympic Chair is not available yet. The snow seemed good but don't trust too much; your board can touch something underneath and fall easily.
+
+If you are running near snow cannon, the artificial snow sticks your goggle easily, so stay away from them when it's possible.
+
+The Cut park was open too, with some very nice features but not big jumps.
+
+Overall rate: 2/5 ★★☆☆☆
+
+Open runs:
+
+* Paradise
+* Chalet Road
+* The Cut
+* Side Cut
+
+Open chairlifts:
+
+* Greenway Chair
+* Screaming Eagle
+
+---
+
+The Cut
+
+![](https://lh3.googleusercontent.com/fife/AAWUweW8ndakZdm7Z7kIWqzpCXfHV9-NzzeQbjXsDqhyvwiM99VE5rzgCYX4ILHyQtptBYY_5Lio8BpdwQIHzn5Rvf1h-vDcZdh1ysIJK6qvOe5oQsTrdZ_kB8-2wGU8isKxWse5V7lW7f25u_CRO2O-lYOpS71tDglh8V7_INkLR4R-cbNbBP2mly7pPl-HtBdQ57VCTmnac2fvVgts3JdmkGa_4nX0denrQjplCAnQF7vRz-mbRhQrInv6UCzB-NokITY9tyJBd7pdxpUl-NWOdE9z_Xol9yj6l9vwAtzxMdpINS_ZvxgJKgCnDARbFadUXS4w45sta4ZuSVifx1CQLLT0PnuvNcZdKfYtnGcgHD2jCids2AKsHjZXPq0OhFp6K-lJxFMPLZh3rE2A3iivpuHMh9KVBI3-YDhsMIpFUYyPuAHVAblInCg1jfrhUWpeO1JuYxWEPnpwLwRFMJGKnbHp07dnzHVVWbCYFUaJOsSWgcWxjSRqlwE_Qt4NnSpsW4h5x8FoijAdLLQ3Q_Z6ERliGOUWNEdaOcWC_JVpIFdHS705_bG2sIJYmFna9NPZOjaJDkBxwx0pNEmQplLQ3TgWfQYPfD1ZTpC8VbfDKpnNf2i63jJLhq-Q5RKxCbNkkElp8zLEdWCGzcUEQ5EcCIyVAnebna7v7DoJJ2i99G9HJOy3o8VyV77lSCVvl8O68Ov1z2rWAsPSPd-Ogek9rOw2iQ=w2629-h1971-no?authuser=0)
+
+Right side of the Cut; not recommended to ride yet.
+
+![](https://lh3.googleusercontent.com/fife/AAWUweWzkFQwln5ShUV3tmKujKV7QvKJmwzJ8ZyYCw0MCB1aG5CN8pMLNV7CKrIrdXeFGOmW6smhh8pBMDG4pPlbBhhZEN4LkXd7xhMhiQ-wP1gdt2ItAKRXOPqftblnaBrfRnGBA9t4MU42GJwAcrOmBKv_QAdV_5EPjDvN1QmPAwUGYxP9X30dkqt2Eo6spP_CrWRYnBo-DemQM2RCvDt8Nz2wXcwVI6pjBOsYrHIml_Kg5vY2dU9DYbMUAWCem3mH9-0oIBfZHBJKhdl9ADGivB38iAD8MYWUfHY9tcojPbSSLp2GGbPeF3QpjOcOrmFwzFQ_5LMMzTY7HoNz0ViDm5yppigqk_uZyHCaICx2cczfJ4Mg7qQtKBY5FMHJweL3KvnibdsQPYRp1g613_jd5hKfZPGfcdY270Z-bN3YaFd6-sMc9cyBUPYgYrNeQqPaeTpahrsa1iQ66dB8KEy4qg_5AIEZDNf2o_JBXbGwrXQCLbT-SrwaofJ8eED75rJ6_mqiJj3JXDttLjFRmPZ3S4js1oDtKd8TJ_bIxMG6REY6nJp9SZgAJJcZ41PWIuVDPuQCsuBMGXB74dhCBCbgmxxxBi2gENbvrAZjXvzqj7ufPDefoLiBh4jJIdXMjF_WqQ4bVFJJX-t57IxBGpu6B9f72PHr7KBb0jAtF61lQyUPrFpw5VTl1XPb1Ky0x-zn4PcB7mhHOCRVW5fzTzHD57w_LQ=w2629-h1971-no?authuser=0)
+
+Cut Park
+
+![](https://lh3.googleusercontent.com/fife/AAWUweWPmVujlg04pPx0nvOaZCFskdnJjXx0g4Gja3v9JV_iwiOj9eAt4LLxzIG_1e9B3AM-kU__inV44ZG2Z82JnpDcqkFp5ZxvT2FKs7HQpuOZ-jdJooV2u59dc631Od8GZArffWhDACkEIOjydmHCtauI6ie-R25myPaqaFoK3Ruogmy8ieUD_On0R9zHuoJ5W_n65RDNY9M9UcGJ3xwkNAry-_d61jfnjgNU775PCN09-YT0xPSmmhvePKDNEWGQAgrCKKeudnWnIp46iFEz4AMLVhbKw_7UVd64gADuqrmx0kq5LkXWy00paV4gezXRrJ-VzE6Or6ULR4jcYpxMdbnND8A_sZ4U5wf1Sh3hfd7QFiutRVpcCHqz7qLRYYO2E6SvukTyh5mKxWM9vecFnhEpB-zk1mnP1L6SKmdrcQ4uBja1kRzYoF-jn_sBq6PecbEbSZIxT7DDeSwbVND289dCX4_q5R0KBDkF3T_BnxFhcbB-3PWynkLWN2RFkOU9fcvfydnpKE41pnsRbwJVVhiSJtmMGXnJAlFgS61Fwk7fWKYiXiqtMYzpc_Ct54PjahgHxSUTHo9MHkKnPO5FcRQWM0GTYpgxkKbJcBG1IW1Lee0m3Z3-4fvn09eW7U6aOSMVaR9bZ5Wk2sR-48kCH1AztiVusiIZTtJwsJ5khvqsjw7Im7Zl-bOTjWosBIaEVseB0N5U6H99aJr7iCLq44Tocw=w2629-h1971-no?authuser=0)

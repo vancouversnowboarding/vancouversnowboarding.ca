@@ -9,7 +9,7 @@ This year the season started very late. Even though it's already 2021-12-08, unf
 
 Overall rate: 1/5 ★☆☆☆☆
 
-Copen runs:
+Open runs:
 
 * Paradise
 
