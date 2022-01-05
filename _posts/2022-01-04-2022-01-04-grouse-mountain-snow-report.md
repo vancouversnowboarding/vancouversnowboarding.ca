@@ -6,7 +6,9 @@ tag: Grouse mountain
 image: assets/images/2022-01-04-grouse-mountain-snow-report.jpg
 ---
 
-Happy new year! It was snowy but more like foggy day. The powder was great but if you can't see anything you can't ride but the snow just kicks you up and down, and stops completely...
+Happy new year!
+
+It was snowy but more like foggy day. The powder was great but if you can't see anything you can't ride but the snow just kicks you up and down, and stops completely...
 
 Overall rate: 1/5 ★☆☆☆☆
 
