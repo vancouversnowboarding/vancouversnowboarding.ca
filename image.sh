@@ -5,7 +5,7 @@ if [ -z $DATE ]; then
   exit 1
 fi
 
-for FNAME in $(ls -c /tmp/*.jpg | tac); do
+for FNAME in $(ls -c /tmp/*.{jpg,png} | tac); do
   NEW_FILENAME=`echo "${FNAME}" | sed -e "s|/tmp/|assets/images/${DATE}-|"`
   echo $NEW_FILENAME
   magick convert -scale '1600x1200' "${FNAME}" "${NEW_FILENAME}"
