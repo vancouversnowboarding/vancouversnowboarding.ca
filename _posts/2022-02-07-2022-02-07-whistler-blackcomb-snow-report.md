@@ -10,10 +10,14 @@ This article focuses on Blackcomb mountain this time, unlike [the previous Whist
 
 It was cloudy, somewhat icy, and partially foggy day. Whistler Blackcomb is a big resort and the conditions vary dynamically, so let us breakdown.
 
-* Very high area (top of Glacier Express or 7th Heaven Express): Foggy, icy, and windy. Flat light really makes it hard to ride.
-* High area (bottom of Jersey Cream Express or Catskinner Express to Randezvous): Rip & grip, and mostly clear.
-* Mid area (around the top of Excalibur Gondola): Extremely foggy that you can't see anything. Snow is soft
-* Low area (Excalibur mid station down to the villages): Clear but soft & unstable mogul snow.
+* Very high area (top of Glacier Express or 7th Heaven Express):
+    * 🤔 Foggy, icy, and windy. Flat light really makes it hard to ride.
+* High area (bottom of Jersey Cream Express or Catskinner Express to Randezvous):
+    * 🥳 Rip & grip, and mostly clear.
+* Mid area (around the top of Excalibur Gondola):
+    * 🤔 Extremely foggy that you can't see anything. Snow is soft
+* Low area (Excalibur mid station down to the villages):
+    * 🙂 Clear but soft & unstable mogul snow.
 
 ---
 
