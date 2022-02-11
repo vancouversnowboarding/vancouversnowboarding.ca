@@ -24,6 +24,10 @@ When we first started snowboarding we had no real idea about what Vancouver’s 
 <p>
 We are also publishing snow conditions for major runs at Grouse and Seymour mountains occasionally. Please make use of the condition reports when you plan to go visit one of them!
 </p>
+
+<p>
+Katie is also a CASI licenced snowboard instructor.
+</p>
 </div>
 
 
