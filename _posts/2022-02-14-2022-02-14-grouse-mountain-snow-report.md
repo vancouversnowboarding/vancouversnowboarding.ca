@@ -93,3 +93,5 @@ The snow was so forgiving that I could even ride Upper Purgatory next to the beg
 
 ![](/assets/images/2022-02-14-upper-purgatory.jpg)
 ![](/assets/images/2022-02-14-upper-purgatory2.jpg)
+
+On a foggy day like this, we recommend you to run tighter runs such as [Paper Trail](https://vancouversnowboarding.ca/paper-trail/) or Upper Buckhorn + Skyline, instead of wide open runs such as [The Cut](https://vancouversnowboarding.ca/grouse/the-cut/).
