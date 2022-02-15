@@ -3,7 +3,7 @@ layout: post
 title: Announcing more run/lift pages for Grouse Mountain
 date: 2022-02-15 14:30:10.000000000 +00:00
 tag: Grouse mountain
-image: assets/images/dogleg-PXL_20220215_181659749.jpg
+image: assets/images/dogleg.jpg
 ---
 
 We added more pages for each runs/lifts at Grouse Mountain, and added more videos at the existing pages as well. We'll be covering all of them gradually!

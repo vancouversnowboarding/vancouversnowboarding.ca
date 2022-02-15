@@ -1,7 +1,7 @@
 ---
 layout: post2
 title: Dogleg (Blue)
-image: assets/images/dogleg-PXL_20220215_181659749.jpg
+image: assets/images/dogleg.jpg
 ---
 This is a tough ungroomed blue runs at Grouse mountain. Recommended to try this after getting used to [Peak](https://vancouversnowboarding.ca/grouse/peak/) or Upper Buckhorn, and before trying Blue Face, Grinder Tracks, or Hades.
 
