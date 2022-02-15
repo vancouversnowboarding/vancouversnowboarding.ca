@@ -46,7 +46,7 @@ Runs
     * Blue Face
     * Centennial
     * Deliverance
-    * Dogleg
+    * [Dogleg](/grouse/dogleg/)
     * [Expo](/grouse/expo/)
     * [Heaven's Sake](/heavens-sake/)
     * Lower Buckhorn
