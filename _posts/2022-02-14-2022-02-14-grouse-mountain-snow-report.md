@@ -10,7 +10,7 @@ It was a great day. Today's Grouse mountain was almost empty, not icy at all but
 
 The 2cm of snow on top of soft really made a big difference. Under the snow there was groomed pressed snow which wasn't icy very much too. You can mostly rip & grip anywhere.
 
-Overall rate: 4/5 ★★★★☆
+Overall rate: 5/5 ★★★★★
 
 Lifts:
 
