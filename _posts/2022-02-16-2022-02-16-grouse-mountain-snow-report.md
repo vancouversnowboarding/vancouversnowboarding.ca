@@ -10,20 +10,6 @@ It was another great day. Today's Grouse mountain started a bit icy but the snow
 
 Overall rate: 5/5 ★★★★★
 
-Lifts:
-
-* Olympic Express High-Speed Quad Chair
-* Screaming Eagle High-Speed Quad Chair
-* Greenway Quad Chair
-* Magic Carpet
-
-Parks:
-
-* Paradise Jib Park (Up Down Box - SFlat Box - S)
-* The Cut Jump Line (Jump 1 - MJump 2 - MJump 3 - LJump 4 - XL)
-* Cut Rookie Park (Flat Box - SDown Flat Tube - MRainbow Box - SDown Tower Tube - MWide Box - S)
-* Side Cut Park (Wall ride - MJump # 1 W/side jump - LDown Ledge Box - LFlat Tubby Tube - LDFD Ledge Box - LRainbow Rail - LSpinewall Ride on Bank - MDown Rail 32' - XLDiesel Tank to Down Rail - LDown Tower Tube - MVolcano Bonk - MDrop Tube - LBarrier - MC-box - MDFD Shotgun Rail - LDFD Elbow rail - XL40' DFD - XLFlat down tube - LGate Rail - LDF Rail - LS-Rail - LUp Down Rail - LUp Tower Tube - LJump # 2 - MJump # 3 - MHip - MDown Rail - LDown Ledge Box - M)
-
 Runs:
 
 * Chalet Road
@@ -45,10 +31,10 @@ Runs:
 * Skyline
 * Tyee Chute
 * Upper Buckhorn
-* Blazes (*Lower Blazes Closed)
+* Blazes (Lower Blazes Closed)
 * Coffin (Closed)
 * Hades
-* Inferno (*Lower Inferno closed)
+* Inferno (Lower Inferno closed)
 * Outer Limits
 * Devil's Advocate
 * Purgatory
@@ -60,4 +46,17 @@ Runs:
 * Upper Blazes
 * Mountain Highway
 
+---
 
+The Cut and Blazes were particularly great today:
+
+![](/assets/images/2022-02-16-the-cut.jpg)
+
+![](/assets/images/2022-02-16-the-cut2.jpg)
+
+
+Part of Upper Buckhorn was sketchy:
+![](/assets/images/2022-02-16-upper-buckhorn.jpg)
+
+Lower Inferno was closed and it looked like this. We need more snow
+![](/assets/images/2022-02-16-inferno.jpg)
