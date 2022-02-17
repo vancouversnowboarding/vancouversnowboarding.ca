@@ -15,13 +15,13 @@ Overall rate: 1/5 ★☆☆☆☆
 ---
 
 This is at the Cut when it was least foggy:
-![](/assets/images/2022-02-17-PXL_20220217_181952641.jpg)
-
-This is the Cut at the most of the time. You can't see the lift right in front of you.
 ![](/assets/images/2022-02-17-PXL_20220217_170252714.jpg)
 
+This is the Cut at the most of the time. You can't see the lift right in front of you.
+![](/assets/images/2022-02-17-PXL_20220217_181952641.jpg)
+
 Even Upper Buckhorn was really foggy:
-![](/assets/images/2022-02-17-PXL_20220217_175259996.jpg)
+![](/assets/images/2022-02-17-PXL_20220217_174321686.jpg)
 
 Centennial was open but pretty much impossible to run:
-![](/assets/images/2022-02-17-PXL_20220217_174321686.jpg)
+![](/assets/images/2022-02-17-PXL_20220217_175259996.jpg)
