@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vertigo Ridge (Black diamond)
-date: 2022-02-25 21:27:42.000000000 +00:00
+date: 2022-02-25 06:30:42.000000000 +00:00
 tag: Revelstoke Mountain Resort
 image: assets/images/2022-02-25-vertigo.jpg
 
