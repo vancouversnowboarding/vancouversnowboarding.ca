@@ -31,5 +31,9 @@ Though this year 2021/2022 Seymour is installing more chairlifts, so it is likel
 ## Major runs
 
 * [Manning](/seymour/manning)
-* Northlands
+* [Northlands](/northlands)
 * Unicorn
+
+---
+
+![](https://vancouversnowboarding.files.wordpress.com/2021/01/pxl_20210126_202643325.jpg)
