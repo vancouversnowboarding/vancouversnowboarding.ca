@@ -25,7 +25,7 @@ Closed Runs:
 
 ---
 
-Weather forecast:
+Weather forecast <https://www.snow-forecast.com/resorts/Grouse-Mountain/6day/mid>:
 ![](/assets/images/2022-02-27-Screenshot_2022-02-27_09-23-05.png)
 
 The weather after this weekend is very bed.
