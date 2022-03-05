@@ -7,7 +7,7 @@ image: assets/images/2022-02-26-northlands.jpg
 
 ---
 
-Northlands is the most popular blue run in [Seymour mountain](/seymour-mountain/).
+Northlands is the most popular blue run at [Seymour mountain](/seymour-mountain/).
 
 This is accessible from Mystery Peak Express. Unload from the lift and turn right towards the signboard:
 
@@ -40,3 +40,7 @@ After Northlands, you can choose the following runs to move on:
 * Terrain Park Northlands
 * Towerline (right under Mystery Chair, and right next to the terrain park) (Blue run)
 * [Manning](/seymour/manning/) (Green run)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9srcXMw5Fgw?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Drj6q3ZE5PE?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
