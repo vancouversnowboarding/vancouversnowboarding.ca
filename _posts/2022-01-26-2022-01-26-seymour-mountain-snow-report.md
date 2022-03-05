@@ -23,7 +23,7 @@ Some runs became icy mogul, such as Noel's Flight:
 ![](/assets/images/2022-01-26-noels-flight.jpg)
 ![](/assets/images/2022-01-26-noels-flight2.jpg)
 
-Or Unicorn (upper):
+Or [Unicorn](/unicorn/) (upper):
 
 ![](/assets/images/2022-01-26-unicorn.jpg)
 ![](/assets/images/2022-01-26-unicorn2.jpg)

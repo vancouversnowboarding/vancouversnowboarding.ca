@@ -32,7 +32,7 @@ Though this year 2021/2022 Seymour is installing more chairlifts, so it is likel
 
 * [Manning](/seymour/manning)
 * [Northlands](/northlands)
-* Unicorn
+* [Unicorn](/unicorn/)
 
 ---
 

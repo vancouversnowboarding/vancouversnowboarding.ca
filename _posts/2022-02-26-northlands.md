@@ -31,11 +31,11 @@ This run is structured as
     * Merge back from Friendly Nuthouse
 4. relatively steep bowl. This area seems to have more injuries than other areas
 5. merge into other runs
-    * e.g. Unicorn entrance ![](https://vancouversnowboarding.files.wordpress.com/2021/01/vlcsnap-2021-01-26-21h58m20s030.png?w=750)
+    * e.g. [Unicorn](/unicorn/) entrance ![](https://vancouversnowboarding.files.wordpress.com/2021/01/vlcsnap-2021-01-26-21h58m20s030.png?w=750)
 
 After Northlands, you can choose the following runs to move on:
 
-* Unicorn (Black run)
+* [Unicorn](/unicorn/) (Black run)
 * Gun Barrel (Blue run)
 * Terrain Park Northlands
 * Towerline (right under Mystery Chair, and right next to the terrain park) (Blue run)
