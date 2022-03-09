@@ -23,6 +23,9 @@ Closed runs:
 You can see how visible it is today. Paradise and Peak:
 ![](/assets/images/2022-03-09-paradise-and-peak.jpg)
 
+Peak:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3vQYgEalvNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The Cut:
 ![](/assets/images/2022-03-09-the-cut.jpg)
 
