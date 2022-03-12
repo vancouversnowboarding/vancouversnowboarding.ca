@@ -23,16 +23,25 @@ Cons
 * Lodge is very small and not always available
 * Most expensive for season pass
 * Smallest resort
-* Medium busy
+* Slightly busy
 * Hardest to access by public transit & bus
+* No list of open/closed runs of the day
+* No snow cannon for artificial snow
 
-Though this year 2021/2022 Seymour is installing more chairlifts, so it is likely less busy than the past.
+Though this year 2021/2022 Seymour has installed more chairlifts at Mystery Peak Express, so it is less busy than the past.
 
 ## Major runs
 
+Green
 * [Manning](/seymour/manning)
+
+Blue
 * [Northlands](/northlands)
+
+Black Diamond
 * [Unicorn](/unicorn/)
+
+There's no double black diamonds run.
 
 ---
 

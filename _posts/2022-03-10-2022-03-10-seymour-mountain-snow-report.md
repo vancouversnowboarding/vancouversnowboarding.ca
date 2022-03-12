@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 2022-03-10 Seymour mountain snow report
-date: 2022-03-10 13:35:10.000000000 +00:00
+date: 2022-03-10 19:35:10.000000000 +00:00
 tag: Seymour mountain
 image: assets/images/2022-03-10-seymour-mountain-snow-report.jpg
 ---
 
-Unlike [the last month](https://vancouversnowboarding.ca/2021-02-04-seymour-mountain-snow-report/), it was not foggy but the snow was icy at [Seymour mountain](/seymour-mountain/). The day started clear sunny nice cold morning, and gradually it turned into overcast afternoon. It was not busy at the most of areas except for magic carpet and lodge chair because of multiple group lessons.
+Like [the last month](https://vancouversnowboarding.ca/2022-01-26-seymour-mountain-snow-report/), it was not a foggy but an icy day at [Seymour mountain](/seymour-mountain/). The day started clear sunny nice cold morning, and gradually it turned into overcast afternoon. It was not busy at the most of areas except for magic carpet and lodge chair because of multiple group lessons.
 
 Overall rate: 4/5 ★★★★☆
 
