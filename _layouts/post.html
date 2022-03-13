@@ -115,7 +115,11 @@ post_class: post-template
                     <li>
                         <a href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
                     </li>
+                    <li>
+                      <a href="https://github.com/vancouversnowboarding/vancouversnowboarding.ca/blob/master/{{page.path}}">✎</a>
+                    </li>
                     {% endfor %}
+                </ul>
                 </ul>
             </div>
             <!-- End Tags -->
