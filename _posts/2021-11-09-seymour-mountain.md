@@ -37,6 +37,7 @@ Green
 
 Blue
 * [Northlands](/northlands)
+* [Pete's](/petes)
 
 Black Diamond
 * [Unicorn](/unicorn/)
