@@ -8,7 +8,7 @@ image: assets/images/2021-11-09-seymour-mountain.png
 
 ---
 
-The seymour mountain trail map image is from [Seymour mountain official webpage](https://www.grousemountain.com/mountain-map/winter)
+The seymour mountain trail map image is from [Seymour mountain official webpage](https://mtseymour.ca/trailmap)
 
 ## Overview
 
