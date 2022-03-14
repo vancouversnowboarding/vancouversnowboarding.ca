@@ -3,4 +3,6 @@ layout: post2
 title: Manning (Green)
 image: seymour/manning.jpg
 ---
-This is the longest green run [Seymour mountain](/seymour-mountain/) has. This 1km run starts a bit steep and narrow, then flattens out with some rollers and trees. In the middle of the run where this merges with Northlands run, it opens up widely, and stays wide and flat until the very end.
+This is the longest main green run [Seymour mountain](/seymour-mountain/) has. This 1km run starts a bit steep and narrow, then flattens out with some rollers and trees. In the middle of the run where this merges with Northlands run, it opens up widely, and stays wide and flat until the very end.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EhQbKOHyKFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
