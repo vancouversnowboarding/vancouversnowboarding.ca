@@ -34,6 +34,7 @@ Though this year 2021/2022 Seymour has installed more chairlifts at Mystery Peak
 
 Green
 * [Manning](/seymour/manning)
+* [Brockton Gully](/brockton-gully)
 
 Blue
 * [Northlands](/northlands)
