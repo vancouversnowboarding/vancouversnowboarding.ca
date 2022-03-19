@@ -6,9 +6,9 @@ tag: Seymour mountain
 image: assets/images/2022-03-18-seymour-mountain-snow-report.jpg
 ---
 
-TODO Insert text here
+It was a very low visibility, but the tree runs were nice. Snow started out it was snowy and early morning the snow was very heavy, but it was good and soft, but the snow turned to rain and got very wet, heavy, and sticky.
 
-Overall rate: ?/5 ★☆★☆★☆
+Overall rate: 2/5 ★★☆☆☆
 
 ---
 
