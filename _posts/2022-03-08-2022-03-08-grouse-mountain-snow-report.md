@@ -8,7 +8,7 @@ image: assets/images/2022-03-08-grouse-mountain-snow-report.jpg
 
 It was partially foggy but mostly actually very clear today. The foggy areas, particularly the Cut in the morning, were as foggy as [yesterday](https://vancouversnowboarding.ca/2022-03-07-grouse-mountain-snow-report/), but if you move a little bit you can see snow very clearly, and sometimes you can even see all the way to downtown Vancouver!
 
-The snow was extremely soft, wet, and slushy. In the morning grooming did nice job, but in the afternoon all the runs got chunky. It's actually a great day to explore ungroomed runs, such as Blue Face, Grinder Tracks, Coola's Corner, [Dogleg](https://vancouversnowboarding.ca/grouse/dogleg/), Upper Purgatory, Hades, and even Inferno, since the soft snow slows down and makes it easier to grip at a hard area. Parks are also great as long as you keep the speed.
+The snow was extremely soft, wet, and slushy. In the morning grooming did nice job, but in the afternoon all the runs got chunky. It's actually a great day to explore ungroomed runs, such as Blue Face, Grinder Tracks, Coola's Corner, [Dogleg](/dogleg/), Upper Purgatory, Hades, and even Inferno, since the soft snow slows down and makes it easier to grip at a hard area. Parks are also great as long as you keep the speed.
 
 Overall rate: 4/5 ★★★★☆
 
