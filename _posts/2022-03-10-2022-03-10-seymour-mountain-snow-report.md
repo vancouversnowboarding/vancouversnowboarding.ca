@@ -14,7 +14,7 @@ Boomerang run was closed today.
 
 ---
 
-The conditions of [Manning](/seymour/manning/) and [Northlands](/northlands/) were great, particularly in the morning. Their grooming really did a great job.
+The conditions of [Manning](/manning/) and [Northlands](/northlands/) were great, particularly in the morning. Their grooming really did a great job.
 
 [Northlands](/northlands/):
 ![](/assets/images/2022-03-10-vlcsnap-2022-03-12-12h07m03s039.png)

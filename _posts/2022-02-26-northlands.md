@@ -39,7 +39,7 @@ After Northlands, you can choose the following runs to move on:
 * Gun Barrel (Blue run)
 * Terrain Park Northlands
 * Towerline (right under Mystery Chair, and right next to the terrain park) (Blue run)
-* [Manning](/seymour/manning/) (Green run)
+* [Manning](/manning/) (Green run)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9srcXMw5Fgw?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

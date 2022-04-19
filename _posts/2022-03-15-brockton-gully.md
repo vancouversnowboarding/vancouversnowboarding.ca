@@ -8,7 +8,7 @@ image: assets/images/2022-03-15-brockton-gully.jpg
 
 Brockton Gully is a short but difficult green run at [Seymour mountain](/seymour-mountain/), starting from Brockton Chairlift.
 
-This run is categorized as a green run, but this is not easy. This is significantly harder than [Manning](/seymour/manning/), but not as hard as [Pete's](/petes/) or [Unicorn](/unicorn/).
+This run is categorized as a green run, but this is not easy. This is significantly harder than [Manning](/manning/), but not as hard as [Pete's](/petes/) or [Unicorn](/unicorn/).
 Recommended to go there on a clear day because you need some visibility, and a busy day because Brockton side is usually less busy than Mystery Peak Express or Lodge Chair.
 
 Videos:
