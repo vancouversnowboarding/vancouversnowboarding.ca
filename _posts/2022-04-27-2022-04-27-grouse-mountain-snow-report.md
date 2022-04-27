@@ -10,7 +10,7 @@ It was a day with random weather. It started cloudy with directional light with 
 
 Paper Trail and Lower Blazes unfortunately stayed closed, but glades reopenen. Though it's not announced at the board or the web site Outer Limit was also closed when I checked there.
 
-Overall rate: 4/5 ★★★★☆
+Overall rate: 3/5 ★★★☆☆
 
 Closed runs:
 
@@ -24,6 +24,8 @@ Closed runs:
 The Cut bofore snowing:
 ![](/assets/images/2022-04-27-the-cut.jpg)
 ![](/assets/images/2022-04-27-the-cut-2.jpg)
+
+Ungroomed runs were not great today. There were powder on ice and the powder layer was not consistent.
 
 Inferno:
 ![](/assets/images/2022-04-27-inferno.jpg)
