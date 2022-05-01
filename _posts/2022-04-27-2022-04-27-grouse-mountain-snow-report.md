@@ -8,14 +8,14 @@ image: assets/images/2022-04-27-grouse-mountain-snow-report.jpg
 
 It was a day with random weather. It started cloudy with directional light with spotted blue sky, and turned into big dump of snow. The new snow was unfortunately very wet so it made all the runs sticky and slow, but until then it was great at every groomed runs.
 
-Paper Trail and Lower Blazes unfortunately stayed closed, but glades reopenen. Though it's not announced at the board or the web site Outer Limit was also closed when I checked there.
+[Paper Trail](/paper-trail/) and Lower Blazes unfortunately stayed closed, but glades reopenen. Though it's not announced at the board or the web site Outer Limit was also closed when I checked there.
 
 Overall rate: 3/5 ★★★☆☆
 
 Closed runs:
 
 * Magic Carpet
-* Paper Trail
+* [Paper Trail](/paper-trail/)
 * Lower Blazes
 * Coffin
 

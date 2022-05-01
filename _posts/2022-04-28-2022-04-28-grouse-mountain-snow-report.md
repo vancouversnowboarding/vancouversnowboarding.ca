@@ -15,5 +15,5 @@ Overall rate: 3/5 ★★★☆☆
 Upper Buckhorn to Lower Buckhorn:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8-1Rn4Batgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Closed Paper Trail:
+Closed [Paper Trail](/paper-trail/):
 ![](/assets/images/2022-04-28-paper-trail.jpg)
