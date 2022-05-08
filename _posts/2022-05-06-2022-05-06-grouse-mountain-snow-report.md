@@ -30,6 +30,8 @@ Paradise was closed. The cat track crossing in the middle of paradise really pus
 ![](/assets/images/2022-05-06-paradise-closed.jpg)
 
 Magic carpet snows were collected by the unnamed run next to it. Though it was closed.
+
+You can compare the following photo with the one we took on [2022-04-29](https://vancouversnowboarding.ca/2022-04-29-grouse-mountain-snow-report/).
 ![](/assets/images/2022-05-06-magic-carpet-snow.jpg)
 
 Screaming Eagle:
