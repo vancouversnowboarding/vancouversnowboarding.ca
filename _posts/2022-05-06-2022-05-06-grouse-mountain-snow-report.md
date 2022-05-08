@@ -46,7 +46,7 @@ The Cut:
 ![](/assets/images/2022-05-06-the-cut-top.jpg)
 ![](/assets/images/2022-05-06-the-cut-top-2.jpg)
 
-Ungroomed runs had something red, particularly the lower half of the mountain. Anyone know what's that?
+Ungroomed runs had something red other than dirt, particularly the lower half of the mountain. Anyone know what's that?
 
 Inferno:
 ![](/assets/images/2022-05-06-red-inferno.jpg)
