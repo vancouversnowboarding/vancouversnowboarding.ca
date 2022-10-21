@@ -8,5 +8,6 @@ fi
 for FNAME in $(ls -c /tmp/*.{jpg,jpeg,png} | tac); do
   NEW_FILENAME=`echo "${FNAME}" | sed -e "s|/tmp/|assets/images/${DATE}-|"`
   echo $NEW_FILENAME
-  magick convert -scale '1600x1200' "${FNAME}" "${NEW_FILENAME}"
+  magick convert -scale '1600x1200>' "${FNAME}" "${NEW_FILENAME}"
+  magick mogrify -resize '1600:1200^' "${NEW_FILENAME}"
 done
