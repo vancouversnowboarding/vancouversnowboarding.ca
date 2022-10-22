@@ -3,7 +3,7 @@ layout: post
 title: 2022-10-21 First snow of the season
 date: 2022-10-21 13:20:10.000000000 -07:00
 tag: Seymour mountain
-image: assets/images/2022-10-21-seymour.jpg
+image: assets/images/2022-10-21-feature.jpg
 ---
 
 Congratulations Seymour mountain that we got first snow of the season!
