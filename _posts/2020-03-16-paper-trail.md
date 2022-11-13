@@ -6,6 +6,8 @@ tag: Uncategorized
 image: https://vancouversnowboarding.files.wordpress.com/2020/03/img_2784.jpg
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PcIquO-X-XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!-- wp:paragraph -->
 <p>Positioned right next to [The Cut](/grouse/the-cut/) with two entrances; one from Chalet Road (in front of the lodge) and another side entrance from [The Cut](/grouse/the-cut/). Paper Trail is a mellow blue with varied terrain featuring branching paths split by trees in the middle. While not steep it's surpsingly quick and will challenge your ability to plan your route, read the terrain and make quick and decisive turns. There's also a large roller in the middle that tends to catch over-cautious newbies so keep your speed up! In all, the Paper Trail is the perfect place to transition to once you start getting bored with green runs.</p>
 <!-- /wp:paragraph -->
@@ -30,4 +32,3 @@ image: https://vancouversnowboarding.files.wordpress.com/2020/03/img_2784.jpg
 <p></p>
 <!-- /wp:paragraph -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PcIquO-X-XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
