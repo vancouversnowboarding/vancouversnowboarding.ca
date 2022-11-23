@@ -16,7 +16,7 @@ Overall rate: 3/5 ★★★☆☆
 
 ---
 
-[The Cut](/the-cut):
+[The Cut](/grouse/the-cut):
 ![](/assets/images/2022-04-20-the-cut.jpg)
 ![](/assets/images/2022-04-20-the-cut-2.jpg)
 ![](/assets/images/2022-04-20-the-cut-3.jpg)
