@@ -26,3 +26,5 @@ To be updated
 ![](/assets/images/2022-11-24-catskinner-black-run.jpg)
 ![](/assets/images/2022-11-24-rendezvous2.jpg)
 ![](/assets/images/2022-11-24-blackcomb-bottom-12pm.jpg)
+![](assets/images/2022-11-24-UpperVillage-05:22:30.jpg)
+![](assets/images/2022-11-24-UpperVillage-04:37:38.jpg)
