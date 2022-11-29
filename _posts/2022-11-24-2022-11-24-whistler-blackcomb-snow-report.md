@@ -64,3 +64,45 @@ Catskinner (Black run):
 
 Blackcomb mountain bottom at 12pm:
 ![](/assets/images/2022-11-24-blackcomb-bottom-12pm.jpg)
+
+Open lifts:
+
+* PEAK 2 PEAK Gondola
+* Whistler Village Gondola Lower
+* Whistler Village Gondola Upper
+* Garbanzo Express
+* Fitzsimmons Express
+* Emerald 6 Express
+* Franz's Chair
+* Blackcomb Gondola Lower
+* Blackcomb Gondola Upper
+* Excalibur Gondola Lower
+* Excalibur Gondola Upper
+* Excelerator Express
+* Jersey Cream Express
+* Catskinner Express
+
+Open runs in Blackcomb mountain:
+
+* Greenline - Crusier Corner to Mid Zig Zag
+* Greenline - Mid Zig Zag to Excelerator Load
+* Ross' Gold (closed earlier)
+* Springboard - Upper (closed earlier)
+* Zig Zag - Lower (closed earlier)
+* Zig Zag - Upper
+* Easy Out - Upper
+* Easy Out to Catskinner Load
+* Choker Park
+* Wishbone
+
+Open run in Whistler mountain:
+
+* Ego Bowl
+* Whiskey Jack - Lower
+* Whiskey Jack - Upper
+* Family Zone
+* Adult Learning/Supercarpet
+* Expressway - Lower
+* Expressway - Upper
+* It Happens
+* Olympic - Upper
