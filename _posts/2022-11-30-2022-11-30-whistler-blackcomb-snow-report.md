@@ -12,6 +12,8 @@ We were expecting low visibility due to the continuous snow, but surprising not,
 
 Of course it was super busy, but it's still strongly recommended to come.
 
+We brought Go Pro for videos today and [the last time](https://vancouversnowboarding.ca/2022-11-28-whistler-blackcomb-snow-report/), but the battery died immediately after start filming... This time we even brought a pocket warmer, but it did not help at all...
+
 Sea to Sky Highway, the road to Whistler Blackcomb was sketchy this morning:
 ![](/assets/images/2022-11-30-road-to-whistler.jpg)
 
