@@ -3,7 +3,7 @@ layout: post
 title: 2022-11-30 Whistler Blackcomb Tips for early season 2022/2023
 date: 2022-11-30 19:00:10.000000000 +00:00
 tag: Whistler Blackcomb
-image: assets/images/2022-11-30-creekside-shuttle.jpg
+image: assets/images/2022-11-30-feature-2.jpg
 ---
 
 ## Q. Is there a washroom at around [parking lot 6](https://goo.gl/maps/Am71UUxkz4yvkKf59)?
