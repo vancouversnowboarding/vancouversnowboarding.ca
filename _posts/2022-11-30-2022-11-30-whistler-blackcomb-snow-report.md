@@ -13,33 +13,33 @@ We were expecting low visibility due to the continuous snow, but surprising not,
 Of course it was super busy, but it's still strongly recommended to come.
 
 Sea to Sky Highway, the road to Whistler Blackcomb was sketchy this morning:
-![](assets/images/2022-11-30-road-to-whistler.jpg)
+![](/assets/images/2022-11-30-road-to-whistler.jpg)
 
 Creekside village was already snowy. The snow was very sticky down here too:
-![](assets/images/2022-11-30-snowy-creekside.jpg)
+![](/assets/images/2022-11-30-snowy-creekside.jpg)
 
 Creekside shuttle was extremely busy.
-![](assets/images/2022-11-30-creekside-shuttle.jpg)
+![](/assets/images/2022-11-30-creekside-shuttle.jpg)
 
 New Blackcomb Gondola was extremely busy before the opening, and Whistler Village Gondola had even more people.
 
 Deep Powder:
-![](assets/images/2022-11-30-deep-powder.jpg)
+![](/assets/images/2022-11-30-deep-powder.jpg)
 
 Zig Zag:
-![](assets/images/2022-11-30-zig-zag.jpg)
-![](assets/images/2022-11-30-zig-zag-2.jpg)
+![](/assets/images/2022-11-30-zig-zag.jpg)
+![](/assets/images/2022-11-30-zig-zag-2.jpg)
 
 Rendezvous:
-![](assets/images/2022-11-30-rendezvous.jpg)
+![](/assets/images/2022-11-30-rendezvous.jpg)
 
 Easy out:
-![](assets/images/2022-11-30-easy-out.jpg)
-![](assets/images/2022-11-30-easy-out-2.jpg)
-![](assets/images/2022-11-30-feature.jpg)
+![](/assets/images/2022-11-30-easy-out.jpg)
+![](/assets/images/2022-11-30-easy-out-2.jpg)
+![](/assets/images/2022-11-30-feature.jpg)
 
 Countdown (blue run) finally opened today too.
-![](assets/images/2022-11-30-countdown.jpg)
+![](/assets/images/2022-11-30-countdown.jpg)
 
 View from Gondola:
-![](assets/images/2022-11-30-view-from-gondola.jpg)
+![](/assets/images/2022-11-30-view-from-gondola.jpg)
