@@ -31,19 +31,19 @@ And around noon:
 
 Lifts:
 
-* ~Olympic Express High-Speed Quad Chair~ (Coming Soon!)
+* <del>Olympic Express High-Speed Quad Chair</del> (Coming Soon!)
 * Peak Quad Chair
 * Screaming Eagle High-Speed Quad Chair
 * Greenway Quad Chair
 * Magic Carpet
-* ~Handle Tow~ (Coming Soon!)
+* <del>Handle Tow</del> (Coming Soon!)
 
 Parks:
 
 * Paradise Jib Park (Mini Rainbow Box, 16' Flat Box, Open)
-* ~The Cut Jump Line~ (Closed)
+* <del>The Cut Jump Line</del> (Closed)
 * Cut Rookie Park (Down ledge box - M, Quebec down flat - L, Down tower tube - M, DFD Ledgebox - L, Battle Ship box - M, Barrier - M, Jam rail - L, Down 16' box - M, Open)
-* ~Side Cut Park~ (Closed)
+* <del>Side Cut Park</del> (Closed)
 
 Runs:
 
@@ -51,34 +51,34 @@ Runs:
 * Paradise (Green)
 * Ski Wee (Green)
 * The Cut (Green)
-* ~Blue Face (Blue)~ (Closed)
-* ~Centennial (Blue)~ (Closed)
-* ~Deliverance (Blue)~ (Closed)
-* ~Dogleg (Blue)~ (Closed)
-* ~Expo (Blue)~ (Closed)
+* <del>Blue Face (Blue)</del> (Closed)
+* <del>Centennial (Blue)</del> (Closed)
+* <del>Deliverance (Blue)</del> (Closed)
+* <del>Dogleg (Blue)</del> (Closed)
+* <del>Expo (Blue)</del> (Closed)
 * Heaven's Sake (Blue)
-* ~Lower Buckhorn (Blue)~ (Closed)
+* <del>Lower Buckhorn (Blue)</del> (Closed)
 * Lower Peak (Black Diamond)
-* ~Lower Side Cut (Blue)~ (Closed)
-* ~Paper Trail (Blue)~ (Closed)
+* <del>Lower Side Cut (Blue)</del> (Closed)
+* <del>Paper Trail (Blue)</del> (Closed)
 * Peak (Black Diamond)
-* ~Side Cut (Blue)~ (Closed)
-* ~Skyline (Blue)~ (Closed)
-* ~Tyee Chute (Blue)~ (Closed)
-* ~Upper Buckhorn (Blue)~ (Closed)
-* ~Blazes (Black Diamond)~ (Closed)
-* ~Coffin (Black Diamond)~ (Closed)
-* ~Hades (Black Diamond)~ (Closed)
-* ~Inferno (Black Diamond)~ (Closed)
-* ~Outer Limits (Black Diamond)~ (Closed)
-* ~Devil's Advocate (Double Black Diamonds)~ (Closed)
-* ~Purgatory (Double Black Diamonds)~ (Closed)
-* ~Peak Glades (Double Black Diamonds)~ (Closed)
-* ~Grinder Tracks (Blue)~ (Closed)
-* ~Expo Glades (Black Diamond)~ (Closed)
-* ~Coola's Corner (Blue)~ (Closed)
-* ~Chimney (Black Diamond)~ (Closed)
-* ~Upper Blazes (Black Diamond)~ (Closed)
-* ~Mountain Highway (Blue)~ (Closed)
+* <del>Side Cut (Blue)</del> (Closed)
+* <del>Skyline (Blue)</del> (Closed)
+* <del>Tyee Chute (Blue)</del> (Closed)
+* <del>Upper Buckhorn (Blue)</del> (Closed)
+* <del>Blazes (Black Diamond)</del> (Closed)
+* <del>Coffin (Black Diamond)</del> (Closed)
+* <del>Hades (Black Diamond)</del> (Closed)
+* <del>Inferno (Black Diamond)</del> (Closed)
+* <del>Outer Limits (Black Diamond)</del> (Closed)
+* <del>Devil's Advocate (Double Black Diamonds)</del> (Closed)
+* <del>Purgatory (Double Black Diamonds)</del> (Closed)
+* <del>Peak Glades (Double Black Diamonds)</del> (Closed)
+* <del>Grinder Tracks (Blue)</del> (Closed)
+* <del>Expo Glades (Black Diamond)</del> (Closed)
+* <del>Coola's Corner (Blue)</del> (Closed)
+* <del>Chimney (Black Diamond)</del> (Closed)
+* <del>Upper Blazes (Black Diamond)</del> (Closed)
+* <del>Mountain Highway (Blue)</del> (Closed)
 
 
