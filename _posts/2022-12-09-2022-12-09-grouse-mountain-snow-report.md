@@ -63,6 +63,8 @@ Runs:
 * <del>Upper Blazes (Black Diamond)</del> (Closed)
 * <del>Mountain Highway (Blue)</del> (Closed)
 
+^ Note that Olympic Chair opened at 12pm, so as the blue runs at the side such as [Peak](/grouse/peak/) and [Expo](/grouse/expo/) did. Until then the only options were for an intermediate / advanced snowboarder was [The Cut](/grouse/the-cut/).
+
 View from Screaming Eagle in the early morning. The visibility was actually better at the very early morning but it got worse gradually.
 ![](/assets/images/2022-12-09-view-from-screaming-eagle-early.jpg)
 
