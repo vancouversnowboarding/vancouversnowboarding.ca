@@ -28,10 +28,10 @@ Cons
 
 ## Major runs
 
-* [The Cut](/grouse/the-cut/)
-* [Peak](/grouse/peak/)
-* [Paper Trail](/paper-trail/)
-* [Expo](/grouse/expo/)
+* [The Cut](/grouse/the-cut/) (Green)
+* [Peak](/grouse/peak/) (Blue; Black Diamond during early season)
+* [Paper Trail](/paper-trail/) (Blue)
+* [Expo](/grouse/expo/) (Blue)
 
 ## Details
 
@@ -95,3 +95,5 @@ Parks
 In the season 2020/2021, Grouse mountain [opening day was 2020-11-20](https://twitter.com/grousemountain/status/1329919937218043907), and [the last day was 2021-05-02](https://twitter.com/grousemountain/status/1387803233704415238).
 
 In the season 2021/2022, Grouse mountain [opening day was 2021-11-20](https://twitter.com/grousemountain/status/1462143994230497280).
+
+In the season 2022/2023, Grouse mountain [opening day was 2021-11-18](https://twitter.com/grousemountain/status/1593372533826670592).
