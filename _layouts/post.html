@@ -15,20 +15,6 @@ post_class: post-template
             {% include share.html %}
         </div>
 
-        <!-- Post Categories -->
-        <div class="after-post-cats">
-            <ul class="tags col-md-2 pl-0">
-                {% assign sortedCategories = page.categories | sort %}
-                {% for category in sortedCategories %}
-                <li>
-                    <a href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
-                </li>
-                {% endfor %}
-            </ul>
-        </div>
-        <!-- End Categories -->
-
-
         <!-- Post -->
         {% assign author = site.authors[page.author] %}
 
@@ -104,6 +90,19 @@ post_class: post-template
                 </small>
             </p>
 
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    {% assign sortedCategories = page.categories | sort %}
+                    {% for category in sortedCategories %}
+                    <li>
+                        <a href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <!-- End Categories -->
+
             <!-- Post Tags -->
             <div class="after-post-tags">
                 <ul class="tags">
@@ -116,7 +115,6 @@ post_class: post-template
                       <a href="https://github.com/vancouversnowboarding/vancouversnowboarding.ca/blob/master/{{page.path}}">✎</a>
                     </li>
                     {% endfor %}
-                </ul>
                 </ul>
             </div>
             <!-- End Tags -->
