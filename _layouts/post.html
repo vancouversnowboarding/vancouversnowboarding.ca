@@ -14,6 +14,15 @@ post_class: post-template
         <div class="col-md-2 pl-0">
             {% include share.html %}
         </div>
+        <!-- Let's have tags also here -->
+        <ul class="tags col-md-2 pl-0">
+            {% assign sortedTags = page.tags | sort %}
+            {% for tag in sortedTags %}
+            <li>
+                <a href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+            </li>
+            {% endfor %}
+        </ul>
 
         <!-- Post -->
         {% assign author = site.authors[page.author] %}
