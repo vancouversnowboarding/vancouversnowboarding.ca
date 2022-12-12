@@ -51,9 +51,9 @@ Lifts:
 
 Parks:
 
-* Paradise Jib Park (Mini Rainbow Box, 16' Flat Box, Open)
+* Paradise Jib Park (Mini Rainbow Box, 16' Flat Box)
 * <del>The Cut Jump Line</del> (Closed)
-* Cut Rookie Park (Down ledge box - M, Quebec down flat - L, Down tower tube - M, DFD Ledgebox - L, Battle Ship box - M, Barrier - M, Jam rail - L, Down 16' box - M, Open)
+* Cut Rookie Park (Down ledge box - M, Quebec down flat - L, Down tower tube - M, DFD Ledgebox - L, Battle Ship box - M, Barrier - M, Jam rail - L, Down 16' box - M)
 * <del>Side Cut Park</del> (Closed)
 
 Runs:
@@ -62,7 +62,7 @@ Runs:
 * [Paradise](/grouse/paradise/) (Green)
 * [Ski Wee](/magic-carpet/) (Green)
 * [The Cut](/grouse/the-cut/) (Green)
-* Blue Face (Blue) (Open at Mountain Highway, Open)
+* Blue Face (Blue) (Open at Mountain Highway)
 * Centennial (Blue)
 * Deliverance (Blue)
 * [Dogleg](/dogleg/) (Blue)
@@ -71,15 +71,15 @@ Runs:
 * Lower Buckhorn (Blue)
 * Lower Peak (Black Diamond)
 * <del>Lower Side Cut (Blue)</del> (Closed)
-* [Paper Trail](/paper-trail/) (Blue) (to mid station, Open)
+* [Paper Trail](/paper-trail/) (Blue) (to mid station)
 * [Peak](/grouse/peak/) (Black Diamond)
 * <del>Side Cut (Blue)</del> (Closed)
 * Skyline (Blue)
 * Tyee Chute (Blue)
 * Upper Buckhorn (Blue)
-* Blazes (Black Diamond) (Lower Blazes - Open at Mountain Highway, Open)
+* Blazes (Black Diamond) (Lower Blazes - Open at Mountain Highway)
 * <del>Coffin (Black Diamond)</del> (Closed)
-* Hades (Black Diamond) (Lower Hades - Open at Mountain Highway, Open)
+* Hades (Black Diamond) (Lower Hades - Open at Mountain Highway)
 * <del>Inferno (Black Diamond)</del> (Closed)
 * <del>Outer Limits (Black Diamond)</del> (Closed)
 * <del>Devil's Advocate (Double Black Diamonds)</del> (Closed)
