@@ -12,13 +12,13 @@ Overall rate: 2/5 ★★☆☆☆
 
 
 Greenway chair exit and rental building:
-![](assets/images/2022-12-13-greenway-chair-exit-and-rental.jpg)
+![](/assets/images/2022-12-13-greenway-chair-exit-and-rental.jpg)
 
 [The Cut](/grouse/the-cut/)'s side entrance:
-![](assets/images/2022-12-13-the-cut-side-entrance.jpg)
+![](/assets/images/2022-12-13-the-cut-side-entrance.jpg)
 
 [The Cut](/grouse/the-cut/) bottom:
-![](assets/images/2022-12-13-the-cut-bottom.jpg)
+![](/assets/images/2022-12-13-the-cut-bottom.jpg)
 
 [Paper Trail](/paper-trail/) entrance from The Cut was closed early but it opened up later.
 
