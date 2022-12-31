@@ -12,7 +12,7 @@ Runs
 
 * Green
     * Chalet Road
-    * [Paradise](/grouse/paradise/)
+    * [Paradise](/grouse/paradise)
     * [Magic Carpet (Ski Wee)](/magic-carpet/)
     * [The Cut](/grouse/the-cut/) 🆕
 * Blue

@@ -13,7 +13,7 @@ Overall rate: 3/5 ★★★☆☆
 Open runs:
 
 * Chalet Road
-* [Paradise](https://vancouversnowboarding.ca/grouse/paradise/)
+* [Paradise](https://vancouversnowboarding.ca/grouse/paradise)
 * [Ski Wee](https://vancouversnowboarding.ca/magic-carpet/)
 * [The Cut](https://vancouversnowboarding.ca/grouse/the-cut/)
 * Blue Face

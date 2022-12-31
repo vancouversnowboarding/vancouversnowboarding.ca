@@ -27,7 +27,7 @@ Streaming Eagle was getting busier than usual but Olympic Chair was good. [Expo]
 [Peak](https://vancouversnowboarding.ca/grouse/peak/):
 ![2022-03-04](/assets/images/2022-03-04-peak.jpg)
 
-[Paradise](https://vancouversnowboarding.ca/grouse/paradise/):
+[Paradise](https://vancouversnowboarding.ca/grouse/paradise):
 ![2022-03-04](/assets/images/2022-03-04-paradise1.jpg)
 ![2022-03-04](/assets/images/2022-03-04-paradise2.jpg)
 

@@ -12,7 +12,7 @@ Overall rate: 3/5 ★★★☆☆
 
 Closed runs:
 
-* [Paradise](/grouse/paradise/)
+* [Paradise](/grouse/paradise)
 * Ski Wee
 * [Magic Carpet](/magic-carpet/)
 * Lower Blazes

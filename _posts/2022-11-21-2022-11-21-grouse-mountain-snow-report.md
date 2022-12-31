@@ -7,7 +7,7 @@ image: assets/images/2022-11-21-feature.jpg
 ---
 
 Grouse mountain opened for season 2022/2023 on 2022-11-18 1pm, and this is our first snow report of the season on 2022-11-21!
-The only run is [Paradise](/grouse/paradise/) with Paradise Park, and the only chairlift is [Greenway Quad Chair](/grouse/greenway-chair/). The snow was slushy like late season, and that's actually not bad at all.
+The only run is [Paradise](/grouse/paradise) with Paradise Park, and the only chairlift is [Greenway Quad Chair](/grouse/greenway-chair/). The snow was slushy like late season, and that's actually not bad at all.
 It was mostly cloudy but occasionally it showered a little bit, even thought the [weather forecast](https://www.snow-forecast.com/resorts/Grouse-Mountain/6day/mid) published there's 0 precipitation.
 
 <table border=1>
@@ -30,11 +30,11 @@ Overall rate: 2/5 ★★☆☆☆
 
 Open runs:
 
-* [Paradise](/grouse/paradise/)
+* [Paradise](/grouse/paradise)
 
 ---
 
-[Paradise](/grouse/paradise/):
+[Paradise](/grouse/paradise):
 ![](/assets/images/2022-11-21-paradise.jpg)
 
 Paradise Park:

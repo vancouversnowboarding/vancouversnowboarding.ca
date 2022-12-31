@@ -39,7 +39,7 @@ Parks:
 Runs:
 
 * Chalet Road (Green)
-* [Paradise](/grouse/paradise/) (Green)
+* [Paradise](/grouse/paradise) (Green)
 * [Ski Wee](/magic-carpet/) (Green)
 * [The Cut](/grouse/the-cut/) (Green)
 * <del>Blue Face (Blue)</del> (Closed)
