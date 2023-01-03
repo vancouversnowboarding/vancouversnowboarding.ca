@@ -12,6 +12,9 @@ The snow was completely opposite to [yesterday](/2023-01-02-grouse-mountain-snow
 Unfortunately it was still busy even after the holiday season ended. It was probably 5 times more busy than usual, but still 10 times less busy than days until yesterday.
 
 They also changed the operation hours from opening at 8am to opening at 9am, since the holiday season has ended.
+
+Overall rate: 3/5 ★★★☆☆
+
 This is how The Cut looks like at 9am before getting tracked out:
 ![](/assets/images/2023-01-03-the-cut-9am.jpg)
 
@@ -24,9 +27,6 @@ Rookie Park had relocated from the right side of the Cut to the left side of the
 
 The small jump at rookie park was made really good.
 ![](/assets/images/2023-01-03-vlcsnap-2023-01-03-14h47m59s263.jpg)
-
-Overall rate: 3/5 ★★★☆☆
-
 Lifts:
 
 * Olympic Express High-Speed Quad Chair
