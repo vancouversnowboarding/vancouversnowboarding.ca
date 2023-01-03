@@ -4,6 +4,7 @@ title: 2023-01-02 Grouse mountain snow report
 date: 2023-01-02 14:00:10.000000000 +00:00
 tag: Grouse mountain
 image: assets/images/2023-01-02-feature.jpg
+featured: true
 ---
 
 The runs today were made of the following two things: ice and shaved ice. It was very busy, even though there weren't tyee ski club. A lot of runs were closed and the you can find exposures everywhere. The powder-looking snow at the side of runs were rock-hard ice. Don't go snowboarding today.

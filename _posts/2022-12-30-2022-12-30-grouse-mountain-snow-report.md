@@ -4,7 +4,6 @@ title: 2022-12-30 Grouse mountain snow report
 date: 2022-12-30 12:00:10.000000000 +00:00
 tag: Grouse mountain
 image: assets/images/2022-12-30-feature.jpg
-featured: true
 ---
 
 It was the most foggy and wet day. The base was already full of skiers about an hour before opening, and the runs got busy immediately after opening. We got some new snow but you can still see lots of exposures. Not the best day to come.
