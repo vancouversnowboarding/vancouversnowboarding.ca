@@ -13,7 +13,7 @@ Overall rate: 1/5 ★☆☆☆☆
 This was at 7:14am, and the base was already packed by skiers. Didn't see snowboarders almost at all.
 ![](/assets/images/2022-12-30-busy-morning.jpg)
 
-The Cut was the foggest. You can't even see the chair right in front of you. When we were snowboarding the only way to survive was to follow snowmobile tracks. You can't even find metal pillars.
+The Cut was the foggiest. You can't even see the chair right in front of you. When we were snowboarding the only way to survive was to follow snowmobile tracks. You can't even find metal pillars.
 ![](/assets/images/2022-12-30-foggiest-the-cut.jpg)
 
 Screamaing Eagle at 8:25am. It was already busy, and the later the busier it will get.
