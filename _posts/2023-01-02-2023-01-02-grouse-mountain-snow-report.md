@@ -12,7 +12,7 @@ The runs today were made of the following two things: ice and shaved ice. It was
 Overall rate: 0/5 ☆☆☆☆☆
 
 The Cut:
-![](assets/images/2023-01-02-the-cut-busy.jpg)
+![](/assets/images/2023-01-02-the-cut-busy.jpg)
 
 Usually shaved ice is not bad, but the foundation was so icy it didn't help. The shaved ice layer actually made the runs bumpy and heavy, so it was even difficult just to stay up even at the Cut.
 
