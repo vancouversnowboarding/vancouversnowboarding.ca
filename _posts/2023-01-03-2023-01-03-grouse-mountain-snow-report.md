@@ -4,7 +4,6 @@ title: 2023-01-03 Grouse mountain snow report
 date: 2023-01-03 14:00:10.000000000 +00:00
 tag: Grouse mountain
 image: assets/images/2023-01-03-feature.jpg
-featured: true
 ---
 
 The snow was completely opposite to [yesterday](/2023-01-02-grouse-mountain-snow-report); it was powder and runs fast. It was snowing and the snow cannons were also running so you have mixed condition. Unfortunately some area are either lacking the foundation or icy layer underneath the powder, so it was hard to ride anywhere but green runs such as [The Cut](/grouse/the-cut/). Powder on shaved ice is much better than powder on ice or shaved ice on ice. The Cut eventually got tracked out and became mini hades, but you can still grip when you turn.
