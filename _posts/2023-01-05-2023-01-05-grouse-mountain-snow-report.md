@@ -4,7 +4,6 @@ title: 2023-01-05 Grouse mountain snow report
 date: 2023-01-05T12:54:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-01-05-feature.jpg
-featured: true
 ---
 
 They announced to close early at 2pm due to high wind. Besides that today's condition was surprisingly good! The visibility had no trouble at all but actually had infinite visibility. It rained just a little bit occasionally but it was mostly just overcast. The snow at The Cut was stable and soft, like spring snow. Grouse definitely needs more snow to open more runs, but the available run conditions were good. It was also not busy at all.
