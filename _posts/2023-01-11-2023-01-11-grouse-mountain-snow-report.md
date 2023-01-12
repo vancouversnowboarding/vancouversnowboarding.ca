@@ -1,20 +1,32 @@
 ---
 layout: post
-title: 2023-01-06 Grouse mountain snow report
-date: 2023-01-06T12:54:59-08:00
+title: 2023-01-11 Grouse mountain snow report
+date: 2023-01-11T14:54:59-08:00
 tag: Grouse mountain
-image: assets/images/2023-01-06-feature.jpg
+image: assets/images/2023-01-11-feature.jpg
+featured: true
 ---
 
-It was extremely foggy all the time. The snow was very hard. It gradually became relatively softer but not like [yesterday](/2023-01-05-grouse-mountain-snow-report/). It was still windy too. At least it was not busy which was great.
+It was a warm and cloudy day. The snow was soft and unstable, so the terrain got bumpy very quickly. It was not too busy but there were many groups of lessons.
 
-Overall rate: 1/5 ★☆☆☆☆
+There was also a group of people at the Cut park; it was actually a filming event by Subway sandwich. Unfortunately due to the private event The Cut Rookie Park was closed.
 
-Chalet Road:
-![](/assets/images/2023-01-06-chalet-road.jpg)
+Overall rate: 2/5 ★★☆☆☆
 
 The Cut:
-![](/assets/images/2023-01-06-the-cut.jpg)
+![](/assets/images/2023-01-11-the-cut.jpg)
+
+View from Screaming Eagle:
+![](/assets/images/2023-01-11-screaming-eagle.jpg)
+
+Subway sandwich jump:
+![](/assets/images/2023-01-11-subway-jump.jpg)
+
+Subway sandwich crews:
+![](/assets/images/2023-01-11-subway-crews.jpg)
+
+Subway sandwich jump with the view:
+![](/assets/images/2023-01-11-subway-view.jpg)
 
 Lifts:
 
@@ -28,7 +40,8 @@ Lifts:
 Parks:
 
 * Paradise Jib Park (Flat Box, Rainbow Box, Up Down Box, 16" Flat Box)
-* The Cut Jump Line (Volcano - M, Flat Shotgun Rail - M, Jump - M, Rainbow Box - M, Flat Box - M, Cut Park)
+* The Cut Jump Line (Volcano - M, Flat Shotgun Rail - M, Jump - M, Rainbow Box - M, Flat Box - M, Standby)
+    * ^ this was closed too
 * <del>Cut Rookie Park</del> (Closed)
 * Side Cut Park (U Rail - L, Down Tower Tube - L, Down Rail (Mini Salmon Arms) - L, Flat Tubby Tube - L, Mini Spine Wallride - L, Flat Tower Tube - L, Down Barrier - L, XL Down Tubby Tube - L, DFD Rail (Long Flat) - L, Rain Bow - L, Gate Rail - L, Down Tower Tube - L)
 
@@ -39,8 +52,8 @@ Runs:
 * [Ski Wee](/magic-carpet/) (Green)
 * [The Cut](/grouse/the-cut/) (Green)
 * <del>Blue Face (Blue)</del> (Closed)
-* <del>Centennial (Blue)</del> (Closed)
-* <del>Deliverance (Blue)</del> (Closed)
+* Centennial (Blue)
+* Deliverance (Blue)
 * <del>[Dogleg](/dogleg/) (Blue)</del> (Closed)
 * [Expo](/grouse/expo/) (Blue)
 * [Heaven's Sake](/heavens-sake/) (Blue)
@@ -66,7 +79,7 @@ Runs:
 * <del>Coola's Corner (Blue)</del> (Closed)
 * <del>Chimney (Black Diamond)</del> (Closed)
 * <del>Upper Blazes (Black Diamond)</del> (Closed)
-* <del>Mountain Highway (Blue)</del> (Closed)
+* <del>[Mountain Highway](/grouse/mountain-highway/) (Blue)</del> (Closed)
 
-Iekei ramen in downtown as Apres Snowboard:
-![](/assets/images/2023-01-06-iekei-ramen.jpg)
+Parking payment machine:
+![](/assets/images/2023-01-11-parking-pay-here.jpg)
