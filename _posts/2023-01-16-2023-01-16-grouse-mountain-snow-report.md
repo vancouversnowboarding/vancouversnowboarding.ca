@@ -1,46 +1,37 @@
 ---
 layout: post
-title: 2023-01-11 Grouse mountain snow report
-date: 2023-01-11T14:54:59-08:00
+title: 2023-01-16 Grouse mountain snow report
+date: 2023-01-16T13:20:00-08:00
 tag: Grouse mountain
-image: assets/images/2023-01-11-feature.jpg
+image: assets/images/2023-01-16-feature.jpg
+featured: true
 ---
 
-It was a warm and cloudy day. The snow was soft and unstable, so the terrain got bumpy very quickly. It was not too busy but there were many groups of lessons.
-
-There was also a group of people at the Cut park; it was actually a filming event by Subway sandwich. Unfortunately due to the private event The Cut Rookie Park was closed.
+It was great to see the new fresh snow after a long terribly warm heavy rain weekend. 25cm of wet snow was covering the dirt which made great creamy powder in the early morning. Unfortunately Olympic chair was closed, peak chair and screaming eagle were delayed to open, but when they got open the snow was amazing for the short moment. The visibility was bad but not impossible to see the things.
 
 Overall rate: 2/5 ★★☆☆☆
 
 The Cut:
-![](/assets/images/2023-01-11-the-cut.jpg)
-
-View from Screaming Eagle:
-![](/assets/images/2023-01-11-screaming-eagle.jpg)
-
-Subway sandwich jump:
-![](/assets/images/2023-01-11-subway-jump.jpg)
-
-Subway sandwich crews:
-![](/assets/images/2023-01-11-subway-crews.jpg)
-
-Subway sandwich jump with the view:
-![](/assets/images/2023-01-11-subway-view.jpg)
+![](/assets/images/2023-01-16-the-cut.jpg)
+![](/assets/images/2023-01-16-the-cut-2.jpg)
 
 Lifts:
 
-* Olympic Express High-Speed Quad Chair
-* <del>Peak Quad Chair</del> (Closed)
+* <del>Olympic Express High-Speed Quad Chair</del> (Closed)
+* Peak Quad Chair
+    * Delayed opening
 * Screaming Eagle High-Speed Quad Chair
+    * Delayed opening
 * Greenway Quad Chair
 * Magic Carpet
-* Short Cut Handle Tow
+* Short Cut Handle Tow (Scheduled to Open)
 
 Parks:
 
 * Paradise Jib Park (Flat Box, Rainbow Box, Up Down Box, 16" Flat Box)
-* The Cut Jump Line (Volcano - M, Flat Shotgun Rail - M, Jump - M, Rainbow Box - M, Flat Box - M, Standby)
-    * ^ this was closed too
+    * Buried under the snow
+* The Cut Jump Line (Volcano - M, Flat Shotgun Rail - M, Jump - M, Rainbow Box - M, Flat Box - M)
+    * Mostly buried under the snow
 * <del>Cut Rookie Park</del> (Closed)
 * Side Cut Park (U Rail - L, Down Tower Tube - L, Down Rail (Mini Salmon Arms) - L, Flat Tubby Tube - L, Mini Spine Wallride - L, Flat Tower Tube - L, Down Barrier - L, XL Down Tubby Tube - L, DFD Rail (Long Flat) - L, Rain Bow - L, Gate Rail - L, Down Tower Tube - L)
 
@@ -51,10 +42,10 @@ Runs:
 * [Ski Wee](/magic-carpet/) (Green)
 * [The Cut](/grouse/the-cut/) (Green)
 * <del>Blue Face (Blue)</del> (Closed)
-* Centennial (Blue)
-* Deliverance (Blue)
+* <del>Centennial (Blue)</del> (Closed)
+* <del>Deliverance (Blue)</del> (Closed)
 * <del>[Dogleg](/dogleg/) (Blue)</del> (Closed)
-* [Expo](/grouse/expo/) (Blue)
+* <del>[Expo](/grouse/expo/) (Blue)</del> (Closed)
 * [Heaven's Sake](/heavens-sake/) (Blue)
 * <del>Lower Buckhorn (Blue)</del> (Closed)
 * Lower Peak (Black Diamond)
@@ -80,5 +71,4 @@ Runs:
 * <del>Upper Blazes (Black Diamond)</del> (Closed)
 * <del>[Mountain Highway](/grouse/mountain-highway/) (Blue)</del> (Closed)
 
-Parking payment machine:
-![](/assets/images/2023-01-11-parking-pay-here.jpg)
+
