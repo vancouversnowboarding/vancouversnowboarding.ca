@@ -4,7 +4,6 @@ title: 2023-01-16 Grouse mountain snow report
 date: 2023-01-16T13:20:00-08:00
 tag: Grouse mountain
 image: assets/images/2023-01-16-feature.jpg
-featured: true
 ---
 
 It was great to see the new fresh snow after a long terribly warm heavy rain weekend. 25cm of wet snow was covering the dirt which made great creamy powder in the early morning. Unfortunately Olympic chair was closed, peak chair and screaming eagle were delayed to open, but when they got open the snow was amazing for the short moment. The visibility was bad but not impossible to see the things.
