@@ -4,7 +4,6 @@ title: 2023-01-19 Grouse mountain snow report
 date: 2023-01-19 15:00:10.000000000 +00:00
 tag: Grouse mountain
 image: assets/images/2023-01-19-feature.jpg
-featured: true
 ---
 
 Thanks to the continuous new snow, more runs were open. It was also not foggy today. Many areas were icy but mellow groomed runs were fine, such as [The Cut](/grouse/the-cut/) and [Heaven's Sake](/heavens-sake/). [Expo](/grouse/expo/) had a lot of death cookies and [Mountain Highway](/grouse/mountain-highway/) was closed, so the Olympic chair side was not great. Unfortunately Screaming Eagle stopped very frequently and sometimes stopped for a long time. It wasn't too busy to it did not make the line too long though.
