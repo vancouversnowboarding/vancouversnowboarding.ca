@@ -52,6 +52,7 @@ Runs:
 * [Peak](/grouse/peak/) (Black Diamond)
 * Side Cut (Blue)
 * Skyline (Blue)
+    * New! This was not open earlier
 * Tyee Chute (Blue)
 * Upper Buckhorn (Blue)
 * <del>Blazes (Black Diamond)</del> (Closed)
@@ -68,5 +69,6 @@ Runs:
 * <del>Chimney (Black Diamond)</del> (Closed)
 * Upper Blazes (Black Diamond)
 * [Mountain Highway](/grouse/mountain-highway/) (Blue)
+    * New! This was not open earlier
 
 
