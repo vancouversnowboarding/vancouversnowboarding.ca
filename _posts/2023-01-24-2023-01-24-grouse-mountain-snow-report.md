@@ -4,7 +4,6 @@ title: 2023-01-24 Grouse mountain snow report
 date: 2023-01-24T13:04:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-01-24-feature.jpg
-featured: true
 ---
 
 It was foggy, and the snow was harder than yesterday. Unfortunately the temperature was around zero, so the little bit snow was very wet and sticky to the goggles. The visibility was very bad anywhere.
