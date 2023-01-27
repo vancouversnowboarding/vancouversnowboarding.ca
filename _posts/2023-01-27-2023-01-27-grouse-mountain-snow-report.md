@@ -9,7 +9,7 @@ featured: true
 
 It was sunny and hard-packed icy day with some soft snow melt under the sun. Unfortunately cloud came to cover the lower half of the mountain later. It was busy too.
 
-Overall rate: 3/5 ★★★★☆
+Overall rate: 3/5 ★★★☆☆
 
 The Cut in the early morning was gorgeous, but the snow was strongly hard-packed.
 ![](/assets/images/2023-01-27-the-cut-early-morning-hard-packed.jpg)
