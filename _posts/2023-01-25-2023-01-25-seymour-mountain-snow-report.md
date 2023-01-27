@@ -4,7 +4,6 @@ title: 2023-01-25 Seymour mountain snow report
 date: 2023-01-25T15:04:59-08:00
 tag: Seymour mountain
 image: assets/images/2023-01-25-feature.jpg
-featured: true
 ---
 
 It was very foggy at the top, and the snow was partially hard packed.
