@@ -4,7 +4,6 @@ title: 2023-01-27 Grouse mountain snow report
 date: 2023-01-27T14:04:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-01-27-feature.jpg
-featured: true
 ---
 
 It was sunny and hard-packed icy day with some soft snow melt under the sun. Unfortunately cloud came to cover the lower half of the mountain later. It was busy too.
