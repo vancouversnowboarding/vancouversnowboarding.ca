@@ -4,7 +4,6 @@ title: 2023-01-30 Grouse mountain snow report
 date: 2023-01-30T14:04:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-01-30-feature.jpg
-featured: true
 ---
 
 It was clear sunny cold day, and the snow was nice only at the groomed run and when it's not shaved out yet. Unfortunately the areas that got groomed were very limited, it was slippery and risky to ride fast today even with the high visibility. Also some cloud came to cover the mountain in the afternoon which introduced flat light.
