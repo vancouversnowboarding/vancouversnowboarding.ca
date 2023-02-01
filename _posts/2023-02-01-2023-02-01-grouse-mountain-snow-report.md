@@ -1,33 +1,30 @@
 ---
 layout: post
-title: 2023-01-31 Grouse mountain snow report
-date: 2023-01-31T14:04:59-08:00
+title: 2023-02-01 Grouse mountain snow report
+date: 2023-02-01T14:04:59-08:00
 tag: Grouse mountain
-image: assets/images/2023-01-31-feature.jpg
+image: assets/images/2023-02-01-feature.jpg
+featured: true
 ---
 
-It's between snowing and misting, somewhat foggy but not really. There was 0.2cm of snow on grooming which made runs great in the early morning, but ungroomed runs were still icy at many spots and even groomed runs started getting icy gradually at late morning. It was not busy at all which was great.
+Grouse got 8cm of overnight snow! It is a nice mini powder day today. The visibility was mostly fine except for the lower part of Heaven's Sake. It wasn't busy too.
 
-Snow cannons have been up running, and the freshly made artificial snow today was actually good.
+Overall rate: 5/5 ★★★★★
 
-Due to snow in the city, the traffic was pretty bad. Some buses left before schedule and the others were delayed. Buses were crazy full too.
+The snow line was very low.
+![](/assets/images/2023-02-01-low-snow-line-lions-gate-bridge.jpg)
 
-Overall rate: 3/5 ★★★☆☆
 
-The Cut:
-![](/assets/images/2023-01-31-the-cut.jpg)
+The Cut at the very low section:
+![](/assets/images/2023-02-01-the-cut-low.jpg)
 
-The Cut condition was mostly great.
+The Cut towards Screaming Eagle chair:
+![](/assets/images/2023-02-01-the-cut-low-2.jpg)
 
-Peak:
-![](/assets/images/2023-01-31-peak.jpg)
+Blue Face:
+![](/assets/images/2023-02-01-blue-face.jpg)
 
-It did not seem to be well groomed, so it was mogul.
-
-Hades:
-![](/assets/images/2023-01-31-hades.jpg)
-
-Expo was much better than usual; it was not icy nor mogul. Blazes was not great.
+The bottom was still icy, and the top was fluffy.
 
 Lifts:
 
@@ -73,7 +70,7 @@ Runs:
 * <del>Inferno (Black Diamond)</del>
 * <del>Outer Limits (Black Diamond)</del>
 * Devil's Advocate (Double Black Diamonds) (Upper)
-* Purgatory (Double Black Diamonds) (Lower)
+* Purgatory (Double Black Diamonds)
 * <del>Peak Glades (Double Black Diamonds)</del>
 * Grinder Tracks (Blue)
 * <del>Expo Glades (Black Diamond)</del>
