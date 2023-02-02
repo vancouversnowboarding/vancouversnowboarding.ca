@@ -1,29 +1,27 @@
 ---
 layout: post
-title: 2023-02-01 Grouse mountain snow report
-date: 2023-02-01T14:04:59-08:00
+title: 2023-02-02 Grouse mountain snow report
+date: 2023-02-02T14:04:59-08:00
 tag: Grouse mountain
-image: assets/images/2023-02-01-feature.jpg
+image: assets/images/2023-02-02-feature.jpg
+featured: true
 ---
 
-Grouse got 8cm of overnight snow! It is a nice mini powder day today. The visibility was mostly fine except for the lower part of Heaven's Sake. It wasn't busy too.
+The grooming today was surprising. The Cut was fully groomed, and many runs that usually do not get groomed actually got groomed today, such as Upper Purgatory, Lower Blazes, and Upper Buckhorn. Totally opposite to [this Monday](/2023-01-30-grouse-mountain-snow-report/).
 
-Overall rate: 5/5 ★★★★★
+Besides the grooming the snow was semi-hard packed. They also seemed to have an issue with their wifi; no wifi available both at the base and the chalet area. Skyride got delayed too. On the other hand the visibility was pretty good.
 
-The snow line was very low.
-![](/assets/images/2023-02-01-low-snow-line-lions-gate-bridge.jpg)
+Overall rate: 3/5 ★★★☆☆
 
+Upper Purgatory which usually get never groomed:
+![](/assets/images/2023-02-02-upper-purgatory-groomed.jpg)
 
-The Cut at the very low section:
-![](/assets/images/2023-02-01-the-cut-low.jpg)
+Lower Blazes finally got its first grooming of the season. Last year it did not get groomed at all.
+![](/assets/images/2023-02-02-lower-blazes.jpg)
+![](/assets/images/2023-02-02-lower-blazes-2.jpg)
 
-The Cut towards Screaming Eagle chair:
-![](/assets/images/2023-02-01-the-cut-low-2.jpg)
-
-Blue Face:
-![](/assets/images/2023-02-01-blue-face.jpg)
-
-The bottom was still icy, and the top was fluffy.
+Lower section of Paper Trail is still closed but they started working on it.
+![](/assets/images/2023-02-02-closed-paper-trail.jpg)
 
 Lifts:
 
@@ -38,7 +36,7 @@ Parks:
 
 * Cut Park (Flat Tube, Mini Flat Box, Down Tube, Rainbow Box, Flat Down box, Jump)
 * Paradise Jib Park (16' Flat Box, Up Down Box)
-* <del>The Cut Jump Line</del> (Jump - L)
+* The Cut Jump Line (Jump - L)
 * <del>Cut Rookie Park</del>
 * Side Cut Park (Flat Rail (Salmon Arms), Down Tower Tube, Down Rail (DWD), Tower Tube on Bank, Flat Ledge Box, Flat Down Bar, DFD (Tubby Tube), Down Tower Tube, Barrier, 32' Down Rail (Sandbox), Down Ledge Box, Waterfall Rail - Down, Down Flat, Pole Jam, Jump, Skate Bank, Diesel Tank Stall, Flat Down (tubby tube), Wallride, Mini Spine Wallride)
 
