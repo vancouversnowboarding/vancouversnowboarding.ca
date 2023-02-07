@@ -4,7 +4,6 @@ title: 2023-02-02 Grouse mountain snow report
 date: 2023-02-02T14:04:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-02-02-feature.jpg
-featured: true
 ---
 
 The grooming today was surprising. The Cut was fully groomed, and many runs that usually do not get groomed actually got groomed today, such as Upper Purgatory, Lower Blazes, and Upper Buckhorn. Totally opposite to [this Monday](/2023-01-30-grouse-mountain-snow-report/).
