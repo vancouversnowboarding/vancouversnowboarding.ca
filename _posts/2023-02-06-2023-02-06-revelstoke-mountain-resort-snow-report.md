@@ -4,7 +4,6 @@ title: 2023-02-06 Revelstoke Mountain Resort snow report
 date: 2023-02-06T17:04:59-08:00
 tag: Revelstoke Mountain Resort
 image: assets/images/2023-02-06-feature.jpg
-featured: true
 ---
 
 Now we are at Revelstoke Mountain Resort for vancouversnowboarding's annual report and run details!
