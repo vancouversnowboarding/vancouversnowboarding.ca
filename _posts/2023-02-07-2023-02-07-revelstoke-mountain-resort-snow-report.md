@@ -45,7 +45,7 @@ McKenzie Outpost's basic bacon burger ($11.99):
 Lemming Line Hiking trail:
 ![](/assets/images/2023-02-07-lemming-line-hiking.jpg)
 
-Revelstoke Mountain Resort official map is missing one of the most important and the most busy trail Lemming Line which is really bad. The map is also strongly crooked due to the terrain and scale, so as a visitor make sure you do not trust the official map too much, but also check google mas and fatmap.
+Revelstoke Mountain Resort official map is missing one of the most important and the most busy trail Lemming Line which is really bad. The map is also strongly crooked due to the terrain and scale, so as a visitor make sure you do not trust the official map too much, but also check google maps and fatmap.
 
 Sweet Spot:
 ![](/assets/images/2023-02-07-sweet-spot.jpg)
