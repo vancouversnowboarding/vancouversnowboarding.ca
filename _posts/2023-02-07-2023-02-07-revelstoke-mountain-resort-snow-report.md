@@ -4,7 +4,6 @@ title: 2023-02-07 Revelstoke Mountain Resort snow report
 date: 2023-02-08T14:04:59-08:00
 tag: Revelstoke Mountain Resort
 image: assets/images/2023-02-07-feature.jpg
-featured: true
 ---
 
 Revelstoke got 6cm of new snow overnight, and the temperature was slightly higher than [yesterday](/2023-02-06-revelstoke-mountain-resort-snow-report/). Visibility was great except for the top of the Stoke chair.
