@@ -17,6 +17,11 @@ Groomed runs were much better today, except for ridges.
 
 Overall rate: 2/5 ★★☆☆☆
 
+"Milly Goat Traverse" towards "Sluiceway":
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Z-VzbPLEIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Sluiceway:
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">🎢 🏂 <a href="https://t.co/alSWMeVKkw">pic.twitter.com/alSWMeVKkw</a></p>&mdash; 💽💽 Katie Ujihisa 💽💽 (@sandkatt) <a href="https://twitter.com/sandkatt/status/1624200527100919815?ref_src=twsrc%5Etfw">February 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Snow report:
 ![](/assets/images/2023-02-10-Screenshot_2023-02-10_17-12-11.png)
