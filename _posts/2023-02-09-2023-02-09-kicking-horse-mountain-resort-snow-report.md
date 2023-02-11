@@ -4,7 +4,6 @@ title: 2023-02-09 Kicking Horse Mountain Resort snow report
 date: 2023-02-09T18:04:59-07:00
 tag: Kicking Horse Mountain Resort
 image: assets/images/2023-02-09-feature.jpg
-featured: true
 ---
 
 This is our first Kicking Horse Mountain Resort snow report!
