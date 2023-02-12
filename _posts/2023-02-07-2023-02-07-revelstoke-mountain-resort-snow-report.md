@@ -38,6 +38,9 @@ Vertigo Ridge entrance:
 Vertigo Ridge after traversing from the Stoke chair:
 ![](/assets/images/2023-02-07-vertigo-ridge-after-traverse.jpg)
 
+Meet the Neighbours:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/woc7fUHAnKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 McKenzie Outpost's basic bacon burger ($11.99):
 ![](/assets/images/2023-02-07-mckenzie-outpost-basic-burger-bacon.jpg)
 
