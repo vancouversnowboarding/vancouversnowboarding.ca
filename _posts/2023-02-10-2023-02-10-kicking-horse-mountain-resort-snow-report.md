@@ -4,7 +4,6 @@ title: 2023-02-10 Kicking Horse Mountain Resort snow report
 date: 2023-02-10T17:04:00-07:00
 tag: Kicking Horse Mountain Resort
 image: assets/images/2023-02-10-feature.jpg
-featured: true
 ---
 
 According to [Kicking Horse Mountain Resort official snow report](https://kickinghorseresort.com/conditions/snow-report/) they did not get any new snow, but according to snow-forecast.com they got couple millimeter of overnight snow. Also it was supposed to be snowy and cloudy today, it was actually hot and sunny.  Unfortunately the total amount of snow was still not enough, so a lot of runs were still hazardous.
