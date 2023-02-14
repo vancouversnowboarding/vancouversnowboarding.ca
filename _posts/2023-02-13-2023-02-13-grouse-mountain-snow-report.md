@@ -4,7 +4,6 @@ title: 2023-02-13 Grouse mountain snow report
 date: 2023-02-13T13:24:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-02-13-feature.jpg
-featured: true
 ---
 
 It's sunny on top half of the mountain, and foggy or cloudy in the lower half of the mountain. The snow looked nice soft powdery but it was very thin layer of fresh heavy powder on hard-packed snow. Do not trust the snow too much. According to <https://www.grousemountain.com/current_conditions#weather> they got 4cm of overnight snow, but felt like below, probably due to the temperature.
