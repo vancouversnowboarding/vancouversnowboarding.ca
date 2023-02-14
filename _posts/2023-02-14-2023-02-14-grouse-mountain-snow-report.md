@@ -32,7 +32,8 @@ The 2nd jump was pretty close to the landing of the 1st jump, so you can't reall
 
 ^ Sorry the jump in this video wasn't very good, but it was what I could get with holding GoPro :)
 
-
+Upper Purgatory and Blazes:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pedU-niisT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 Lifts:
