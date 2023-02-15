@@ -4,7 +4,6 @@ title: 2023-02-14 Grouse mountain snow report
 date: 2023-02-14T13:24:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-02-14-feature.jpg
-featured: true
 ---
 
 It's clear sunny with some fog, and the snow is semi-hard packed. The grooming was very good. It wasn't very busy at all too.

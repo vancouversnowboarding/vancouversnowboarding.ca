@@ -6,7 +6,7 @@ tag: Seymour mountain
 image: assets/images/2022-01-26-seymour-mountain-snow-report.jpg
 ---
 
-Unlike [the last visit](https://vancouversnowboarding.ca/2022-01-26-seymour-mountain-snow-report/), today's Seymour was sunny, hot, and icy day. The city was still foggy as [yesterday's Grouse](https://vancouversnowboarding.ca/2022-01-25-grouse-mountain-snow-report/) described. You need to wear snowboard jacket in the city and T-shirt on the mountains.
+Unlike [the last visit](https://vancouversnowboarding.ca/2022-01-26-seymour-mountain-snow-report/), today's Seymour was sunny, hot, and icy day. The city was still foggy as [yesterday's Grouse](/2022-01-25-grouse-mountain-snow-report/) described. You need to wear snowboard jacket in the city and T-shirt on the mountains.
 
 Unfortunately Mystery Chair stopped, often that made lift wait long occasionally, but all the chairs were mostly not busy even in the afternoon. However lifts were pretty loud with music or radio advertisements.
 
