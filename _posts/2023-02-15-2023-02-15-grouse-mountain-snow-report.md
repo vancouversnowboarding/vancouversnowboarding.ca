@@ -11,8 +11,14 @@ It was very foggy, and the snow was hard-packed with fresh articifial snow on to
 
 Overall rate: 3/5 ★★★☆☆
 
+The Cut:
 ![](/assets/images/2023-02-15-vlcsnap-2023-02-15-13h44m14s962.jpg)
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">🏂 🧈 🧈 <a href="https://t.co/0pSHJGigEG">pic.twitter.com/0pSHJGigEG</a></p>&mdash; 💽💽 Katie Ujihisa 💽💽 (@sandkatt) <a href="https://twitter.com/sandkatt/status/1625942258016198656?ref_src=twsrc%5Etfw">February 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Upper Buckhorn & Skyline:
 ![](/assets/images/2023-02-15-vlcsnap-2023-02-15-13h45m24s854.jpg)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Practised some quick edge flips for ankle flexibility. Tried not to skid but went out still skidding a bit. <a href="https://t.co/zqgv2V9jdw">pic.twitter.com/zqgv2V9jdw</a></p>&mdash; ujm　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🍣 (@ujm) <a href="https://twitter.com/ujm/status/1625978346453762049?ref_src=twsrc%5Etfw">February 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Lifts:
 
