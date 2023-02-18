@@ -7,7 +7,7 @@ image: assets/images/2023-02-15-feature.jpg
 featured: true
 ---
 
-It was very foggy, and the snow was hard-packed with fresh articifial snow on top. Wide open runs such as The Cut weren't very good due to the combination. However the new small jumps introduced [yesterday](/2023-02-14-grouse-mountain-snow-report/) and Upper Buckhorn were great. It was not busy at all too.
+It was very foggy, and the snow was hard-packed with fresh articifial snow on top. Wide open runs such as [The Cut](/grouse/the-cut/) weren't very good due to the combination. However the new small jumps introduced [yesterday](/2023-02-14-grouse-mountain-snow-report/) and Upper Buckhorn were great. It was not busy at all too.
 
 Overall rate: 3/5 ★★★☆☆
 
