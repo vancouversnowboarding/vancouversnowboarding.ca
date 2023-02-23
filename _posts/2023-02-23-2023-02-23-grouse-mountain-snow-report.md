@@ -1,39 +1,28 @@
 ---
 layout: post
-title: 2023-02-22 Grouse mountain snow report
-date: 2023-02-22T13:24:59-08:00
+title: 2023-02-23 Grouse mountain snow report
+date: 2023-02-23T13:24:59-08:00
 tag: Grouse mountain
-image: assets/images/2023-02-22-feature.jpg
+image: assets/images/2023-02-23-feature.jpg
+featured: true
 ---
 
--7C with high overcast skies. It was pretty busy, but not too bad, and the snow was mostly soft.
-
-Coffin opened for the first time of the season!
+The snow was harder than yesterday, and it was busier than yesterday, but the sunlight and nice grooming made today great. Ungroomed runs weren't necessarily great but groomed runs were really great today.
 
 Overall rate: 5/5 ★★★★★
 
+The Cut condition was great.
+![](/assets/images/2023-02-23-vlcsnap-2023-02-23-15h51m40s211.png)
 
-The Cut:
-![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m35s972.jpg)
-![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h23m17s073.jpg)
+Peak condition was great too. Nicely groomed with sun light.
+![](/assets/images/2023-02-23-vlcsnap-2023-02-23-15h54m10s753.png)
 
-Paper Cut:
-![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m50s219.jpg)
-![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h23m03s615.jpg)
+Coffin was closed again.
+![](/assets/images/2023-02-23-vlcsnap-2023-02-23-15h54m26s153.png)
 
-Peak:
-![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h23m55s590.jpg)
+Upper Blazes was good, but Lower Blazes had some unbreakable death cookies:
 
-Heaven's Sake:
-![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h21m39s225.jpg)
-![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h21m56s607.jpg)
-![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m01s943.jpg)
-
-Deliverance:
-![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m17s008.jpg)
-
-Expo:
-![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h24m19s741.jpg)
+![](/assets/images/2023-02-23-vlcsnap-2023-02-23-15h54m53s574.png)
 
 Lifts:
 
@@ -74,7 +63,7 @@ Runs:
 * Tyee Chute (Blue)
 * Upper Buckhorn (Blue)
 * Blazes (Black Diamond)
-* Coffin (Black Diamond)
+* <del>Coffin (Black Diamond)</del>
 * Hades (Black Diamond)
 * Inferno (Black Diamond)
 * Outer Limits (Black Diamond)
@@ -88,5 +77,3 @@ Runs:
 * Upper Blazes (Black Diamond)
 * [Mountain Highway](/grouse/mountain-highway/) (Blue)
 * No Man's Land (Black Diamond)
-
-
