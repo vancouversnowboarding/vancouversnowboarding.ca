@@ -7,21 +7,32 @@ image: assets/images/2023-02-22-feature.jpg
 featured: true
 ---
 
--7C with high overcast skies.
+-7C with high overcast skies. It was pretty busy, but not too bad, and the snow was mostly soft.
 
 Overall rate: 5/5 ★★★★★
 
 
-![](assets/images/2023-02-22-vlcsnap-2023-02-22-20h21m39s225.jpg)
-![](assets/images/2023-02-22-vlcsnap-2023-02-22-20h21m56s607.jpg)
-![](assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m01s943.jpg)
-![](assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m17s008.jpg)
-![](assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m35s972.jpg)
-![](assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m50s219.jpg)
-![](assets/images/2023-02-22-vlcsnap-2023-02-22-20h23m03s615.jpg)
-![](assets/images/2023-02-22-vlcsnap-2023-02-22-20h23m17s073.jpg)
-![](assets/images/2023-02-22-vlcsnap-2023-02-22-20h23m55s590.jpg)
-![](assets/images/2023-02-22-vlcsnap-2023-02-22-20h24m19s741.jpg)
+The Cut:
+![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m35s972.jpg)
+![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h23m17s073.jpg)
+
+Paper Cut:
+![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m50s219.jpg)
+![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h23m03s615.jpg)
+
+Peak:
+![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h23m55s590.jpg)
+
+Heaven's Sake:
+![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h21m39s225.jpg)
+![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h21m56s607.jpg)
+![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m01s943.jpg)
+
+Deliverance:
+![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h22m17s008.jpg)
+
+Expo:
+![](/assets/images/2023-02-22-vlcsnap-2023-02-22-20h24m19s741.jpg)
 
 Lifts:
 
