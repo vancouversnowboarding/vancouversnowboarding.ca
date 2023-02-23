@@ -9,6 +9,8 @@ featured: true
 
 -7C with high overcast skies. It was pretty busy, but not too bad, and the snow was mostly soft.
 
+Coffin opened for the first time of the season!
+
 Overall rate: 5/5 ★★★★★
 
 
