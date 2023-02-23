@@ -4,7 +4,6 @@ title: 2023-02-15 Grouse mountain snow report
 date: 2023-02-15T13:24:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-02-15-feature.jpg
-featured: true
 ---
 
 It was very foggy, and the snow was hard-packed with fresh articifial snow on top. Wide open runs such as [The Cut](/grouse/the-cut/) weren't very good due to the combination. However the new small jumps introduced [yesterday](/2023-02-14-grouse-mountain-snow-report/) and Upper Buckhorn were great. It was not busy at all too.
