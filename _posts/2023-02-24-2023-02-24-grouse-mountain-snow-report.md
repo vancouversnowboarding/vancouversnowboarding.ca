@@ -1,27 +1,23 @@
 ---
 layout: post
-title: 2023-02-23 Grouse mountain snow report
-date: 2023-02-23T13:24:59-08:00
+title: 2023-02-24 Grouse mountain snow report
+date: 2023-02-24T13:24:59-08:00
 tag: Grouse mountain
-image: assets/images/2023-02-23-feature.jpg
+image: assets/images/2023-02-24-feature.jpg
+featured: true
 ---
 
-The snow was harder than yesterday, and it was busier than yesterday, but the sunlight and nice grooming made today great. Ungroomed runs weren't necessarily great but groomed runs were really great today.
+The snow was icier than yesterday, and it was way busier than yesterday. It was colder but having no wind and strong sun light keep us nice warm but not too hot.
 
-Overall rate: 5/5 ★★★★★
+Overall rate: 4/5 ★★★★☆
 
 The Cut condition was great.
-![](/assets/images/2023-02-23-vlcsnap-2023-02-23-15h51m40s211.png)
+![](/assets/images/2023-02-24-vlcsnap-2023-02-24-15h48m01s217.png)
 
-Peak condition was great too. Nicely groomed with sun light.
-![](/assets/images/2023-02-23-vlcsnap-2023-02-23-15h54m10s753.png)
+The Cut:
+![](/assets/images/2023-02-24-vlcsnap-2023-02-24-15h49m54s490.png)
 
-Coffin was closed again.
-![](/assets/images/2023-02-23-vlcsnap-2023-02-23-15h54m26s153.png)
-
-Upper Blazes was good, but Lower Blazes had some unbreakable death cookies:
-
-![](/assets/images/2023-02-23-vlcsnap-2023-02-23-15h54m53s574.png)
+There was a racing event happening at Expo at the very left side of the run.
 
 Lifts:
 
