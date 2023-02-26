@@ -3,7 +3,7 @@ layout: post
 title: 2023-02-24 Grouse mountain snow report
 date: 2023-02-24T13:24:59-08:00
 tag: Grouse mountain
-image: assets/images/2023-02-24-feature.jpg
+image: assets/images/2023-02-24-feature.png
 featured: true
 ---
 

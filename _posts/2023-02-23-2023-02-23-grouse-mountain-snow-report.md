@@ -3,7 +3,7 @@ layout: post
 title: 2023-02-23 Grouse mountain snow report
 date: 2023-02-23T13:24:59-08:00
 tag: Grouse mountain
-image: assets/images/2023-02-23-feature.png
+image: assets/images/2023-02-23-feature.jpg
 ---
 
 The snow was harder than yesterday, and it was busier than yesterday, but the sunlight and nice grooming made today great. Ungroomed runs weren't necessarily great but groomed runs were really great today.
