@@ -4,7 +4,6 @@ title: 2023-02-27 Seymour mountain snow report
 date: 2023-02-27T19:04:59-08:00
 tag: Seymour mountain
 image: assets/images/2023-02-27-feature.jpg
-featured: true
 ---
 
 It was busy, but the snow was very nice, and the visibility was great for the most of the day.
