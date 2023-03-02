@@ -4,7 +4,6 @@ title: 2023-03-01 Grouse mountain snow report
 date: 2023-03-01T13:24:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-03-01-feature.jpg
-featured: true
 ---
 
 It was a day-old powder, and foggy day. The snow was mix of good and bad, but if you choose the right runs it was almost always great.
