@@ -6,7 +6,6 @@ tag: Grouse mountain
 image: assets/images/2023-03-02-feature.jpg
 featured: true
 ---
-
 We got 13cm of fresh snow, but the surface was covered by ice. The weather was foggy and changed to sunny.
 Untouched powder-looking snow was very hard to ride because it's not actually powder, but touched powder snow was very good. Since the snow was also very heavy, steeper runs were much better than the others. It was very bumpy too.
 
