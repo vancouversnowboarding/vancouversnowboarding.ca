@@ -4,7 +4,6 @@ title: 2023-03-06 Grouse mountain snow report
 date: 2023-03-06T13:24:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-03-06-feature.jpg
-featured: true
 ---
 We got 3cm of fresh snow, and the weather kept the snow nice and soft. Both the groomed runs and ungroomed runs had the best condition at all the time of the Grouse mountain. It was not too busy too. Do not miss today.
 
