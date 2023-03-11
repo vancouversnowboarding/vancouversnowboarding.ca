@@ -19,6 +19,6 @@ Coffin was open. Coffin entrance:
 Coffin:
 ![](/assets/images/2023-03-03-coffin.jpg)
 
-The condition at The Cut and Paper Trail were great. Centennial and Peak were not groomed and very bad.
+The condition at [The Cut](/grouse/the-cut/) and [Paper Trail](/paper-trail/) were great. Centennial and Peak were not groomed and very bad.
 
 All the lifts but Peak Chair were open, and all the runs were open today.
