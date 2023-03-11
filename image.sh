@@ -5,7 +5,7 @@ if [ -z $DATE ]; then
   exit 1
 fi
 
-for FNAME in $(ls -c /tmp/*.{jpg,jpeg,png} | tac); do
+for FNAME in $(ls -c /tmp/*.{jpg,jpeg,JPG,png,PNG} | tac); do
   if [[ "${FNAME}" =~ /feature\. ]]; then
     NEW_FILENAME=`echo "${FNAME}" | sed -e "s|/tmp/|assets/images/${DATE}-|"`
     echo $NEW_FILENAME

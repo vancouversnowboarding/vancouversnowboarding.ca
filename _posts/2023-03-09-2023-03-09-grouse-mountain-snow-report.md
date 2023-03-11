@@ -4,7 +4,6 @@ title: 2023-03-09 Grouse mountain snow report
 date: 2023-03-09T13:24:59-08:00
 tag: Grouse mountain
 image: assets/images/2023-03-09-feature.jpg
-featured: true
 ---
 It was a clear sunny warm day. The day started from icy hard-packed snow but the snow gradually melt as the sun hits during late morning. The grooming was not the best but it was ridable at the most of area.
 
