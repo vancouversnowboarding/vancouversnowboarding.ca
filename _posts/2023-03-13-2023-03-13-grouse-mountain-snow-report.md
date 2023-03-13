@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2023-03-13 Grouse mountain snow report
-date: 2023-03-13T13:24:59-08:00
+date: 2023-03-13T13:24:59-07:00
 tag: Grouse mountain
 image: assets/images/2023-03-13-feature.jpg
 featured: true
