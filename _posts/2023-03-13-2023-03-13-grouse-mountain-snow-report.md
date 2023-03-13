@@ -12,7 +12,10 @@ The snow was unfortunately not great. Grouse got a lot of overnight snow but it 
 
 Overall rate: 2/5 ★★☆☆☆
 
+[The Cut](/grouse/the-cut/):
 ![](/assets/images/2023-03-13-the-cut.jpg)
+
+Screaming Eagle:
 ![](/assets/images/2023-03-13-screaming-eagle.jpg)
 
 Everything was open except for Peak Quad Chair.
