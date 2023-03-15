@@ -13,9 +13,13 @@ It was very busy, particularly at the Screaming Eagle chair line.
 Overall rate: 4/5 ★★☆☆☆
 
 Peak:
-![](/assets/images/2023-03-15-vlcsnap-2023-03-15-13h10m44s747.jpg)
+![](/assets/images/2023-03-15-feature.jpg)
+
 
 There was a private race event and it was occupying right half of Blazes:
+![](/assets/images/2023-03-15-vlcsnap-2023-03-15-13h10m44s747.jpg)
+
+Coffin:
 ![](/assets/images/2023-03-15-vlcsnap-2023-03-15-13h12m29s270.jpg)
 
 Hades and Inferno:
