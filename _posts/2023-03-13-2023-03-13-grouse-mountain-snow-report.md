@@ -4,7 +4,6 @@ title: 2023-03-13 Grouse mountain snow report
 date: 2023-03-13T13:24:59-07:00
 tag: Grouse mountain
 image: assets/images/2023-03-13-feature.jpg
-featured: true
 ---
 Spring break seems to have started silently. They changed the weekday operation hours from 9am to 8am. It was busier than usual weekday, but not very busy at all.
 
