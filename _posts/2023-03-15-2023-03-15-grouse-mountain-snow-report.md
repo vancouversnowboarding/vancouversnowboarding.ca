@@ -4,7 +4,6 @@ title: 2023-03-15 Grouse mountain snow report
 date: 2023-03-15T13:20:59-07:00
 tag: Grouse mountain
 image: assets/images/2023-03-15-feature.jpg
-featured: true
 ---
 The snow was mostly great. All the groomed runs, and shady ungroomed runs at the top half of the mountain were great. The temperature was low but the sun was very strong, so it was hot and snow was sometimes mushy and heavy.
 
