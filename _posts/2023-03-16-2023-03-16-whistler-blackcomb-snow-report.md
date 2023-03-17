@@ -58,7 +58,7 @@ Secret Chute:
 
 Secret Chute area had the best powder. Highly recommended.
 
-Showcase T-Bar (terrible bad):
+Showcase T-Bar (terribly bad):
 ![](/assets/images/2023-03-16-showcase-tbar-is-terribly-bad.jpg)
 
 It took over 1 hour and half and still didn't let us go up. It's not only extremely busy but also the structure is fundamentally broken. Do not ever go there.
