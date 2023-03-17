@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2023-03-16 Whistler Blackcomb mountain snow report
-date: 2023-03-16T20:54:59-08:00
+date: 2023-03-16T17:54:59-07:00
 tag: Whistler Blackcomb
 image: assets/images/2023-03-16-feature.jpg
 featured: true
