@@ -4,7 +4,6 @@ title: 2023-03-16 Whistler Blackcomb mountain snow report
 date: 2023-03-16T17:54:59-07:00
 tag: Whistler Blackcomb
 image: assets/images/2023-03-16-feature.jpg
-featured: true
 ---
 
 It was a very hot sunny slushy and very busy day. The visibility was great, and the snow was mostly good. However it was busy pretty much anywhere. 
