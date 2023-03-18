@@ -352,6 +352,11 @@ blockquote {
 .featured-image {
     display: block;
     margin-bottom: 1.5rem;
+
+    /* Force image ratio the same for PC */
+    object-fit: cover;
+    max-height: 473px;
+    width: 100%;
 }
 
 .share {
