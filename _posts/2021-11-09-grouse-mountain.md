@@ -38,7 +38,7 @@ Cons
 Runs
 
 * Green
-    * Chalet Road
+    * [Chalet Road](/grouse/chalet-road/)
     * [Paradise](/grouse/paradise)
     * [Magic Carpet (Ski Wee)](/magic-carpet/)
     * [The Cut](/grouse/the-cut/)
