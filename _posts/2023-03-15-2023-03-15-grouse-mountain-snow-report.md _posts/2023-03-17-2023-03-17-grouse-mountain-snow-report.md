@@ -14,6 +14,6 @@ The Cut:
 ![](/assets/images/2023-03-17-vlcsnap-2023-03-17-15h36m34s128.jpg)
 
 Peak:
-![](/assets/images/feature.jpg)
+![](/assets/images/2023-03-17-feature.jpg)
 
 Everything was open.
