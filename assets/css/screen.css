@@ -900,3 +900,9 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.img-ujihisa-object-fit-cover {
+  /* width: 100%; */
+  height: 260px;
+  /* object-fit: cover; */
+}
