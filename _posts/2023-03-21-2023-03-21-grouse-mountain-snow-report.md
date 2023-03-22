@@ -4,7 +4,6 @@ title: 2023-03-21 Grouse mountain snow report
 date: 2023-03-21T13:20:59-07:00
 tag: Grouse mountain
 image: assets/images/2023-03-21-feature.jpg
-featured: true
 ---
 It's an hard-packed and foggy day in the morning, and slushy and sunny hot day later. The snow was not enough at some areas such as lower part of Upper Buckhorn and glades in general, but majority of the runs were fine. It was busy but not too busy.
 
