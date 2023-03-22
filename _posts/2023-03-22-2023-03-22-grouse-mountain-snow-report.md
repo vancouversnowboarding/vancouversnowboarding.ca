@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2023-03-21 Grouse mountain snow report
-date: 2023-03-21T13:20:59-07:00
+title: 2023-03-22 Grouse mountain snow report
+date: 2023-03-22T13:20:59-07:00
 tag: Grouse mountain
-image: assets/images/2023-03-21-feature.jpg
+image: assets/images/2023-03-22-feature.jpg
 featured: true
 ---
 It's an hard-packed and hot clear sunny day in the morning, and got very slushy at groomed runs later. It was very busy too.
