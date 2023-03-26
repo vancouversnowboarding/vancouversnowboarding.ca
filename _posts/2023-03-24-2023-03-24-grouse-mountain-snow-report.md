@@ -10,14 +10,14 @@ It was a mini pow day! The snow was not deep and very heavy, but still nicely ri
 
 Overall rate: 4/5 ★★★★☆
 
-Skyride exit:
-![](/assets/images/2023-03-24-vlcsnap-2023-03-25-20h05m48s333.jpg)
-
 Chalet Road:
 ![](/assets/images/2023-03-24-vlcsnap-2023-03-25-20h06m15s004.jpg)
 
 Lower Buckhorn:
 ![](/assets/images/2023-03-24-vlcsnap-2023-03-25-20h06m39s705.jpg)
+
+Expo:
+![](/assets/images/2023-03-24-expo.jpg
 
 Purgatory:
 ![](/assets/images/2023-03-24-vlcsnap-2023-03-25-20h07m55s369.jpg)
