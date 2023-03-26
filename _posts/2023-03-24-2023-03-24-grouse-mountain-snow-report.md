@@ -30,4 +30,6 @@ Peak had never gotten groomed for many days. Not recommended to ride.
 Paper Cut:
 ![](/assets/images/2023-03-24-vlcsnap-2023-03-25-20h31m46s670.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CCzMYt2RSbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Everything was (eventually) open today, including Coffin and Peak Chair.
