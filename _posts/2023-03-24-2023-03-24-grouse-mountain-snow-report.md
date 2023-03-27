@@ -4,7 +4,6 @@ title: 2023-03-24 Grouse mountain snow report
 date: 2023-03-24T13:20:59-07:00
 tag: Grouse mountain
 image: assets/images/2023-03-24-vlcsnap-2023-03-25-20h05m48s333.jpg
-featured: true
 ---
 It was a mini pow day! The snow was not deep and very heavy, but still nicely ridable. Unfortunately both Screaming Eagle and Olympic Express delayed a lot for opening. Also many runs did not get groomed, such as Upper & Lower Buckhorn and Upper Peak.
 
