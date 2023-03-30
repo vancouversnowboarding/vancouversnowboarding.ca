@@ -4,7 +4,6 @@ title: 2023-03-28 Grouse mountain snow report
 date: 2023-03-28T13:20:59-07:00
 tag: Grouse mountain
 image: assets/images/2023-03-28-feature.jpg
-featured: true
 ---
 Unlike yesterday, it was icy. Also due to high wind, Olympic Express remained closed, so most of the runs were closed. [The Cut](/grouse/the-cut/) condition was mixed due to the wind.
 
