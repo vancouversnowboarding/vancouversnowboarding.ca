@@ -4,7 +4,6 @@ title: 2023-03-29 Whistler Blackcomb mountain snow report
 date: 2023-03-29T17:54:59-07:00
 tag: Whistler Blackcomb
 image: assets/images/2023-03-29-feature.jpg
-featured: true
 ---
 
 It was cold only in the early morning, and was mostly hot and sunny today. The snow conditions at the groomed runs were nice under the sun. Shady areas or ungroomed runs were hard-packed, but not icy. It was not very busy too; gondola wait time was nothing. Emerald chair area was busy just because snowboard and ski lessons and that's pretty much it.
