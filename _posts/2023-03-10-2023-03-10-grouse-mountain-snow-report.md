@@ -15,6 +15,8 @@ Paper Trail:
 The Cut:
 ![](/assets/images/2023-03-10-feature.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgdG4Tv-I30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Upper Buckhorn condition was great.
 
 Everything was open except for Peak Quad Chair and part of Expo Glades.
