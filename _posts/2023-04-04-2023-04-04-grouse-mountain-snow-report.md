@@ -18,3 +18,5 @@ Rookie Park:
 Expo Glades:
 ![](/assets/images/2023-04-04-expo-glades.jpg)
 ![](/assets/images/2023-04-04-expo-glades-2.jpg)
+
+Starting next Tuesday 2023-04-11, sadly Grouse mountain cuts off weekday morning operation. It'll start at 12pm.
