@@ -4,7 +4,6 @@ title: 2023-04-03 Cypress mountain snow report
 date: 2023-04-03T20:04:59-07:00
 tag: Cypress mountain
 image: assets/images/2023-04-03-feature.jpg
-featured: true
 ---
 
 Both the snow and the visibility were amazing. It was really busy even on a Monday. It was very hot at the afternoon too, particularly at the lower half of the mountain.
