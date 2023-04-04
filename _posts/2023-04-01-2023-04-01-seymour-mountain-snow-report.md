@@ -4,7 +4,6 @@ title: 2023-04-01 Seymour mountain snow report
 date: 2023-04-01T18:04:59-07:00
 tag: Seymour mountain
 image: assets/images/2023-04-01-feature.jpg
-featured: true
 ---
 
 It was a busy and partially blue-bird powder day. Since it was a weekend it was very busy in the late afternoon, but not like the season 2020/2021. The snow was amazing and the visibility was mostly great with some random fog coming in and out.
