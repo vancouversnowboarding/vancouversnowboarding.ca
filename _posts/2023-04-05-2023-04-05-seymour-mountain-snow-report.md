@@ -19,9 +19,9 @@ Pete's:
 ![](/assets/images/2023-04-05-vlcsnap-2023-04-05-17h59m04s974.jpg)
 
 Dark Park entrance at Noel's Flight:
-![](/assets/images/2023-04-05-vlcsnap-2023-04-05-18h01m11s603.jpg)
+![](/assets/images/2023-04-05-vlcsnap-2023-04-05-18h00m53s436.jpg)
 
 Dark Park at Velvet Gully:
-![](/assets/images/2023-04-05-vlcsnap-2023-04-05-18h00m53s436.jpg)
+![](/assets/images/2023-04-05-vlcsnap-2023-04-05-18h01m11s603.jpg)
 
 Everything was open except for the entire Lodge chair area, because Lodge chair has ended the operation until the next season.
