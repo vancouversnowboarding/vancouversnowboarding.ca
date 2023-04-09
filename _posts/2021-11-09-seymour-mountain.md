@@ -49,3 +49,7 @@ There's no double black diamonds run.
 ---
 
 ![](https://vancouversnowboarding.files.wordpress.com/2021/01/pxl_20210126_202643325.jpg)
+
+## Schedule
+
+In the season 2022/2023, opening day was 2022-12-09, and the last day is 2023-04-09.
