@@ -20,11 +20,15 @@ Pros
 * Least busy at chairlift
 * [The Cut](/grouse/the-cut/) is definitely the best run for carving
 * Chalet (lodge) is big with a nice washroom
+* Snowboard-friendly accessibility between chairlifts
 
 Cons
 
+* You must take Skyride, and it only comes every 15min
 * Snow gets icy often
 * Most foggy not on a sunny day
+* No reservation during weekend, so it gets crazy busy during weekend
+* Smallest Magic Carpet area
 
 ## Major runs
 

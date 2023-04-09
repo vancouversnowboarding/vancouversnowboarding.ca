@@ -8,7 +8,7 @@ image: assets/images/2021-11-09-seymour-mountain.png
 
 ---
 
-The seymour mountain trail map image is from [Seymour mountain official webpage](https://mtseymour.ca/trailmap)
+The Seymour mountain trail map image is from [Seymour mountain official webpage](https://mtseymour.ca/trailmap)
 
 ## Overview
 
@@ -17,16 +17,18 @@ Pros
 * Snow gets powderly often
 * Best grooming
 * Good view on a sunny day
+* Dynamic terrain
 
 Cons
 
-* Lodge is very small and not always available
-* Most expensive for season pass
+* Lodge is very small and often partially or fully closed for private events
+* Most expensive season pass
 * Smallest resort
-* Slightly busy
+* Moderately busy
 * Hardest to access by public transit & bus
-* No list of open/closed runs of the day
+* ~No list of open/closed runs of the day~ starting season 2022/2023 they started posting
 * No snow cannon for artificial snow
+* Not snowboard-friendly accessibility between chairlifts
 
 Though this year 2021/2022 Seymour has installed more chairlifts at Mystery Peak Express, so it is less busy than the past.
 
