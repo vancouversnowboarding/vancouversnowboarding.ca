@@ -55,3 +55,10 @@ There's no double black diamonds run.
 ## Schedule
 
 In the season 2022/2023, opening day was 2022-12-09, and the last day is 2023-04-09.
+
+---
+
+Try looking at other mountains as well!
+
+* [Grouse mountain](/grouse-mountain)
+* [Cypress mountain](/cypress-mountain)
