@@ -4,7 +4,6 @@ title: 2023-04-05 Seymour mountain snow report
 date: 2023-04-05T18:00:59-07:00
 tag: Seymour mountain
 image: assets/images/2023-04-05-feature.jpg
-featured: true
 ---
 
 Unfortunately they opened late at 1pm from this week, but the snow, the terrain, and the visibility were good today. It was cloudy but not foggy, and was sometimes sunny. Groomed runs conditions were great, but ungroomed runs were icy, so stay in groomed runs.
