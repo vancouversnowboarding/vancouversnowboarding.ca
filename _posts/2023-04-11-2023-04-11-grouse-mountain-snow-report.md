@@ -19,7 +19,7 @@ The Cut at 12:16pm
 And at 1:30pm
 ![](/assets/images/2023-04-11-the-cut-130pm.jpg)
 
-Peak:
+Peak (not the best video but this was what I could film with my Android phone):
 <iframe width="544" height="966" src="https://www.youtube.com/embed/n6mlGSjPZ3w" title="&quot;Peak&quot; on a powder day (Grouse mountain) 2023-04-11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Hades and Inferno:
