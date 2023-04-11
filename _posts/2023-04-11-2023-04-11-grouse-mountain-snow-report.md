@@ -1,19 +1,49 @@
 ---
 layout: post
-title: 2023-04-10 Grouse mountain snow report
-date: 2023-04-10T12:20:59-07:00
+title: 2023-04-11 Grouse mountain snow report
+date: 2023-04-11T16:40:59-07:00
 tag: Grouse mountain
-image: assets/images/2023-04-10-feature.jpg
+image: assets/images/2023-04-11-feature.jpg
+featured: true
 ---
 
-It was the last morning operation of Grouse mountain. The snow was hard-packed, icy, and chunky, but the runs where everybody go through were getting better and better as they shave. It was cloudy so the snow looked flat which made it hard to find the gaps between groomings which can be quite big, but it was not foggy at all until late morning.
+It was powder day, the resort was almost empty, and the visibility was not bad! This is definitely one of the best days in Grouse mountain of this season.
 
-Chairs delayed to open for about 5min in the morning, but other than that it wasn't very busy even on a holiday.
+Unfortunately the schedule has changed to start at 12pm, and even worse, Screaming Eagle stopped for 20 minutes at about 1:30pm. However the snow was so good overall we would still give 5 stars today.
 
-Overall rate: 3/5 ★★★☆☆
+Overall rate: 5/5 ★★★★★
 
-Centennial to Expo:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h8djZtYapgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The Cut at 12:16pm
+![](/assets/images/2023-04-11-the-cut-1216pm.jpg)
+
+And at 1:30pm
+![](/assets/images/2023-04-11-the-cut-130pm.jpg)
+
+Peak:
+<iframe width="544" height="966" src="https://www.youtube.com/embed/n6mlGSjPZ3w" title="&quot;Peak&quot; on a powder day (Grouse mountain) 2023-04-11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Hades and Inferno:
+![](/assets/images/2023-04-11-hades-and-inferno.jpg)
+
+Blazes:
+![](/assets/images/2023-04-11-blazes.jpg)
+
+Blue Face:
+![](/assets/images/2023-04-11-blue-face.jpg)
+
+Inferno:
+![](/assets/images/2023-04-11-inferno.jpg)
+![](/assets/images/2023-04-11-inferno-2.jpg)
+
+Inferno at the left and Hades at the right:
+![](/assets/images/2023-04-11-inferno-and-hades.jpg)
+
+Skyline:
+![](/assets/images/2023-04-11-skyline.jpg)
+
+Lower Buckhorn:
+![](/assets/images/2023-04-11-lower-buckhorn.jpg)
+![](/assets/images/2023-04-11-lower-buckhorn-2.jpg)
 
 ---
 
@@ -28,8 +58,8 @@ Lifts:
 
 Parks:
 
-* Paradise Jib Park (16' Flat Box - S, Up Down Box S)
-* The Cut Jump Line (Jump #1 - M, Jump #2 - M, Jump #3 (40') - L, Jump #4 (50') - XL)
+* Paradise Jib Park (16' Flat Box - S, Up Down Box S, Scheduled to open)
+* <del>The Cut Jump Line</del> (Jump #1 - M, Jump #2 - M, Jump #3 (40') - L, Jump #4 (50') - XL)
 * Cut Rookie Park (Flat Down Box - M, Rainbow Box - S, 8' Box - S, Diesel Tank - S, Jump 1 - S, Flat tube #2 - M, Shotgun Rail - S, Jump 2 - S, Flat tube # 1 - M)
 * Side Cut Park (Down Tower Tube - M, Down Ledge Box - M, Flat Down Tubby Tube – L, Down Rail (Fancy Rail) – XL, Flat Down Flat Combo Rail – XL, Down C-Rail – L, Down Capped Rail - L, Flat Round Rail (Boardroom) -L, Down Ledge Box - L, Spine Step Down (Moose Knuckle) – L, Flat Down Tower Tube Combo - L, Flat Barrier - M, Wallride - L, UFO - L, R2D2 Bonk - M, Up Down Rail - L, Down Rail (Salmon Arms) - L, Wallride (Small) - L, 32' Down Rail (Sandbox) - XL)
 
@@ -54,14 +84,14 @@ Runs:
 * Skyline (Blue)
 * Tyee Chute (Blue)
 * Upper Buckhorn (Blue)
-* <del>Blazes (Black Diamond)</del>
+* Blazes (Black Diamond)
 * Coffin (Black Diamond)
 * Hades (Black Diamond)
 * Inferno (Black Diamond)
 * Outer Limits (Black Diamond)
 * Devil's Advocate (Double Black Diamonds)
 * Purgatory (Double Black Diamonds)
-* <del>Peak Glades (Double Black Diamonds)</del>
+* Peak Glades (Double Black Diamonds)
 * Grinder Tracks (Blue)
 * Expo Glades (Black Diamond)
 * Coola's Corner (Blue)
@@ -69,8 +99,3 @@ Runs:
 * Upper Blazes (Black Diamond)
 * [Mountain Highway](/grouse/mountain-highway/) (Blue)
 * No Man's Land (Black Diamond)
-
----
-
-Downtown Vancouver already has cherry blossoms in bloom.
-![](/assets/images/2023-04-10-sakura.jpg)
