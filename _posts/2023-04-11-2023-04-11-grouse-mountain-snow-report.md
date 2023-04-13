@@ -4,7 +4,6 @@ title: 2023-04-11 Grouse mountain snow report
 date: 2023-04-11T16:40:59-07:00
 tag: Grouse mountain
 image: assets/images/2023-04-11-feature.jpg
-featured: true
 ---
 
 It was powder day, the resort was almost empty, and the visibility was not bad! This is definitely one of the best days in Grouse mountain of this season.
