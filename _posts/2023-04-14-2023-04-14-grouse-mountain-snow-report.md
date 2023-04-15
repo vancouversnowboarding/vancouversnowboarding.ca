@@ -14,10 +14,10 @@ Sad news: Olympic Chair won't be running in the next week. Today and this weeken
 Overall rate: 3/5 ★★★☆☆
 
 Peak:
-![](assets/images/2023-04-14-peak.jpg)
+![](/assets/images/2023-04-14-peak.jpg)
 
 Coffin:
-![](assets/images/2023-04-14-coffin.jpg)
+![](/assets/images/2023-04-14-coffin.jpg)
 
 Under the Lower Peak there was a pool under construction for the event on this Sunday.
-![](assets/images/2023-04-14-lower-peak-with-pool.jpg)
+![](/assets/images/2023-04-14-lower-peak-with-pool.jpg)
