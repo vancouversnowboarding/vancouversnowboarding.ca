@@ -4,7 +4,6 @@ title: 2023-04-12 Whistler Blackcomb mountain snow report
 date: 2023-04-12T21:00:59-07:00
 tag: Whistler Blackcomb
 image: assets/images/2023-04-12-feature.jpg
-featured: true
 ---
 
 Powder day! It was cold only in the early morning, and was mostly hot and sunny today. The snow conditions both on groomed runs and ungroomed runs were incredible. You can't find ice. The snow was soft and fluffy. It was very busy, but it was totally understandable.
