@@ -11,4 +11,4 @@ image: assets/images/2023-04-09-cypress-map.jpg
 The cypress mountain trail map image is from [Cypress mountain official webpage](https://cypressmountain.com/trail-maps-and-stats)
 
 
-An example of Cypress visit: </2023-04-03-cypress-mountain-snow-report/>
+An example of Cypress visit: [2023-04-03 Cypress Mountain Snow Report](/2023-04-03-cypress-mountain-snow-report/)

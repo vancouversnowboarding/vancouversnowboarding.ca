@@ -26,7 +26,7 @@ Cons
 * Smallest resort
 * Moderately busy
 * Hardest to access by public transit & bus
-* ~No list of open/closed runs of the day~ starting season 2022/2023 they started posting
+* <del>No list of open/closed runs of the day</del> starting season 2022/2023 they started posting
 * No snow cannon for artificial snow
 * Not snowboard-friendly accessibility between chairlifts
 
