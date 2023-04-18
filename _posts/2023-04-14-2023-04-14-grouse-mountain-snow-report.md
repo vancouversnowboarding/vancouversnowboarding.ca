@@ -4,7 +4,6 @@ title: 2023-04-14 Grouse mountain snow report
 date: 2023-04-14T19:40:59-07:00
 tag: Grouse mountain
 image: assets/images/2023-04-14-feature.jpg
-featured: true
 ---
 
 We got new snow, and it was not raining, so the snow in the early afternoon when it opened was great at groomed runs, but unfortunately ungroomed runs' snow weren't as good as expected, because of a lot of dead cookies underneath the snow. It was supposed to be sunny but stayed cloudy.
