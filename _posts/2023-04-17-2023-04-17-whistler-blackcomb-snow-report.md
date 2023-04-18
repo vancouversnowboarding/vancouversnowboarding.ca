@@ -3,7 +3,7 @@ layout: post
 title: 2023-04-17 Whistler Blackcomb mountain snow report
 date: 2023-04-17T20:54:59-07:00
 tag: Whistler Blackcomb
-image: assets/images/2023-04-17-excalibur.jpg
+image: assets/images/2023-04-17-7th-heaven.jpg
 featured: true
 ---
 
