@@ -40,6 +40,9 @@ Cliffs
 "Bark Sandwich" to "Little Cub":
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dje4vaCF4C4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+"Where's Joe?":
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iuIaId_ANWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Parking Lot 8 at late afternoon:
 ![](/assets/images/2023-04-17-parking-lot-8.jpg)
 ![](/assets/images/2023-04-17-parking-lot-8-2.jpg)
