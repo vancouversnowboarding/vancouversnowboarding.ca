@@ -54,7 +54,7 @@ There's no double black diamonds run.
 
 ## Schedule
 
-In the season 2022/2023, opening day was 2022-12-09, and the last day is 2023-04-09.
+* In the season 2022/2023, opening day was 2022-12-09, Lodge chair last day was 2023-04-02, and the last day is 2023-04-09.
 
 ---
 

@@ -100,7 +100,7 @@ In the season 2020/2021, Grouse mountain [opening day was 2020-11-20](https://tw
 
 In the season 2021/2022, Grouse mountain [opening day was 2021-11-20](https://twitter.com/grousemountain/status/1462143994230497280).
 
-In the season 2022/2023, Grouse mountain [opening day was 2022-11-18](https://twitter.com/grousemountain/status/1593372533826670592), reduced to afternoon-only operation since 2023-04-10, and the last day is 2023-04-23.
+In the season 2022/2023, Grouse mountain [opening day was 2022-11-18](https://twitter.com/grousemountain/status/1593372533826670592), reduced to afternoon-only operation since 2023-04-10, Olympic Expiress last day is 2023-04-16, and the last day is 2023-04-23.
 
 ---
 

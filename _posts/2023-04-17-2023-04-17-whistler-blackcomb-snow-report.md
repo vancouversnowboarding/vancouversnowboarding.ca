@@ -4,7 +4,6 @@ title: 2023-04-17 Whistler Blackcomb mountain snow report
 date: 2023-04-17T20:54:59-07:00
 tag: Whistler Blackcomb
 image: assets/images/2023-04-17-7th-heaven.jpg
-featured: true
 ---
 
 ## Blackcomb mountain
@@ -34,6 +33,12 @@ Glacier Chair was dead:
 
 Cliffs
 ![](/assets/images/2023-04-17-cliffs.jpg)
+
+"Bark Sandwich", and "Magic Castle" mini chute entrance:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Geu26mdaPks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+"Bark Sandwich" to "Little Cub":
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dje4vaCF4C4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Parking Lot 8 at late afternoon:
 ![](/assets/images/2023-04-17-parking-lot-8.jpg)
