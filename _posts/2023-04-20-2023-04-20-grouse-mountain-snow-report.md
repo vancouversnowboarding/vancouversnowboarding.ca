@@ -1,17 +1,18 @@
 ---
 layout: post
-title: 2023-04-19 Grouse mountain snow report
-date: 2023-04-19T15:00:09-07:00
+title: 2023-04-20 Grouse mountain snow report
+date: 2023-04-20T15:00:09-07:00
 tag: Grouse mountain
-image: assets/images/2023-04-19-feature.jpg
+image: assets/images/2023-04-20-feature.jpg
+featured: true
 ---
 
-It was similar to yesterday but with less powder, and it sleeted a lot. It was not very busy.
-The visibility was as bad as yesterday
+Snow was hard-packed and rough, and the weather was very windy and snowy later. Groomed runs were very bad, but ungroomed areas were nice and softer.
 
-Overall rate: 2/5 ★★☆☆☆
+Overall rate: 1/5 ★☆☆☆☆
 
-![](/assets/images/2023-04-19-sleet.jpg)
+The Cut:
+![](/assets/images/2023-04-20-the-cut.jpg)
 
 ---
 
