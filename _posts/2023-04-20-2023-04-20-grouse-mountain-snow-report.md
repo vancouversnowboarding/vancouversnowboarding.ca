@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2023-04-20 Grouse mountain snow report
-date: 2023-04-20T15:00:09-07:00
+date: 2023-04-20T14:50:09-07:00
 tag: Grouse mountain
 image: assets/images/2023-04-20-feature.jpg
 featured: true
