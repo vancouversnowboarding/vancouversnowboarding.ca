@@ -11,7 +11,7 @@ Snow was wet and soft. It was very bad at first since it grabbed board like glue
 
 Overall rate: 2/5 ★★☆☆☆
 
-The Cut:
+[The Cut](/grouse/the-cut/):
 ![](/assets/images/2023-04-21-the-cut.jpg)
 
 It was very busy:
