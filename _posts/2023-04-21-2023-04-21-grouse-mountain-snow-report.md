@@ -1,17 +1,24 @@
 ---
 layout: post
-title: 2023-04-20 Grouse mountain snow report
-date: 2023-04-20T14:50:09-07:00
+title: 2023-04-21 Grouse mountain snow report
+date: 2023-04-21T14:50:09-07:00
 tag: Grouse mountain
-image: assets/images/2023-04-20-feature.jpg
+image: assets/images/2023-04-21-feature.jpg
+featured: true
 ---
 
-Snow was hard-packed and rough, and the weather was very windy and snowy later. Groomed runs were very bad, but ungroomed areas were nice and softer.
+Snow was wet and soft. It was very bad at first since it grabbed board like glue but after many people riding through it got a lot better and stable. The visibility was mostly bad but sometimes relatively clear. It was very busy since it was the last weekday operation of the season at Grouse mountain.
 
-Overall rate: 1/5 ★☆☆☆☆
+Overall rate: 2/5 ★★☆☆☆
 
 The Cut:
-![](/assets/images/2023-04-20-the-cut.jpg)
+![](/assets/images/2023-04-21-the-cut.jpg)
+
+It was very busy:
+![](/assets/images/2023-04-21-the-cut-busy.jpg)
+
+Grouse was hidden under the cloud at 11am:
+![](/assets/images/2023-04-21-grouse-hidden.jpg)
 
 ---
 
@@ -26,9 +33,9 @@ Lifts:
 
 Parks:
 
-* Paradise Jib Park (16' Flat Box - S, Up Down Box S)
-* The Cut Jump Line (Jump #1 - M, Jump #2 - M, Jump #3 (40') - L, Jump #4 (50') - XL)
-* Cut Rookie Park (Flat Down Box - M, Rainbow Box - S, 8' Box - S, Diesel Tank - S, Jump 1 - S, Flat tube #2 - M, Shotgun Rail - S, Jump 2 - S, Flat tube # 1 - M)
+* Paradise Jib Park (16' Flat Box - S, Up Down Box S, Scheduled to open)
+* The Cut Jump Line (Jump #1 - M, Jump #2 - M, Jump #3 (40') - L, Jump #4 (50') - XL, Scheduled to Open)
+* Cut Rookie Park (Flat Down Box - M, Rainbow Box - S, 8' Box - S, Diesel Tank - S, Jump 1 - S, Flat tube #2 - M, Shotgun Rail - S, Jump 2 - S, Flat tube # 1 - M, Scheduled to Open)
 * Side Cut Park (Down Tower Tube - M, Down Ledge Box - M, Flat Down Tubby Tube – L, Down Rail (Fancy Rail) – XL, Flat Down Flat Combo Rail – XL, Down C-Rail – L, Down Capped Rail - L, Flat Round Rail (Boardroom) -L, Down Ledge Box - L, Spine Step Down (Moose Knuckle) – L, Flat Down Tower Tube Combo - L, Flat Barrier - M, Wallride - L, UFO - L, R2D2 Bonk - M, Up Down Rail - L, Down Rail (Salmon Arms) - L, Wallride (Small) - L, 32' Down Rail (Sandbox) - XL)
 
 Runs:
