@@ -4,7 +4,6 @@ title: 2023-04-21 Grouse mountain snow report
 date: 2023-04-21T14:50:09-07:00
 tag: Grouse mountain
 image: assets/images/2023-04-21-feature.jpg
-featured: true
 ---
 
 Snow was wet and soft. It was very bad at first since it grabbed board like glue but after many people riding through it got a lot better and stable. The visibility was mostly bad but sometimes relatively clear. It was very busy since it was the last weekday operation of the season at Grouse mountain.
