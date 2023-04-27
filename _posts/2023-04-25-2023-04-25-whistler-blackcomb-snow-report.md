@@ -51,5 +51,11 @@ Glacier Road:
 ![](/assets/images/2023-04-25-glacier-road.jpg)
 ![](/assets/images/2023-04-25-blackcomb-information.jpg)
 
-Easy Out:
+Easy Out (green):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_wfSwcvOeSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Catskinner (black diamonds):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6dDD4OTvJ-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Secret Bowl (black diamonds) and Pakalolo (double black diamonds):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kP0yGCcicfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
