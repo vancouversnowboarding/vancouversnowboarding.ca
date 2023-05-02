@@ -18,6 +18,9 @@ Overall rate: 2/5 ★★☆☆☆
 Excalibur Gondola at Parking Lot 6:
 ![](/assets/images/2023-04-27-excalibur.jpg)
 
+Cloud Nine:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5tvBVzhNOCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Saudan Couloir (Couloir Extreme):
 ![](/assets/images/2023-04-27-saudan-couloir-couloir-extreme.jpg)
 
@@ -36,3 +39,6 @@ Glacer Creek Lodge:
 
 Glacier Chair:
 ![](/assets/images/2023-04-27-glacier-chair.jpg)
+
+"Ross' Gold", "Green Line", "Cruiser", "Green Line", "Lower Cruiser", "Green Line", "Village Run" towards "Parking Lot 6":
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F3xljNzkWr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
