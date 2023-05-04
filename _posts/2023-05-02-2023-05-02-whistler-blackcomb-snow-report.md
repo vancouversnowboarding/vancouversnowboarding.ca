@@ -17,12 +17,15 @@ Jersey Cream got a new Banked Slalom which was really well made. Highly recommen
 
 Overall rate: 2/5 ★★☆☆☆
 
-Banked Slalom at Jersey Cream:
+Banked Slalom (Snake Run) at Jersey Cream:
 ![](/assets/images/2023-05-02-banked-slalom.jpg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tz4zgN6iMVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 (YouTube Shorts edition)
 <iframe width="544" height="966" src="https://www.youtube.com/embed/ZaYKNgKgaxA" title="Banked Slalom at Jersey Cream vertical crop version (Blackcomb mountain) 2023-04-02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Banked Slalom (Snake Run) and Jersey Cream:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-mNRjDEcswY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Avalanche at Lakeside Bowl near Xhiggy's Meadow:
 ![](/assets/images/2023-05-02-avalanche-at-lakeside-bowl.jpg)
@@ -33,3 +36,6 @@ Blackcomb Gondola under maintenance:
 
 Easy Out:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u1kjqbUN0to" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Blue Line:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C5vuNcNs7EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
