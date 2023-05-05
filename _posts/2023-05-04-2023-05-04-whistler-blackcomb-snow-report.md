@@ -35,6 +35,9 @@ Rendezvous food court menu:
 Top of Excalibur gondola:
 ![](/assets/images/2023-05-04-excalibur-top.jpg)
 
+Green Line (Lower) to Parking Lot 6:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fk4uimitVK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Appendix
 
 Whistler Creekside:
