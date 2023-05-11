@@ -37,6 +37,8 @@ Open runs:
 [Paradise](/grouse/paradise):
 ![](/assets/images/2022-11-21-paradise.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7p_3SIYaRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Paradise Park:
 ![](/assets/images/2022-11-21-paradise-park.jpg)
 
