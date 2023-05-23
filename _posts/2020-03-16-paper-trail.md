@@ -2,7 +2,7 @@
 layout: post
 title: Paper Trail (Blue)
 date: 2020-03-16 21:27:42.000000000 +00:00
-tag: Uncategorized
+tag: Grouse mountain
 image: https://vancouversnowboarding.files.wordpress.com/2020/03/img_2784.jpg
 
 ---
