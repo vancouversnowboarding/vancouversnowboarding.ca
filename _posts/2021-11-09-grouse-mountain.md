@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Grouse mountain
-date: 2021-11-09T20:57:48-08:00
+# original date: 2021-11-09T20:57:48-08:00
+date: 2023-05-09T18:57:48-07:00
 tag: Grouse mountain
 featured: true
 image: assets/images/2021-11-09-grouse-mountain.png
