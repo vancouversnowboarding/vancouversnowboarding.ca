@@ -59,7 +59,7 @@ image: https://vancouversnowboarding.files.wordpress.com/2020/12/untitled.png
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Wind pressed fresh powder snow (near Screaming Eagle Charlift exit):</p>
+<p>Wind pressed fresh powder snow (near Screaming Eagle Chairlift exit):</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
