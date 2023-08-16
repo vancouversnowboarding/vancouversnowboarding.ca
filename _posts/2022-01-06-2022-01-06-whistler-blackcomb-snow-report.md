@@ -84,7 +84,7 @@ Bottom of Franz' chair was fun; it was like a mini chute with some rollers.
 
 ![](/assets/images/2022-01-06-vlcsnap-2022-01-08-15h01m32s139.png)
 
-However right after that it was windy & icy.
+However right after that it became windy & icy.
 
 ![](/assets/images/2022-01-06-vlcsnap-2022-01-08-15h02m12s221.png)
 ![](/assets/images/2022-01-06-vlcsnap-2022-01-08-15h02m33s924.png)
