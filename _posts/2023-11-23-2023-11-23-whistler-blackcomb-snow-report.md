@@ -7,7 +7,7 @@ image: assets/images/2023-11-23-feature.jpg
 ---
 
 It's the opening day today Thursday 2023-11-23!
-Last year it was [Thursday 2023-11-23](/2023-11-23-whistler-blackcomb-snow-report/).
+Last year it was [Thursday 2022-11-24](/2022-11-24-whistler-blackcomb-snow-report/).
 
 This year Creekside Gondola is also running from the beggining of the season, so no need for the shuttle bus.
 
