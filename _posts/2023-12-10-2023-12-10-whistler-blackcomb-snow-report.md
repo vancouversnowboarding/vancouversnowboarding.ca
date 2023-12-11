@@ -11,7 +11,7 @@ First time to update on a weekend! Today promises a powder-filled adventure, and
 Creekside Gondola at 7:27am:
 ![](/assets/images/2023-12-10-creekside-gondola-727am.jpg)
 
-Deep Powder at Frenz' Meadow:
+Deep Powder at Franz' Meadow:
 ![](/assets/images/2023-12-10-deep-powder-at-franz-meadow.jpg)
 
 Off piste condition was pretty good. While some bushes and rocks lingered, they didn't pose significant obstacles.
