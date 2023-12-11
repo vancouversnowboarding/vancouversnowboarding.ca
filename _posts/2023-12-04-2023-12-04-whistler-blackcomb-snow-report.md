@@ -10,6 +10,8 @@ It's still the early season, so not many runs are open, and the snow depth is no
 
 Updates from the opening day: we got Garbanzo chair up running, and the runs all the way to the Olympic learning area including the Whistler Village Gondola mid station were open now. That means you can skip chairs on a windy snowy day like today and take a gondola instead.
 
+Overall rate: 3/5 ★★★☆☆
+
 ## Whistler Mountain
 
 "Upper Whiskey Jack", "Pig Alley", and "Ego Bowl"

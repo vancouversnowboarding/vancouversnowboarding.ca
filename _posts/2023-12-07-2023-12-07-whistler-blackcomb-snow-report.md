@@ -8,6 +8,8 @@ image: assets/images/2023-12-07-feature.jpg
 
 The snow was icier than previous, and the snow coverage was thinner, but it was still fine at the most of groomed runs. Off-piste runs outside the resort boundary won't be good. The snow near the Whistler Village Gondola mid-station had some small death cookies. Overall the snow was like an average day at Grouse mountain.
 
+Overall rate: 3/5 ★★★☆☆
+
 ## NEWS: Grouse mountain is opening tomorrow
 
 Sorry to break into whistler blackcomb article but we just got a news letter from Grouse mountain.

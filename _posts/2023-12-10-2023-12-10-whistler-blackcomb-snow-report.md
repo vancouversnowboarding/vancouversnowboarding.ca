@@ -8,6 +8,8 @@ image: assets/images/2023-12-10-feature.jpg
 
 First time to update on a weekend! Today promises a powder-filled adventure, and being Sunday, anticipate a bustling scene.
 
+Overall rate: 2/5 ★★☆☆☆
+
 Creekside Gondola at 7:27am:
 ![](/assets/images/2023-12-10-creekside-gondola-727am.jpg)
 
