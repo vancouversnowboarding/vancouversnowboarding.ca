@@ -4,6 +4,7 @@ title: 2023-12-11 Whistler Blackcomb snow report
 date: 2023-12-11T15:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2023-12-11-feature.jpg
+featured: true
 ---
 
 It was a chilly Monday with clear blue skies, with not many people around. A skier remarked, "It's like skiing in Ontario," and I couldn't help but agree, noting that the sentiment holds true for snowboarding as well.

@@ -4,7 +4,6 @@ title: 2023-05-04 Whistler Blackcomb mountain snow report
 date: 2023-05-04T21:54:59-07:00
 tag: Whistler Blackcomb
 image: assets/images/2023-05-04-feature.jpg
-featured: true
 ---
 
 This is the last snow report of this season 2022/2023.
