@@ -4,7 +4,6 @@ title: 2023-12-13 Whistler Blackcomb snow report
 date: 2023-12-13T15:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2023-12-13-feature.jpg
-featured: true
 ---
 
 No new snow, partly overcast, and a windy day, so not much to expect, but the snow was actually not bad at all. It was well groomed and the artificial snow coverage was good at the groomed runs.
