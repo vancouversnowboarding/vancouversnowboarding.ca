@@ -4,7 +4,6 @@ title: 2023-12-15 Whistler Blackcomb snow report
 date: 2023-12-15T13:30:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2023-12-15-feature.jpg
-featured: true
 ---
 
 A chill day with very little new snow. It's also santa day today, so there were many santa snowboarders and santa skiers today.
