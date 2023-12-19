@@ -11,6 +11,8 @@ It's an icy day with lots of muds and exposures.
 
 Overall rate: 1/5 ★☆☆☆☆
 
+Snow at busy green runs such as Whiskey Jack were gradually betting better as many snowboarders and skiers shave the snow, but only at certain sections.
+
 Guest Service at Creekside Village:
 ![](/assets/images/2023-12-18-creekside-village-guest-service.jpg)
 
