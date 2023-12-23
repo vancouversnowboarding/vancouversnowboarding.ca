@@ -4,7 +4,6 @@ title: 2023-12-18 Whistler Blackcomb snow report
 date: 2023-12-18T12:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2023-12-18-feature.jpg
-featured: true
 ---
 
 It's an icy day with lots of muds and exposures.
