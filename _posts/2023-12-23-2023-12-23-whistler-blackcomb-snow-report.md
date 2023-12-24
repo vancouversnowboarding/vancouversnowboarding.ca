@@ -25,6 +25,10 @@ Harmony 6 delayed to open at 10:20am
 Lower part of Pony Trail towards Big Red Express was extremely dangerous and sketchy:
 ![](/assets/images/2023-12-23-pony-trail.jpg)
 
+"Pika's Traverse"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Hu8-s1phB0?si=S9Os1MTFuqbep2Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Our GoPro battery died quickly after we started filiming :(
+
 ## Blackcomb mountain
 
 The condition was very bad. There were just ice and stones. Do not go there.
