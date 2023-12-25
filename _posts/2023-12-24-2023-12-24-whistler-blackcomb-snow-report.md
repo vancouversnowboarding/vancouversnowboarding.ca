@@ -4,7 +4,6 @@ title: 2023-12-24 Whistler Blackcomb snow report
 date: 2023-12-24T14:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2023-12-24-feature.jpg
-featured: true
 ---
 
 It was a partially sunny but mostly cloudy, windy, and cold day with no overnight snow. It was busy and the snow become icy from mid morning.
