@@ -4,7 +4,6 @@ title: 2023-12-26 Whistler Blackcomb snow report
 date: 2023-12-26T14:30:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2023-12-26-feature.jpg
-featured: true
 ---
 Whistler Blackcomb reported an accumulation of 18cm of fresh snow overnight. Unfortunately, the new snow underwent melting and refreezing, resulting in a gondola opening delay of over 2 hours. The weather also affected several chairlifts, including the Big Red Express, which remained closed. The runs were either extremely icy or burdened with unrideable, heavy, deep snow even with a proper snowboard. Given that it was Boxing Day, the resort experienced high traffic, making it the least favorable day to visit Whistler Blackcomb.
 
