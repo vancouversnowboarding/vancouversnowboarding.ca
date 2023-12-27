@@ -11,7 +11,7 @@ Unfortunately due to high wind Peak 2 peak and all the alpine chairs (Peak and H
 
 Overall rate: 3/5 ★★★☆☆
 
-Yesterday was so bad that there were some news articles that covers that. Looks like our tweets were sited by them :)
+[Yesterday](/2023-12-27-2023-12-27-whistler-blackcomb-snow-report) was so bad that there were some news articles that covers that. Looks like our tweets were sited by them :)
 <https://dailyhive.com/vancouver/whistler-creekside-gondola-lineup-goes-to-highway>
 
 ![](/assets/images/2023-12-27-Screenshot_2023-12-27_14-51-44.png)
