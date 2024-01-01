@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024-01-01 Whistler Blackcomb snow report
-date: 2024-01-01T14:30:22-08:00
+date: 2024-01-01T13:20:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-01-feature.jpg
 featured: true
