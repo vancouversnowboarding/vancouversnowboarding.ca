@@ -4,7 +4,6 @@ title: 2023-12-31 Whistler Blackcomb snow report
 date: 2023-12-31T14:30:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2023-12-31-feature.jpg
-featured: true
 ---
 We got 9cm overnight snow. The weather pattern indicated it's an icy and cloudy according to forecasts, but it ended up an amazing bluebird powder day.
 
