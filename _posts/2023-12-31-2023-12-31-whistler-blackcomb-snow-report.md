@@ -23,3 +23,6 @@ Low Roll (black diamond run) from Harmony 6 express:
 
 Hidden Chute (double black diamond run) entrance from Haromy Ridge:
 ![](/assets/images/2023-12-31-hidden-chute.jpg)
+
+"Robertson's" towards Burnt Stew Trail:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6biDbwzJ_F4?si=8VUWc38gtXVqTvOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
