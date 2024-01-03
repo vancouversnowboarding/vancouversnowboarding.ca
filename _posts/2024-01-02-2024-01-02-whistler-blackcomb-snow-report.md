@@ -4,7 +4,6 @@ title: 2024-01-02 Whistler Blackcomb snow report
 date: 2024-01-02T15:20:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-02-feature.jpg
-featured: true
 ---
 It was a snowy and busy day. The snow at Whistler mountain was significantly better than the ice in Blackcomb mountain yesterday.
 Unfortunately it was very busy.
