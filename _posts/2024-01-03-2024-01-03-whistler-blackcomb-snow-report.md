@@ -4,7 +4,6 @@ title: 2024-01-03 Whistler Blackcomb snow report
 date: 2024-01-03T13:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-03-feature.jpg
-featured: true
 ---
 It was a little bit snowy and busy day. Conditions at groomed runs were pretty good, but all the chairs were very busy.
 
