@@ -4,7 +4,6 @@ title: 2024-01-06 Whistler Blackcomb snow report
 date: 2024-01-06T12:30:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-06-feature.jpg
-featured: true
 ---
 We got 42cm of overnight snow! It's definitely the biggest deep powder day.
 
