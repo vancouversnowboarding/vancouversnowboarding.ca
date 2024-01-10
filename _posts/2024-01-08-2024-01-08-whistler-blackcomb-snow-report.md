@@ -4,7 +4,6 @@ title: 2024-01-08 Whistler Blackcomb snow report
 date: 2024-01-08T20:30:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-08-feature.jpg
-featured: true
 ---
 We only got 1cm of overnight snow, but it was actually a mini powder day. The snow was light and soft, and the resort was not busy at all for first time ever after the opening day of this season.
 
