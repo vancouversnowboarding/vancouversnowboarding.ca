@@ -4,7 +4,6 @@ title: 2024-01-09 Whistler Blackcomb snow report
 date: 2024-01-09T19:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-09-feature.jpg
-featured: true
 ---
 We got 30cm of overnight snow. Due to the powder it was extremely busy, even higher than the Christmas holiday season. The line for Creekside gondola was infinite, and the line for any chair was extremely long. None of alpine chairs opened in the morning, so everybody had to take Big Red express of Emerald 6 express for good snow.
 
