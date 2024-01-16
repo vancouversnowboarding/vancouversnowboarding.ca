@@ -20,6 +20,11 @@ The Cut:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3sMVxJwx59w?si=b5ktel4ITTloj8Ga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tNsIl2jwsU4?si=nYKJz0UJszJpEjCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Screaming Eagle to Skyride:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F58_dRdQxr4?si=op_GjVl5wrxvAaTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Peak:
 ![](/assets/images/2024-01-15-peak.jpg)
 ![](/assets/images/2024-01-15-experts-only.jpg)
