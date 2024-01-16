@@ -16,6 +16,10 @@ The Cut:
 ![](/assets/images/2024-01-15-the-cut-2.jpg)
 ![](/assets/images/2024-01-15-the-cut-3.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aLMh7bGGUg4?si=GBIoVaZS0105T3eA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3sMVxJwx59w?si=b5ktel4ITTloj8Ga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Peak:
 ![](/assets/images/2024-01-15-peak.jpg)
 ![](/assets/images/2024-01-15-experts-only.jpg)
