@@ -4,7 +4,6 @@ title: 2024-01-11 Whistler Blackcomb snow report
 date: 2024-01-11T19:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-11-feature.jpg
-featured: true
 ---
 The temperature recorded below -20C, and the overnight snow was 1cm but it started snowing right before opening, so there was more snow.
 
