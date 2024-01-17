@@ -4,7 +4,6 @@ title: 2024-01-15 Grouse mountain snow report
 date: 2024-01-15T18:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-15-feature.jpg
-featured: true
 ---
 
 It's an amazing day today at Grouse mountain. The snow was soft and nicely groomed, and the resort was not busy at all. The visibility was clear, and the weather was nice cold and no wind. Everything was perfect. The only complain is that the snow coverage at Deliverance, Centennial, and lower Expo weren't great, but that's it.
