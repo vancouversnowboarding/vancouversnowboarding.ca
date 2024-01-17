@@ -4,7 +4,6 @@ title: 2024-01-16 Grouse mountain snow report
 date: 2024-01-16T20:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-16-feature.jpg
-featured: true
 ---
 
 It's another amazing day today at Grouse mountain. The snow was soft at The Cut, except for some soft death cookies at the lower part of the run. It was busier than yesterday, but not really busy at all. Due to clouds the visibility was not the best, but you could see mostly clear enough.
