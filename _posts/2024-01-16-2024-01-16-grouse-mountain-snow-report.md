@@ -2,7 +2,7 @@
 layout: post
 title: 2024-01-16 Grouse mountain snow report
 date: 2024-01-16T20:00:22-08:00
-tag: Whistler Blackcomb
+tag: Grouse mountain
 image: assets/images/2024-01-16-feature.jpg
 ---
 
