@@ -4,7 +4,6 @@ title: 2024-01-17 Whistler Blackcomb snow report
 date: 2024-01-17T15:30:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-17-feature.jpg
-featured: true
 ---
 
 With 10cm of new snow and temperature to be -10C, it was one of the best powder days at Whistler Blackcomb.
