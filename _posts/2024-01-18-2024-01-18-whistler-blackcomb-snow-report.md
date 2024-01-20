@@ -22,3 +22,4 @@ Creekside Gondola stopped at around 11am. This photo is at 11:01am
 Canski Repair price list:
 ![](/assets/images/2024-01-18-canski-repair.jpg)
 
+The repair shop is at the B1 of Canski building at Creekside Village, which is directly connected from the creekside parkade.
