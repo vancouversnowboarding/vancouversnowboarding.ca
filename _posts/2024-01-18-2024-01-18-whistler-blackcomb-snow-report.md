@@ -4,7 +4,6 @@ title: 2024-01-18 Whistler Blackcomb snow report
 date: 2024-01-18T15:30:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-18-feature.jpg
-featured: true
 ---
 
 There was no overnight snow, but Symphony express and Peak expresss did not open yesterday, so everyone headed to Peak express this morning for the fresh powder.
