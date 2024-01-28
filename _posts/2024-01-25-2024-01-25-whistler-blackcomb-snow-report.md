@@ -4,7 +4,6 @@ title: 2024-01-25 Whistler Blackcomb snow report
 date: 2024-01-25T15:30:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-01-25-feature.jpg
-featured: true
 ---
 Unfortunately the visibility was not the best, the snow was great, and chairs weren't that busy. It was not strongly windy too.
 
