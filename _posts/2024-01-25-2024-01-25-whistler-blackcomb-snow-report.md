@@ -37,3 +37,5 @@ Lesser Flute Bowl:
 ![](/assets/images/2024-01-25-lesser-flute-bowl-3.jpg)
 
 The powder here was livechanging.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QxJt6kE41Q8?si=UsjogY0opGAxlQb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
