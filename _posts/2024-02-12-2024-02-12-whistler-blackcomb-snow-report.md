@@ -4,7 +4,6 @@ title: 2024-02-12 Whistler Blackcomb snow report
 date: 2024-02-12T12:50:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-02-12-feature.jpg
-featured: true
 ---
 We supposedly got 11cm overnight snow, but the fresh snow on ice was like artificial snow by snow cannons, and the exposed foundation was hard, so it formed bumpy moguls even at green runs such as Lower Whiskey Jack. It was also very busy.
 
