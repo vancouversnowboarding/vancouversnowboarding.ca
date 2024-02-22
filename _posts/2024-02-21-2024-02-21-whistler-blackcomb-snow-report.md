@@ -12,14 +12,21 @@ Snow at the alpine area was very good, except for some steep sections.
 Overall rate: 4/5 ★★★★☆
 
 Big Red Express:
+
 ![](/assets/images/2024-02-21-big-red-express.jpg)
 ![](/assets/images/2024-02-21-big-red-express-2.jpg)
 
 Whistler Village Gondola delayed to open:
 ![](/assets/images/2024-02-21-whistler-village-gondola-stopped.jpg)
 
+Upper Whiskey Jack, Pig Alley, and Ego Bowl towards Emerald 6 express:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5xDkw5WC1jA?si=CUftv1gFev_rm0P2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 The bottom of Emerald 6 Express area was very foggy:
 ![](/assets/images/2024-02-21-foggy-emerald-6-express.jpg)
+
+Peak Express chair, Mathew's Traverse, and Burnt Stew Trail towards Symphony express:
+TBD
 
 Under Symphony Express:
 ![](/assets/images/2024-02-21-symphony-express.jpg)
