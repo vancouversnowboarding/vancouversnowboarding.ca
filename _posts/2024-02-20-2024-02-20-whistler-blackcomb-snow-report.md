@@ -4,7 +4,6 @@ title: 2024-02-20 Whistler Blackcomb snow report
 date: 2024-02-20T15:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-02-20-feature.jpg
-featured: true
 ---
 Family Day is over, but unfortunately Whistler mountain was extremely busy within 1 hour after opening. Thankfully 5cm of new snow made a thin layer of actual (wet) snow on top of ice, which made the runs significantly better.
 
