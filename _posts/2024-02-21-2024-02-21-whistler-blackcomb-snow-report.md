@@ -26,7 +26,7 @@ The bottom of Emerald 6 Express area was very foggy:
 ![](/assets/images/2024-02-21-foggy-emerald-6-express.jpg)
 
 Peak Express chair, Mathew's Traverse, and Burnt Stew Trail towards Symphony express:
-TBD
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ixGX0_ddeFg?si=xeXg3J5qmibSJltk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Under Symphony Express:
 ![](/assets/images/2024-02-21-symphony-express.jpg)
