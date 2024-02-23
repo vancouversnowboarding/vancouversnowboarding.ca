@@ -4,7 +4,6 @@ title: 2024-02-21 Whistler Blackcomb snow report
 date: 2024-02-21T15:00:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-02-21-feature.jpg
-featured: true
 ---
 It was still busy, but with 5cm more snow and the visibility helped the runs even better. It was foggy at mid mountain, but top and bottom were clear.
 Snow at the alpine area was very good, except for some steep sections.
