@@ -14,7 +14,7 @@ Overall rate: 3/5 ★★★☆☆
 Big Red Express:
 ![](/assets/images/2024-02-26-big-red-express.jpg)
 
-Harmony 6 Express and 7th Heaven area:
+Harmony 6 Express and 7th Heaven area at 10:59am when it was still not supposed to be busy yet:
 ![](/assets/images/2024-02-26-harmony-6-express-and-7th-heaven.jpg)
 
 Do not ride at the bottom of the mountain. It's icy.
