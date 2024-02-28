@@ -29,7 +29,7 @@ Under Village Gondola near Upper Whiskey Jack:
 Waist deep powder:
 ![](/assets/images/2024-02-28-waist-deep-powder.jpg)
 
-Or all the way to the heat if you fall:
+Or all the way to the head if you fall:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Whistler Snow Report: Deep AF ❄️❄️🏂❄️❄️ <a href="https://t.co/MgW5QZRoJq">pic.twitter.com/MgW5QZRoJq</a></p>&mdash; 💽💽 Katie Ujihisa 💽💽 (@sandkatt) <a href="https://twitter.com/sandkatt/status/1762934752393539951?ref_src=twsrc%5Etfw">February 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Creekside Village near Rockit:
