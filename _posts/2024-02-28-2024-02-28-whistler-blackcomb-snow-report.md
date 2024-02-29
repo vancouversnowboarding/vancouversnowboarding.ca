@@ -25,9 +25,9 @@ Creekside Gondola line at 7:48am
 
 Green Acres:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BdS0nduuWNU?si=B3CQSHyYALqnTlZy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BdS0nduuWNU?si=B3CQSHyYALqnTlZy&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g55eRKzsdBw?si=WADgm7LPa7VNq5tm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g55eRKzsdBw?si=WADgm7LPa7VNq5tm&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Under Village Gondola near Upper Whiskey Jack:
 ![](/assets/images/2024-02-28-under-village-gondola-near-upper-whiskey-jack.jpg)
