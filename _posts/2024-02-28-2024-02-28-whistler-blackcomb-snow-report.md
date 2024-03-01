@@ -4,7 +4,6 @@ title: 2024-02-28 Whistler Blackcomb snow report
 date: 2024-02-28T14:20:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-02-28-feature.jpg
-featured: true
 ---
 Deep powder day! We got 32cm overnight snow, and it kept snowing heavily. Unfortunately due to high wind, all the alpine chairs did not open at all, and most other chairs were also affected.
 
