@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024-03-01 Grouse mountain snow report
-date: 2024-03-01T17:00:22-08:00
+date: 2024-03-01T16:00:22-08:00
 tag: Grouse mountain
 image: assets/images/2024-03-01-feature.jpg
 featured: true
