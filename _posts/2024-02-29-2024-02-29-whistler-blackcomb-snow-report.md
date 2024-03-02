@@ -4,7 +4,6 @@ title: 2024-02-29 Whistler Blackcomb snow report
 date: 2024-02-29T14:20:22-08:00
 tag: Whistler Blackcomb
 image: assets/images/2024-02-29-feature.jpg
-featured: true
 ---
 
 Blue bird powder day! 27cm of overnight snow and it ended up sunny. The snow above the mid mountain was amazing. Not only deep but also very light and dry. Unfortunately even with no new snow during daytime they did not open any of alpine chairs until very late. Also Creekside gondola delayed to open again due to deicing.
