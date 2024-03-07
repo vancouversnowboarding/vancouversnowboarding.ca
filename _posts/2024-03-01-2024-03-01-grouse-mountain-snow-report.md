@@ -13,7 +13,7 @@ Overall rate: 2/5 ★★☆☆☆
 
 The snow condition was great, and the visibility was not good with relatively strong wind. Also unfortunately Tyee Ski club was racing at Peak.
 
-Paper Trail:
+Heaven's Sake:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RCltf3q9di8?si=B3CQSHyYALqnTlZy&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
