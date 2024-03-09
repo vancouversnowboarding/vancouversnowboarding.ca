@@ -4,7 +4,6 @@ title: 2024-03-01 Grouse mountain snow report
 date: 2024-03-01T16:00:22-08:00
 tag: Grouse mountain
 image: assets/images/2024-03-01-feature.jpg
-featured: true
 ---
 
 It's a powder day, and The Cut finally opened until the very bottom! Unfortunately despite Grouse opened The Cut but Screaming Eagle delayed to open for about 3 hours, so everybody had to wait under the wet snow at the bottom of The Cut for over an hour, until they temporarily ran the chair just to bring us up.
