@@ -39,6 +39,9 @@ Here's Joe:
 
 There was also a run called Where's Bob too.
 
+Stardust:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ajgzQgA62gA?si=qpKoHRjYEVTxmDYi&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Ridge Run:
 ![](/assets/images/2024-03-05-ridge-run.jpg)
 
