@@ -4,7 +4,6 @@ title: 2024-03-05 SilverStar Mountain Resort snow report
 date: 2024-03-05T14:04:59-08:00
 tag: SilverStar Mountain Resort
 image: assets/images/2024-03-05-feature.jpg
-featured: true
 ---
 
 This is our first time reporting SilverStar mountain resort.
