@@ -5,7 +5,6 @@ title: 2024-03-19 Grouse mountain snow report
 date: 2024-03-19T16:00:22-08:00
 tag: Grouse mountain
 image: assets/images/2024-03-19-feature.jpg
-featured: true
 ---
 
 It's a hot and clear sunny slushy snow day.
