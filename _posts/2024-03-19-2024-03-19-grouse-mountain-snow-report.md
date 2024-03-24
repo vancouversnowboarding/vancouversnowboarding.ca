@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 2024-03-19 Grouse mountain snow report
