@@ -28,17 +28,18 @@ Flute Bowl:
 ![](/assets/images/2024-03-25-flute-bowl.jpg)
 ![](/assets/images/2024-03-25-flute-bowl-2.jpg)
 
-"Adagio" Upper Entrance, but cancelled to enter due to the condition:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DhxKpAZz9MY?si=Ob-fDiEcg_p-L2ae&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Fitz and Lower Olympic:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eEcxopQb_j0?si=Ob-fDiEcg_p-L2ae&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+How to access from Symphony Express to Harmony 6 Express:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SpLdKKsMPt0?si=Ob-fDiEcg_p-L2ae&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 How to access from Harmony 6 Express to Roundhouse:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ekH9j8-rc6o?si=Ob-fDiEcg_p-L2ae&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-How to access from Symphony Express to Harmony 6 Express:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SpLdKKsMPt0?si=Ob-fDiEcg_p-L2ae&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+"Adagio" Upper Entrance, but cancelled to enter due to the condition:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DhxKpAZz9MY?si=Ob-fDiEcg_p-L2ae&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Whistler Old Map at Roundhouse:
 ![](/assets/images/2024-03-25-whistler-old-map-at-roundhouse.jpg)
