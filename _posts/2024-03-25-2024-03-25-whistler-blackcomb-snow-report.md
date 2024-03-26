@@ -49,4 +49,4 @@ Whistler Village Parking #4180:
 
 The price as of today was
 * $1.70 for 30min
-* $2.95 for 1 hour
+* $2.95 for 1hour
