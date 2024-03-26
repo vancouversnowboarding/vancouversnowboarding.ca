@@ -11,7 +11,7 @@ The snow on groomed runs were not bad, but if you go out of the groomed runs, it
 
 Groomed runs were extremely busy even though the resort was not very busy at all.
 
-Overall rate: 3/5 ★★★☆☆
+Overall rate: 2/5 ★★☆☆☆
 
 Creekside Gondola:
 ![](/assets/images/2024-03-25-creekside-gondola.jpg)
