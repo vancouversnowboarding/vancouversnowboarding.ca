@@ -4,7 +4,6 @@ title: 2024-03-25 Whistler Blackcomb snow report
 date: 2024-03-25T13:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-03-25-feature.jpg
-featured: true
 ---
 
 The snow on groomed runs were not bad, but if you go out of the groomed runs, it was very icy and hard packed. The visibility was not good, and it was little bit snowy. The snow was mix of sticky and fast.
