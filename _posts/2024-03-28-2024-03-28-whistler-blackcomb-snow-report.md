@@ -4,7 +4,6 @@ title: 2024-03-28 Whistler Blackcomb snow report
 date: 2024-03-28T17:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-03-28-feature.jpg
-featured: true
 ---
 
 We got 10cm overnight snow, and it was partially sunny, so it's a bluebird mini-pow day!
