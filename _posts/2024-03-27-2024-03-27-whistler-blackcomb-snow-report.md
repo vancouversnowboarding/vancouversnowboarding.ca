@@ -4,7 +4,6 @@ title: 2024-03-27 Whistler Blackcomb snow report
 date: 2024-03-27T17:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-03-27-feature.jpg
-featured: true
 ---
 
 It was raining in the village, wet-snowing on the mountain, and windy at the top. The visibility was not good, and the snow was mix of sticky and fast.
