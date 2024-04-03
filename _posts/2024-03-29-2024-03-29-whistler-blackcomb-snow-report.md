@@ -4,7 +4,6 @@ title: 2024-03-29 Whistler Blackcomb snow report
 date: 2024-03-29T14:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-03-29-feature.jpg
-featured: true
 ---
 
 It's Good Friday, and got 5cm overnight snow, so the resort was busy and actually icy. Not a great day to go there.
