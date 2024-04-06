@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 2024-04-04 Whistler Blackcomb snow report
