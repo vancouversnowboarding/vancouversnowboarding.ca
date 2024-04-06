@@ -4,7 +4,6 @@ title: 2024-04-03 Whistler Blackcomb snow report
 date: 2024-04-03T14:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-04-03-feature.jpg
-featured: true
 ---
 
 We got 21cm of overnight snow. However, more than half of the snow was wet snow and refrozen into pure ice.
