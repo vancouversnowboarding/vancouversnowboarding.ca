@@ -4,7 +4,6 @@ title: 2024-04-04 Whistler Blackcomb snow report
 date: 2024-04-04T14:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-04-04-feature.jpg
-featured: true
 ---
 
 It was unfortunately icy but groomed runs' conditions were not bad. It was not busy at all.
