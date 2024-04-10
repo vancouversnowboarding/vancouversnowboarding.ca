@@ -4,7 +4,6 @@ title: 2024-04-05 Whistler Blackcomb snow report
 date: 2024-04-05T14:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-04-05-feature.jpg
-featured: true
 ---
 
 The visibility was great. Snow was not the best but at least evenly groomed, so you can still carve. It was not busy at all.
