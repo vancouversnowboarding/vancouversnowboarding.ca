@@ -4,7 +4,6 @@ title: 2024-04-09 Whistler Blackcomb snow report
 date: 2024-04-09T14:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-04-09-feature.jpg
-featured: true
 ---
 
 It was blue bird powder day! We got 14cm new snow, and the visibility was great. The snow was not wet but creamy & fluffy. It was busier than usual, but compared other powder days, it was not busy at all. Thankfully gondolas did not delay, which was surprising.
