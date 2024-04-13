@@ -4,7 +4,6 @@ title: 2024-04-10 Whistler Blackcomb snow report
 date: 2024-04-10T14:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-04-10-feature.jpg
-featured: true
 ---
 
 It was not a powder day, but the snow was still good, and a great blue bird day with no winds. It was not busy at all, except for some major runs.  It's definitely another best day of the whole season.
