@@ -11,3 +11,8 @@ It's a 14cm powder day, and the resort was not busy at all! Unfortunately Peak E
 
 Overall rate: 5/5 ★★★★★
 
+"Rabbit Tracks" and "GS Run" selfie:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZhWHhJT9V7U?si=Ob-fDiEcg_p-L2ae&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+"Old Man":
+<iframe width="560" height="315" src="https://www.youtube.com/embed/STsZ533Ot6Q?si=Ob-fDiEcg_p-L2ae&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
