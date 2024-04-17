@@ -4,7 +4,6 @@ title: 2024-04-15 Whistler Blackcomb snow report
 date: 2024-04-15T14:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-04-15-feature.jpg
-featured: true
 ---
 
 The snow was very ice at the top, but very nice and slushy at the bottom of the mountain.
