@@ -4,7 +4,6 @@ title: 2024-04-18 Whistler Blackcomb snow report
 date: 2024-04-18T14:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-04-18-feature.jpg
-featured: true
 ---
 
 The snow was icy from the top to bottom, but the worst area was the mid mountain with some death cookies. The resort was not busy at all, and the visibility was great. The air was surprisingly cool.
