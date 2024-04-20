@@ -11,6 +11,9 @@ Unfortunately the snow was icy from the top to bottom with more death cookies. T
 
 Overall rate: 1/5 ★☆☆☆☆
 
+"Whistler Bowl" to "Shale Slope":
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SGvOY1_Llu8?si=Ob-fDiEcg_p-L2ae&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Top of Peak Express (the bridge was buried under the snow):
 ![](/assets/images/2024-04-19-top-of-peak-express-the-bridge-was-buried-under-the-snow.jpg)
 
