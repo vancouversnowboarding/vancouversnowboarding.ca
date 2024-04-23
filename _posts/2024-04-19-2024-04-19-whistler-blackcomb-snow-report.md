@@ -4,7 +4,6 @@ title: 2024-04-19 Whistler Blackcomb snow report
 date: 2024-04-19T14:30:22-07:00
 tag: Whistler Blackcomb
 image: assets/images/2024-04-19-feature.jpg
-featured: true
 ---
 
 Unfortunately the snow was icy from the top to bottom with more death cookies. The resort was replatively busier despite the icy conditions. It was also hot for human but not hot enough to melt the snow.
