@@ -34,12 +34,12 @@ Tip: There's a small area past the jumps and to the left of the snowmakers that 
 In season 2020/2021, the cut opened til mid-station on 2020-12-14, and fully opened during Christmas week.
 It also gets foggy often.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U3CvII3sVZs&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3CvII3sVZs?hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Normal season
 
 It still can get foggy when the temperature is high and humid, but otherwise it guarantees the best view and wide open fun ride.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U3CvII3sVZs&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3CvII3sVZs?hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GgdG4Tv-I30&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgdG4Tv-I30?hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
