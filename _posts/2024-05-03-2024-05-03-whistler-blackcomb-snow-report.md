@@ -4,7 +4,6 @@ title: 2024-05-03 Whistler Blackcomb snow report
 date: "2024-05-03T14:30:22-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-05-03-feature.jpg
-featured: true
 ---
 
 It was icier than the past days, but the snow gradually turned better.
