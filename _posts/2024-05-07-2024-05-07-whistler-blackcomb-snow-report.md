@@ -4,7 +4,6 @@ title: 2024-05-07 Whistler Blackcomb snow report
 date: "2024-05-07T14:30:22-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-05-07-feature.jpg
-featured: true
 ---
 
 The condition was very variable today. It was mostly icy and bumpy, but some spots were soft and slushy.
