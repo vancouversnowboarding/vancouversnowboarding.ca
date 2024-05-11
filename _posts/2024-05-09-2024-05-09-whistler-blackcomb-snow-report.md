@@ -14,3 +14,5 @@ Overall rate: 3/5 ★★★☆☆
 Park:
 ![](/assets/images/2024-05-09-park.jpg)
 ![](/assets/images/2024-05-09-park-2.jpg)
+
+This is our last snow report of this season. See you again at the next season!
