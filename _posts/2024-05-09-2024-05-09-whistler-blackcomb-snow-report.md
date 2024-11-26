@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024-05-09 Whistler Blackcomb snow report
-date: "2024-05-09T17:00:22-07:00"
+date: "2024-05-09T14:30:22-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-05-09-feature.jpg
 featured: true
