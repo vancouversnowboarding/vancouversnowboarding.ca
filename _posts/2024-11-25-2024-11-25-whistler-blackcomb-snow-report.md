@@ -4,7 +4,6 @@ title: 2024-11-25 Whistler Blackcomb snow report
 date: "2024-11-25T17:00:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-11-25-feature.jpg
-featured: true
 ---
 
 Whistler Blackcomb was planning to open on 2024-11-22, but this year thanks to La Nina we got a lot of snow and they opened 1 days earlier just at the Blackcomb side on 2024-11-21.
