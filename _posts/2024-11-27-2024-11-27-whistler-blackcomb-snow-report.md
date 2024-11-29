@@ -4,7 +4,6 @@ title: 2024-11-27 Whistler Blackcomb snow report
 date: "2024-11-27T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-11-27-feature.jpg
-featured: true
 ---
 
 The visibility was mostly good but sometimes it was foggy. The snow was still good.
