@@ -26,3 +26,6 @@ Lists open:
 
 Black Tusk from Harmony express 6:
 ![](assets/images/2024-12-02-black-tusk.jpg)
+
+Harmony Ridge:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/153yZ6v98Gg?si=Up-cQNI4-bzBYo6L&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
