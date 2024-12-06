@@ -4,7 +4,6 @@ title: 2024-12-03 Whistler Blackcomb snow report
 date: "2024-12-03T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-12-03-feature.jpg
-featured: true
 ---
 
 Emerald 6 express and Harmony 6 express delayed to open. Temperature went up to 3C with low of 1C, so the snow was not icy but very nice and soft.
