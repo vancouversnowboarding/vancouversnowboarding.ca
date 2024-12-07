@@ -4,7 +4,6 @@ title: 2024-12-05 Whistler Blackcomb snow report
 date: "2024-12-05T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-12-05-feature.jpg
-featured: true
 ---
 
 All the runs were extremely icy. The visibility was not great. Just don't go today.
