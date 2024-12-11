@@ -4,7 +4,6 @@ title: 2024-12-06 Whistler Blackcomb snow report
 date: "2024-12-06T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-12-06-feature.jpg
-featured: true
 ---
 
 All the runs were extremely icy in the early morning. The visibility was even worse than yesterday. It was strongly windy too. Furthermore, it started raining shortly.
@@ -18,7 +17,6 @@ Lists open:
 * Whistler
     * Emerald 6 Express
     * Big Red Express
-    * Franz's Chair
     * Harmony 6 Express
     * Peak Express
 * Blackcomb

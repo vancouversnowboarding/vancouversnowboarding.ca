@@ -16,7 +16,6 @@ Lists open:
 * Whistler
     * Emerald 6 Express
     * Big Red Express
-    * Franz's Chair
     * Harmony 6 Express
     * Peak Express (new!)
 * Blackcomb
