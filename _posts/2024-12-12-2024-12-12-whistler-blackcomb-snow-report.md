@@ -4,7 +4,6 @@ title: 2024-12-12 Whistler Blackcomb snow report
 date: "2024-12-12T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-12-12-feature.jpg
-featured: true
 ---
 
 Snow condition was better than yesterday. It's still icy, but just less icy. It was surprisingly busy as a Thursday unfortunately.
