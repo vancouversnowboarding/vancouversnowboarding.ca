@@ -4,7 +4,6 @@ title: 2024-12-13 Whistler Blackcomb snow report
 date: "2024-12-13T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-12-13-feature.jpg
-featured: true
 ---
 
 Recorded just 1cm of new snow, but surprisingly the condition of every groomed run turned out to be great. It was not icy at all, and the visibility was good. Note that all the alpine chairs were closed due to the wind.
