@@ -4,7 +4,6 @@ title: 2024-12-16 Whistler Blackcomb snow report
 date: "2024-12-16T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-12-16-feature.jpg
-featured: true
 ---
 
 [Last Friday](https://vancouversnowboarding.ca/2024-12-13-whistler-blackcomb-snow-report/) was great, but surprisingly today was even better. Less people, fresh snow, and cold temperature. It was snowing even in the Whistler Village.
