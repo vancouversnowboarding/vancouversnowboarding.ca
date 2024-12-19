@@ -19,11 +19,11 @@ Crystal Ridge Express:
 
 ## Glacier Creek Lodge's food menus with prices
 
-Ramen: $22.99
+Ramen 🍜: $22.99
 ![](/assets/images/2024-12-17-food-menu-ramen.jpg)
 
-Burger: $19.99
+Burger 🍔: $19.99
 ![](/assets/images/2024-12-17-food-menu-burger.jpg)
 
-Tacos: $19.99
+Tacos 🌮: $19.99
 ![](/assets/images/2024-12-17-food-menu-tacos.jpg)
