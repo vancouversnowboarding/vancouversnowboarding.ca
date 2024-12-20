@@ -4,7 +4,6 @@ title: 2024-12-17 Whistler Blackcomb snow report
 date: "2024-12-17T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-12-17-feature.jpg
-featured: true
 ---
 
 This was another great day. Very similar to [yesterday](https://vancouversnowboarding.ca/2024-12-16-whistler-blackcomb-snow-report/).
