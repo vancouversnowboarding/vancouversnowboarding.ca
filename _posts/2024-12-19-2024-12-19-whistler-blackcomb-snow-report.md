@@ -4,7 +4,6 @@ title: 2024-12-19 Whistler Blackcomb snow report
 date: "2024-12-19T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-12-19-feature.jpg
-featured: true
 ---
 
 Two days ago we got a lot of snow, so yesterday was a powder day, but most of alpine chairs could not open. Today there was not overnight snow, so alpine chairs finally opened.
