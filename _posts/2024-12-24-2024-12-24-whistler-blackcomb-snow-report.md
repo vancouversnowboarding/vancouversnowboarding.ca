@@ -4,7 +4,6 @@ title: 2024-12-24 Whistler Blackcomb snow report
 date: "2024-12-24T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2024-12-24-feature.jpg
-featured: true
 ---
 
 It was raining at the village, and it was very windy at the top. Due to the high wind Peak express, Harmony 6 express, and Symphony express were closed.
