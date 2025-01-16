@@ -4,7 +4,6 @@ title: 2025-01-14 Whistler Blackcomb snow report
 date: "2025-01-14T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-01-14-feature.jpg
-featured: true
 ---
 
 No overnight snow, but the snow condition was still surprisingly good, thanks to the cold temperature. The visibility was great all day.
