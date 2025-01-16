@@ -7,7 +7,7 @@ image: assets/images/2025-01-15-feature.jpg
 featured: true
 ---
 
-Still no overnight snow, but the snow condition was not very bad, even with relatively high temperature. The visibility was great all day.
+Still no overnight snow, but the snow condition was not very bad, even with relatively high temperature. It was sunny and the visibility was great all day.
 
 Runs were busy, but overall the resort was not very busy.
 
