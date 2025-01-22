@@ -4,7 +4,6 @@ title: 2025-01-20 Whistler Blackcomb snow report
 date: "2025-01-20T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-01-20-feature.jpg
-featured: true
 ---
 
 It was very icy. Due to cloudy weather flat light also made it hard to ride.
