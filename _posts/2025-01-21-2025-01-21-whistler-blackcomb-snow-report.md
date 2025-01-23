@@ -4,7 +4,6 @@ title: 2025-01-21 Whistler Blackcomb snow report
 date: "2025-01-21T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-01-21-feature.jpg
-featured: true
 ---
 
 It was very icy yesterday, and it was even worth today. Don't go there.
