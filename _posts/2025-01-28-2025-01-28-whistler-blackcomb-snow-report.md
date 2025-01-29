@@ -15,7 +15,7 @@ Off piste is still not recommended, but the groomers are in good shape. It was n
 Overall rate: 4/5 ★★★★☆
 
 Pony Trail:
-![](assets/images/2025-01-28-pony-trail.jpg)
+![](/assets/images/2025-01-28-pony-trail.jpg)
 
 The Saddle:
-![](assets/images/2025-01-28-the-saddle.jpg)
+![](/assets/images/2025-01-28-the-saddle.jpg)
