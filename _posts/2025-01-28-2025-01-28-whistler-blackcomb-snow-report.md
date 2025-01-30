@@ -4,7 +4,6 @@ title: 2025-01-28 Whistler Blackcomb snow report
 date: "2025-01-28T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-01-28-feature.jpg
-featured: true
 ---
 
 It was another strong inversion day. Very hot at Whistler Peak or 7th Heaven, and pretty cold at the village level.
