@@ -4,7 +4,6 @@ title: 2025-01-31 Whistler Blackcomb snow report
 date: "2025-01-31T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-01-31-feature.jpg
-featured: true
 ---
 
 Pow day! It's been about a month after the last snowfall. We got 12cm of overnight snow.
