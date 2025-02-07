@@ -4,7 +4,6 @@ title: 2025-02-05 Whistler Blackcomb snow report
 date: "2025-02-05T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-02-05-feature.jpg
-featured: true
 ---
 
 It was -17C extremely cold day. Similar to yesterday, it was not very cold at sunny and windless spots, but it was very cold at shaded and windy spots, such as Expressway.
