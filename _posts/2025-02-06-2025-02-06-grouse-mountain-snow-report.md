@@ -4,7 +4,6 @@ title: 2025-02-06 Grouse mountain snow report
 date: 2025-02-06T16:00:22-08:00
 tag: Grouse mountain
 image: assets/images/2025-02-06-feature.jpg
-featured: true
 ---
 
 It was -6C with plenty of both artificial and natural snow. Not only The Cut is fully open, but surprisingly all the runs were open.
