@@ -7,9 +7,9 @@ image: assets/images/2025-02-07-feature.jpg
 featured: true
 ---
 
-The snow was not as great as yesterday, but it was still pretty good at the most of The Cut. The weather was amazing; cold and sunny.
+The snow was not as great as yesterday, but it was still pretty good at the most of [The Cut](/grouse/the-cut/). The weather was amazing; cold and sunny.
 
-However, there were two problems. First, it was too busy and there's a choke point at the intersection of Chalet Road and The Cut due to Cut Park entrance located too high, so it was very sketchy and dangerous. Second, the Chalet was almost completely closed due to a private event for Arcteryx employees exclusively.
+However, there were two problems. First, it was too busy and there's a choke point at the intersection of Chalet Road and [The Cut](/grouse/the-cut/) due to Cut Park entrance located too high, so it was very sketchy and dangerous. Second, the Chalet was almost completely closed due to a private event for Arcteryx employees exclusively.
 
 Overall rate: 1/5 ★☆☆☆☆
 
