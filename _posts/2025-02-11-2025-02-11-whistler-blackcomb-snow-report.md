@@ -4,7 +4,6 @@ title: 2025-02-11 Whistler Blackcomb snow report
 date: "2025-02-11T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-02-11-feature.jpg
-featured: true
 ---
 
 It was the final day of Arctic Outflow, so it was another extremely cold and sunny day. The snow condition at groomed runs were really great, and it was not busy at all.
