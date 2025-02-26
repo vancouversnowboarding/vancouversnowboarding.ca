@@ -4,7 +4,6 @@ title: 2025-02-24 Whistler Blackcomb snow report
 date: "2025-02-24T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-02-24-feature.jpg
-featured: true
 ---
 
 Finally family day week is over, and now it's back to normal.
