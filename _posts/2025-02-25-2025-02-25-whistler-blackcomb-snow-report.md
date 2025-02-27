@@ -4,7 +4,6 @@ title: 2025-02-25 Whistler Blackcomb snow report
 date: "2025-02-25T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-02-25-feature.jpg
-featured: true
 ---
 
 Today we got 9cm new snow, and it was not windy at all.
