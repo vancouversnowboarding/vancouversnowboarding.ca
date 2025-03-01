@@ -4,7 +4,6 @@ title: 2025-02-26 Whistler Blackcomb snow report
 date: "2025-02-26T14:30:22-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-02-26-feature.jpg
-featured: true
 ---
 
 Snow got hard surprisingly quick. It was not windy but cloudy in the morning, and got partially sunny later. It was busy at Symphony and Harmony 6.
