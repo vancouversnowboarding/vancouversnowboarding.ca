@@ -10,3 +10,5 @@ featured: true
 Extremely ice and pretty foggy at the top half of the mountain, and slushy at the bottom half. Gondolas were busy.
 
 Overall rate: 1/5 ★☆☆☆☆
+
+It was hot at the bottom. Parking Lot 6 temperature at 12pm was 15C.
