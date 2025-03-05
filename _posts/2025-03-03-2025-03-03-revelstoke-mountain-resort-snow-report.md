@@ -4,7 +4,6 @@ title: 2025-03-03 Revelstoke Mountain Resort snow report
 date: "2025-03-03T14:04:59-08:00"
 tag: Revelstoke Mountain Resort
 image: assets/images/2025-03-03-feature.jpg
-featured: true
 ---
 
 Revelstoke got 4cm of new snow for the past 24 hours. It was heavily snowing in the morning, and it was extremely foggy at the top half of the mountain. The snow was good in the morning at the top, but can't see anything. After a while the snow got tracked out.
