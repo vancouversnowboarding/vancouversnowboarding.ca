@@ -10,6 +10,3 @@ featured: true
 None of the area had good snow. The area at Steller chair was least icy among all the other areas.
 
 Overall rate: 0/5 ☆☆☆☆☆
-
----
-
