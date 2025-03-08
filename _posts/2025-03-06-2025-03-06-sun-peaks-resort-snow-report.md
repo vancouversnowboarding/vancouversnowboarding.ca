@@ -4,7 +4,6 @@ title: 2025-03-06 Sun Peaks Resort snow report
 date: "2025-03-06T14:04:59-08:00"
 tag: Sun Peaks Resort
 image: assets/images/2025-03-06-feature.jpg
-featured: true
 ---
 
 This is our first Sun Peaks snow report!
