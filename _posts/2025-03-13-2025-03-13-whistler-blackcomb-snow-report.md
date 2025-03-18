@@ -4,7 +4,6 @@ title: 2025-03-13 Whistler Blackcomb snow report
 date: "2025-03-13T14:30:22-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-03-13-feature.jpg
-featured: true
 ---
 
 It was another crazy pow day.
