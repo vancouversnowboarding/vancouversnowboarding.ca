@@ -4,7 +4,6 @@ title: 2025-03-18 Whistler Blackcomb snow report
 date: "2025-03-18T14:30:22-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-03-18-feature.jpg
-featured: true
 ---
 
 1 centimeter of new snow overnight, and it was a bluebird sunny day at the top half of the mountain.
