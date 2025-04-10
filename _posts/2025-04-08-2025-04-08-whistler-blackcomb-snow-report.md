@@ -4,7 +4,6 @@ title: 2025-04-08 Whistler Blackcomb snow report
 date: "2025-04-08T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-04-08-feature.jpg
-featured: true
 ---
 
 All alpine chairs eventually opened today, but snow conditions left much to be desired. Most of the mountain was crunchy, uneven, and generally not great riding. Upper McConkey’s and Whistler Bowl down to Shale Slope were particularly rough — bumpy, scraped off, and just not fun.
