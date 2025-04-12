@@ -4,7 +4,6 @@ title: 2025-04-09 Whistler Blackcomb snow report
 date: "2025-04-09T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-04-09-feature.jpg
-featured: true
 ---
 
 With 10cm overnight snow, it was great anywhere above lower Ego Bowl. It was not busy too.
