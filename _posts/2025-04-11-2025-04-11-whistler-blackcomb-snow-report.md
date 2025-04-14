@@ -4,7 +4,6 @@ title: 2025-04-11 Whistler Blackcomb snow report
 date: "2025-04-11T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-04-11-feature.jpg
-featured: true
 ---
 
 It was icy everywhere, and the only area that was not very icy was pretty much Upper Burnt Stew Trail.
