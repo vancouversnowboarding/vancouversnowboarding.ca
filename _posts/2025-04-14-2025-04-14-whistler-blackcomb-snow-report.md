@@ -4,7 +4,6 @@ title: 2025-04-14 Whistler Blackcomb snow report
 date: "2025-04-14T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-04-14-feature.jpg
-featured: true
 ---
 
 The morning started off icy around mid-mountain, especially near the top of Big Red Express. However, conditions were excellent up in the alpine, with both Upper and Lower Burnt Stew Trail riding beautifully. Unfortunately, Harmony Piste hadn't been groomed, so it was quite choppy.
