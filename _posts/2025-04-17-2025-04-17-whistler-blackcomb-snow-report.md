@@ -4,7 +4,6 @@ title: 2025-04-17 Whistler Blackcomb snow report
 date: "2025-04-17T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-04-17-feature.jpg
-featured: true
 ---
 
 Pure ice at the most of the mountain, even in the afternoon, but finally got gradually slushy at the very late afternoon at mid-mountain, such as lower part of Pony Trail.
