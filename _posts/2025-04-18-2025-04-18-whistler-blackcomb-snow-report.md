@@ -4,7 +4,6 @@ title: 2025-04-18 Whistler Blackcomb snow report
 date: "2025-04-18T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-04-18-feature.jpg
-featured: true
 ---
 
 Since it was Good Friday, it was busier than other days of this week, but surprisingly not busy at all. All the alpine chairs opened pretty quickly, and lift wait times among each chair were not diversed.
