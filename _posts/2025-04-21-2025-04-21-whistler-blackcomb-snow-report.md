@@ -4,7 +4,6 @@ title: 2025-04-21 Whistler Blackcomb snow report
 date: "2025-04-21T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-04-21-feature.jpg
-featured: true
 ---
 
 Sadly it's the last day of Whistler mountain this year. Blackcomb mountain is still open after tomorrow, with the new operation hours.
