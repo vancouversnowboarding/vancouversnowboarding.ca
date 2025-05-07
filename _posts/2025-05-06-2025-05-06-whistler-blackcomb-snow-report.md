@@ -3,7 +3,7 @@ layout: post
 title: 2025-05-04 Whistler Blackcomb snow report
 date: "2025-05-04T14:10:00-07:00"
 tag: Whistler Blackcomb
-image: assets/images/2025-05-02-feature.jpg
+image: assets/images/2025-05-06-feature.jpg
 featured: true
 ---
 
