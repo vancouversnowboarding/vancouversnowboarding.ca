@@ -4,7 +4,6 @@ title: 2025-05-06 Whistler Blackcomb snow report
 date: "2025-05-06T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-05-06-feature.jpg
-featured: true
 ---
 
 The runs towards the Parking Lot 6 and Blackcomb Gondola bottom were both disconnected, so you must download either from Excalibur to Parking Lot 6 or Blackcomb Gondola for Upper Village.
