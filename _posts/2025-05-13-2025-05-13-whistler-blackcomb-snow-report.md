@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2025-05-09 Whistler Blackcomb snow report
-date: "2025-05-09T14:10:00-07:00"
+title: 2025-05-13 Whistler Blackcomb snow report
+date: "2025-05-13T14:10:00-07:00"
 tag: Whistler Blackcomb
-image: assets/images/2025-05-09-feature.jpg
+image: assets/images/2025-05-13-feature.jpg
 featured: true
 ---
 
@@ -14,7 +14,7 @@ The resort was pretty much empty as Friday standard. No wait at all at any chair
 Overall rate: 5/5 ★★★★★
 
 Jersey Cream:
-![](assets/images/2025-05-09-jersey-cream.jpg)
+![](assets/images/2025-05-13-jersey-cream.jpg)
 
 Black Bear under Excalibur Gondola near Lower Cruser:
-![](assets/images/2025-05-09-black-bear.jpg)
+![](assets/images/2025-05-13-black-bear.jpg)
