@@ -4,7 +4,6 @@ title: 2025-05-13 Whistler Blackcomb snow report
 date: "2025-05-13T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-05-13-feature.jpg
-featured: true
 ---
 
 The snow was slushy but not too bumpy. The coverage was good except for very specific spots, such as Green Road very close to Excalibur gondola top station.
