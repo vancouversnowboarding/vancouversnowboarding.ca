@@ -17,7 +17,7 @@ Heaven's Sake can sometimes get extremely foggy, even on a sunny day. If it's a 
 After Heaven's Sake, you can enter many runs. Here's my recommendation depending on your final destination:
 
 * Expo via Deliverance, if you want to go to Blueberry bowl.
-* Skyline via Deliverance and Expo, if you want to go to the bottom of the Cut.
+* Skyline via Deliverance and Expo, if you want to go to the bottom of The Cut.
 
 <!-- wp:image -->
 <figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/QG6wH2GNDz7cDydQTR1T4Hy-AJU4gjXwnuldNitESt2lFbhOcEn9G4L42pNWEox_Oimcl-z9TuBVXbVnpBFcHv2W3FnOBRI4yXl2K5iH6iWyNb9gdbCa3t_C76SbAFMyVDkipnjl22AxJT5Ml64GXLlKJqUbXfkCFwTlOeBVqx96p0Gk_XE2BuMVoPxUA7lwfwHrqN4ERCKJ2VYuq5gtIu6SjXzzVjNzFI7as-Phf2tBPCe3hYuEftT3O0YH-tpHkZWgy-bA_xMD3IDcDHCGQ5Fm0V298vXuSfUExXjzfKwubKauvgtwFDikwl4Vol-C16G63IP8H5N6Dn_6fiAb9K2kUp18vl5kuU2WOQLcr0hb7xh6-RdiF9zWfTemaPLRbsGbdjf1ITZdILDJBzjMGpTUhAweX9kqOOAwire9f75OLQW57ubB9f7_hRVnzh5HRKC2AlaA_HKnvVsE7yZDTvthB19yRl_NR1H2IaJqYr6FopllmrBf6ceFY5nfjg0cCyIwoJdL4gSugJwM8vZ0Wzay7_TO2p8MkZu0_Tj__frnZKRaktt_NVKsoNwD0YgAEn_PgqrvC3fgRqhZkY9Urweh1QXoESeGshcfAqIAldqn7ynMoUUt-upLBeCnU9inSZu4lZ14Le4YUdaSTHunTTK-0w091mQYBCrODNzLTpcZyn6JJ1CDfnz4zDs9t7B9zMvYI882L23NfCaD_9ukg6QgkIi8vijHNs0W6sbQajuOWi_Wks-zw3Y=w1824-h1368-no" alt="" /><figcaption>The entrance to Heaven's Sake right after Olympic Express charlift. You might be able to recognize the mallow uphill over there.</figcaption></figure>
