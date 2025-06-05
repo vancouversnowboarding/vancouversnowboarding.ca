@@ -39,7 +39,7 @@ image: https://vancouversnowboarding.files.wordpress.com/2020/12/pxl_20201203_19
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Paradise Jib Park at Paradise</li><li>Cut Park at the Cut (No chairlift access!)</li></ul>
+<ul><li>Paradise Jib Park at Paradise</li><li>Cut Park at The Cut (No chairlift access!)</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
