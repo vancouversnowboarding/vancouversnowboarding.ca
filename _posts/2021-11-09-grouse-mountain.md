@@ -31,7 +31,7 @@ Cons
 * Snow often gets icy
 * Most foggy not on a sunny day
 * No reservation during weekend, so it gets crazy busy during weekend
-* Smallest Magic Carpet area
+* Smallest Magic Carpet area (but still has Magic Carpet which is good)
 
 ## Major runs
 
