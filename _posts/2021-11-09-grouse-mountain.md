@@ -2,7 +2,7 @@
 layout: post
 title: Grouse mountain
 # original date: 2021-11-09T20:57:48-08:00
-date: 2023-05-09T18:57:48-07:00
+date: 2025-08-06T18:57:48-07:00
 tag: Grouse mountain
 featured: true
 image: assets/images/2021-11-09-grouse-mountain.png
@@ -15,6 +15,7 @@ The grouse mountain trail map image is from [Grouse mountain official webpage](h
 
 Pros
 
+* Has gondola (Blue Gondola) to go up the mountain from the parking
 * Best view on a sunny day
 * Lowest price for season pass thanks to Y2Play pass
 * Easiest to access either by public transit or car
@@ -25,8 +26,9 @@ Pros
 
 Cons
 
-* You must take Skyride, and it only comes every 15min
-* Snow gets icy often
+* You may have to take Skyride, depending on the availability, but most likely you can take the Blue Gondola
+    * Blue Gondola comes about every minute, and Skyride only comes every 15min or so
+* Snow often gets icy
 * Most foggy not on a sunny day
 * No reservation during weekend, so it gets crazy busy during weekend
 * Smallest Magic Carpet area
