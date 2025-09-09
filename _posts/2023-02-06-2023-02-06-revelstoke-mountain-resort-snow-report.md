@@ -40,7 +40,7 @@ The lodge was very busy too.
 Revelation lodge, looking up:
 ![](/assets/images/2023-02-06-revelation-lodge-looking-up.jpg)
 
-When I took this photo it wasn't bad but earlier it was extremely foggy. Worse than the Cut in grouse mountain on a foggy day.
+When I took this photo it wasn't bad but earlier it was extremely foggy. Worse than The Cut in grouse mountain on a foggy day.
 
 ---
 
