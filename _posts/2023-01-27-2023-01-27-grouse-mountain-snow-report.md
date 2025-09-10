@@ -19,7 +19,7 @@ The Cut in the early morning:
 Top of the Cut:
 ![](/assets/images/2023-01-27-top-of-the-cut.jpg)
 
-Rookie Park at the Cut Jumpline has the rainbow box at the top, but it's too short from the entry point, and it's located at the very right (very left in this photo), so it was not realistic to hit the box straight.
+Rookie Park at The Cut Jumpline has the rainbow box at the top, but it's too short from the entry point, and it's located at the very right (very left in this photo), so it was not realistic to hit the box straight.
 ![](/assets/images/2023-01-27-rookie-park.jpg)
 
 Upper Blazes was soft. It's exposed to the sun light, and it must have helped a lot.
