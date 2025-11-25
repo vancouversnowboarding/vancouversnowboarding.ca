@@ -4,7 +4,6 @@ title: 2025-05-18 Whistler Blackcomb snow report
 date: "2025-05-18T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-05-18-feature.jpg
-featured: true
 ---
 
 This is the last snow report of the season! Tomorrow is the last day of Whistler Blackcomb operation in this season. Mountain bike trails have been already open.

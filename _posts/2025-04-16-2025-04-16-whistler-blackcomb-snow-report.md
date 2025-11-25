@@ -4,7 +4,6 @@ title: 2025-04-16 Whistler Blackcomb snow report
 date: "2025-04-16T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-04-16-feature.jpg
-featured: true
 ---
 
 Pure ice at the most of the mountain, even in the afternoon.
