@@ -4,7 +4,6 @@ title: 2025-11-26 Whistler Blackcomb snow report
 date: "2025-11-26T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-11-26-feature.jpg
-featured: true
 ---
 
 Whistler mountain opened today! Village gondola at 8:30am when it was opening was extremely busy, while Blackcomb gondola and Catskinner express were empty.
