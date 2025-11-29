@@ -4,7 +4,6 @@ title: 2025-11-27 Whistler Blackcomb snow report
 date: "2025-11-27T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-11-27-feature.jpg
-featured: true
 ---
 
 It was snowing and the snow cannons were running. The visibility was not great at the top half of the mountain.
