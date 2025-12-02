@@ -4,7 +4,6 @@ title: 2025-11-28 Whistler Blackcomb snow report
 date: "2025-11-28T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-11-28-feature.jpg
-featured: true
 ---
 
 Busy, sunny, and icy. Big Red Express finally opened in the afternoon.
