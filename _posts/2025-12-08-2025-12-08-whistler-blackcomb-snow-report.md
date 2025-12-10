@@ -8,10 +8,12 @@ image: assets/images/2025-12-08-feature.jpg
 
 Extremely windy today. Peak2Peak and Harmony didn't open due to high winds. The snow was good, but it was busy because many chairs were running at reduced speed due to wind conditions.
 
+Photo credit: <https://www.whistlerblackcomb.com/the-mountain/mountain-conditions/mountain-cams.aspx>
+
 Overall rate: 2/5 ★★☆☆☆
 
 Open gondolas:
-* Excalibur Gondola (lower)
+* Excalibur Gondola
 * Blackcomb Gondola
 * Whistler Village Gondola
 * Creekside Gondola

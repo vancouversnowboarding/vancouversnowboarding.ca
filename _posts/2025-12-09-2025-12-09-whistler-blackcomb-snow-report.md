@@ -12,7 +12,7 @@ Bullet proof icy skate rink, and weirdly sticky. Completely unridable.
 Overall rate: 0/5 ☆☆☆☆☆
 
 Open gondolas:
-* Excalibur Gondola (lower)
+* Excalibur Gondola
 * Blackcomb Gondola
 * Whistler Village Gondola
 * Creekside Gondola
