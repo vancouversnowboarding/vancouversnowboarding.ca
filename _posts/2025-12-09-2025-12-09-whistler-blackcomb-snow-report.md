@@ -23,3 +23,4 @@ Open chairs:
 * Emerald 6 Express
 * Franz's chair
 * Big Red Express
+* Excelerator Express
