@@ -9,7 +9,7 @@ featured: true
 
 A solid wet powder day with 11cm of fresh snow overnight. Despite heavy rain at Creekside Village, conditions on the mountain were surprisingly good.
 
-Unlike yesterday, all lifts opened without delays. However, Harmony Chair had some confusion with signage—the status board indicated it was open from the start, but the chair actually took about an hour to begin operating. The delay was understandable given the weather conditions.
+Unlike yesterday, all lifts opened without delays. However, Harmony Chair had some confusion with signage -- the status board indicated it was open from the start, but the chair actually took about an hour to begin operating. The delay was understandable given the weather conditions.
 
 Montona's Mistake run delivered excellent riding conditions and was a highlight of the day. The mountain was pleasantly uncrowded, allowing for plenty of open space and fresh tracks.
 

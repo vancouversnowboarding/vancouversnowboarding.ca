@@ -8,7 +8,7 @@ image: assets/images/2025-04-14-feature.jpg
 
 The morning started off icy around mid-mountain, especially near the top of Big Red Express. However, conditions were excellent up in the alpine, with both Upper and Lower Burnt Stew Trail riding beautifully. Unfortunately, Harmony Piste hadn't been groomed, so it was quite choppy.
 
-By late morning, the snow had softened up across the mountain — even Ego Bowl was riding nicely, making for a fun afternoon overall.
+By late morning, the snow had softened up across the mountain -- even Ego Bowl was riding nicely, making for a fun afternoon overall.
 
 The resort was very quiet today. The only noticeably busy spot was Roundhouse Lodge at lunchtime, likely because only the second floor has been open for the past couple of weeks.
 
