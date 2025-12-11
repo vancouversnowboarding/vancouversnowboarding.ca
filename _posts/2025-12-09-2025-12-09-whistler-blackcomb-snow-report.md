@@ -4,7 +4,6 @@ title: 2025-12-09 Whistler Blackcomb snow report
 date: "2025-12-09T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-12-09-feature.jpg
-featured: true
 ---
 
 Bullet proof icy skate rink, and weirdly sticky. Completely unridable.
