@@ -28,4 +28,4 @@ Open chairs:
 * Franz's chair
 * Big Red Express
 * Excelerator Express
-* Harmony Chair
+* Harmony 6 Express

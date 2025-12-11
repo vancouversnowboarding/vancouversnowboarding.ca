@@ -28,4 +28,4 @@ Open chairs:
 
 Closed due to wind:
 * Peak2Peak Gondola
-* Harmony Chair
+* Harmony 6 Express
