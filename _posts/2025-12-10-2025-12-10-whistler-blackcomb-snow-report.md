@@ -4,7 +4,7 @@ title: 2025-12-10 Whistler Blackcomb snow report
 date: "2025-12-10T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-12-10-feature.png
-featured: true
+featured: false
 ---
 
 A solid wet powder day with 11cm of fresh snow overnight. Despite heavy rain at Creekside Village, conditions on the mountain were surprisingly good.
