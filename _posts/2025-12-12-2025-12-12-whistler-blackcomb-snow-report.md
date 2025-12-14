@@ -33,3 +33,4 @@ Open chairs:
 * Excelerator Express
 * Harmony 6 Express
 * 7th Heaven Express
+* Peak Express 🆕
