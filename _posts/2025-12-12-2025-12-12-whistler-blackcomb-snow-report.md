@@ -4,7 +4,7 @@ title: 2025-12-12 Whistler Blackcomb snow report
 date: "2025-12-12T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-12-12-feature.jpg
-featured: true
+featured: false
 ---
 
 A day with pretty good snow conditions, but extremely windy weather dominated the mountain experience. The highlight was 7th Heaven opening for the season.
