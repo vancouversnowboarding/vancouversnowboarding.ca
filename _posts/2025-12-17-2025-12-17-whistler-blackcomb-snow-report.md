@@ -4,7 +4,7 @@ title: 2025-12-17 Whistler Blackcomb snow report
 date: "2025-12-17T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-12-17-feature.jpg
-featured: true
+featured: false
 ---
 
 A beautiful blue bird powder day with 17cm of fresh snow and nicely cold temperatures. However, very windy conditions created significant operational challenges and mixed snow quality across the mountain.
