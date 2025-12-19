@@ -4,7 +4,7 @@ title: 2025-12-18 Whistler Blackcomb snow report
 date: "2025-12-18T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-12-18-feature.jpg
-featured: true
+featured: false
 ---
 
 Another powder day with better snow quality than yesterday, though conditions were quite different. Instead of blue bird skies, today brought active snowfall with reduced visibility throughout the day.
