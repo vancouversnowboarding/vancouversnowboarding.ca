@@ -4,7 +4,7 @@ title: 2025-12-19 Whistler Blackcomb snow report
 date: "2025-12-19T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-12-19-feature.jpg
-featured: true
+featured: false
 ---
 
 A good powder day with 5cm of fresh snow and less windy conditions than recent days. However, the mountain was exceptionally crowded across the board.
