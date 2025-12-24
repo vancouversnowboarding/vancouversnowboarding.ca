@@ -4,7 +4,7 @@ title: 2025-12-23 Whistler Blackcomb snow report
 date: "2025-12-23T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-12-23-feature.jpg
-featured: true
+featured: false
 ---
 
 An incredible powder day with 30cm of dry, cold fresh snow. Despite being the busiest day of the season so far, the snow quality made it worthwhile.
