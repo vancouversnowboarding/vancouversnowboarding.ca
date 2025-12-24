@@ -4,7 +4,7 @@ title: 2025-12-22 Whistler Blackcomb snow report
 date: "2025-12-22T14:00:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-12-22-feature.jpg
-featured: true
+featured: false
 ---
 
 A challenging day on the mountain despite good snow quality. Christmas week crowds and operational issues significantly impacted the experience.
