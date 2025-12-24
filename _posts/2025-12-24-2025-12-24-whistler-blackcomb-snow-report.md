@@ -18,10 +18,12 @@ Creekside Gondola at 8:16am:
 
 Creekside Gondola opened at 8:22am, 8 minutes earlier than the scheduled opening time.
 
+In a surprising turn of events, Peak Express opened at 9:20am - extraordinarily early considering it didn't open at all yesterday.
+
 Whistler Bowl:
 ![Whistler Bowl](/assets/images/2025-12-24-whistler-bowl.jpg)
 
-In a surprising turn of events, Peak Express opened at 9:20am - extraordinarily early considering it didn't open at all yesterday.
+Whistler Bowl entrance was susprisingly easy today. It's usually very bad. It was definitely the easiest entry of for the recent years.
 
 The most unexpected thing today was the lack of crowds. Where is everybody? None of the chairs were busy, which is unheard of on a powder day like this.
 
