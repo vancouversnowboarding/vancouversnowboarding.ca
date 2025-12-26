@@ -4,7 +4,7 @@ title: 2025-12-24 Whistler Blackcomb snow report
 date: "2025-12-24T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-12-24-feature.jpg
-featured: true
+featured: false
 ---
 
 A perfect powder day despite the official report showing no new snow. It was dumping all day with soft, dry snow everywhere.
