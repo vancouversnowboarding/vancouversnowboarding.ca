@@ -5,7 +5,9 @@
       "Bash(git commit:*)",
       "Bash(git show:*)",
       "Edit(**)",
-      "Write(**)"
+      "Write(**)",
+      "Bash(ls:*)",
+      "Bash(git grep:*)"
     ],
     "deny": [],
     "ask": []
