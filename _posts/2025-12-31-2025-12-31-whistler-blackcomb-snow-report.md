@@ -3,6 +3,7 @@ layout: post
 title: 2025-12-31 Whistler Blackcomb snow report
 date: "2025-12-31T14:10:00-08:00"
 tag: Whistler Blackcomb
+image: assets/images/2025-12-31-feature.jpg
 featured: false
 ---
 
