@@ -13,7 +13,7 @@ Overall rate: 2/5 ★★☆☆☆
 
 Peak Express was delayed today. Harmony Ridge was completely tracked out immediately - not sure if they even groomed it.
 
-Whistler's Jungle and Ego Bowl were good.
+Whiskey Jack and Ego Bowl were good.
 
 Open gondolas:
 * Excalibur Gondola

@@ -4,7 +4,7 @@ title: 2025-12-29 Whistler Blackcomb snow report
 date: "2025-12-29T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2025-12-29-feature.jpg
-featured: true
+featured: false
 ---
 
 A busy day with good snow. 4cm of overnight snow made groomers great, though a little sticky at some spots. Rip and grip conditions throughout.
