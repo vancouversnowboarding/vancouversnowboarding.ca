@@ -17,6 +17,9 @@ Peak Express was open. The alpine bowls including Whistler Bowl and West Bowl we
 
 Mid mountain conditions were good, such as Upper Olympic. The bottom part was harder, such as Lower Olympic, but still fine.
 
+Lower Olympic towards Whistler Village:
+![Lower Olympic towards Whistler Village](/assets/images/2025-12-31-lower-olympic-towards-whistler-village.jpg)
+
 Open gondolas:
 * Excalibur Gondola
 * Blackcomb Gondola
