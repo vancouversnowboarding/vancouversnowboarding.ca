@@ -4,7 +4,7 @@ title: 2026-01-01 Whistler Blackcomb snow report
 date: "2026-01-01T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-01-01-feature.jpg
-featured: true
+featured: false
 ---
 
 Extremely busy New Year's Day. Snow wasn't bad but slightly firmer than yesterday.
