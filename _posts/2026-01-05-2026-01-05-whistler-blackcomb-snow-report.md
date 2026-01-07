@@ -4,7 +4,7 @@ title: 2026-01-05 Whistler Blackcomb snow report
 date: "2026-01-05T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-01-05-feature.jpg
-featured: true
+featured: false
 ---
 
 Finally the holiday season is over. The mountain was not as busy as the past.
