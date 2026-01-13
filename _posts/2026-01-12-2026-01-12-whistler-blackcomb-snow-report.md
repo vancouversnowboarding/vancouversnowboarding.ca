@@ -14,3 +14,5 @@ The condition was so bad that it was actually fun.
 Overall rate: 1/5 ★☆☆☆☆
 
 It was not busy at all too.
+
+Note that it was snowing at the roundhouse elevation, immediately after riding down a little bit it turned to rain.
