@@ -4,7 +4,7 @@ title: 2026-01-09 Whistler Blackcomb snow report
 date: "2026-01-09T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-01-09-feature.jpg
-featured: true
+featured: false
 ---
 
 It was windy, with frozen mist sticking to our goggles was happening at mid-mountain.
