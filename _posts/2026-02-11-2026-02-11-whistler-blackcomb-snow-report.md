@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 2026-02-11 Whistler Blackcomb snow report
-date: "2026-02-11T14:10:00-07:00"
+date: "2026-02-11T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-02-11-feature.png
-featured: true
+featured: false
 ---
 
 No new snow, so the snow was hard-packed. Groomers were actually pretty good, particularly under the sun. Bottom to mid mountain area was pretty cold and the runs under the shade were icy and bumpy.
