@@ -3,7 +3,7 @@ layout: post
 title: 2026-02-12 Whistler Blackcomb snow report
 date: "2026-02-12T14:10:00-08:00"
 tag: Whistler Blackcomb
-image: assets/images/2026-02-12-feature.png
+image: assets/images/2026-02-12-feature.jpg
 featured: true
 ---
 
