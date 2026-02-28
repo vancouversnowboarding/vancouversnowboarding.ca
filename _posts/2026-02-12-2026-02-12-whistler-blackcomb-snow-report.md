@@ -4,7 +4,7 @@ title: 2026-02-12 Whistler Blackcomb snow report
 date: "2026-02-12T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-02-12-feature.jpg
-featured: true
+featured: false
 ---
 
 Similar to yesterday. No new snow, so the snow was hard-packed. Groomers were actually pretty good, but with flat light.
