@@ -4,7 +4,7 @@ title: 2026-03-06 Whistler Blackcomb snow report
 date: "2026-03-06T14:10:00-08:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-03-06-feature.jpg
-featured: true
+featured: false
 ---
 
 It was another great day. Little bit of fresh snow during overnight made the groomers really good, and the resort opened fairly early so it was not very busy even though it was Friday. The snow was really good everywhere.
