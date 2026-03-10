@@ -1,0 +1,50 @@
+#!/usr/bin/env ruby
+
+require 'date'
+
+UNICODE_QUOTES = {
+  '‘' => 'left single quote',
+  '’' => 'right single quote',
+  '“' => 'left double quote',
+  '”' => 'right double quote'
+}.freeze
+
+paths = Dir.glob('_posts/*-snow-report*.md').sort
+paths.select! do |path|
+  date_part = File.basename(path)[0, 10]
+  begin
+    Date.parse(date_part) >= Date.parse('2026-01-01')
+  rescue ArgumentError
+    false
+  end
+end
+
+if paths.empty?
+  warn 'snow-report lint: no 2026+ snow-report posts were found to check.'
+  exit 0
+end
+
+unicode_re = Regexp.union(UNICODE_QUOTES.keys)
+problems = []
+
+paths.each do |path|
+  File.foreach(path).with_index(1) do |line, number|
+    if line =~ /^\s*-\s+/           # bullet lines must use '*'
+      problems << "#{path}:#{number}: hyphen bullet found; use '*' for markdown lists."
+    end
+
+    line.scan(unicode_re) do |quote_char|
+      label = UNICODE_QUOTES[quote_char]
+      problems << "#{path}:#{number}: unicode quote #{quote_char.inspect} (#{label}) detected; use ASCII quotes."
+    end
+  end
+end
+
+if problems.empty?
+  puts 'snow-report lint: ok'
+  exit 0
+end
+
+puts "snow-report lint: #{problems.size} issue(s) detected:"
+problems.each { |problem| puts "  #{problem}" }
+exit 1
