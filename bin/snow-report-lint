@@ -9,6 +9,23 @@ UNICODE_QUOTES = {
   '”' => 'right double quote'
 }.freeze
 
+MONTH_NUMBERS = {
+  'january' => 1,
+  'february' => 2,
+  'march' => 3,
+  'april' => 4,
+  'may' => 5,
+  'june' => 6,
+  'july' => 7,
+  'august' => 8,
+  'september' => 9,
+  'october' => 10,
+  'november' => 11,
+  'december' => 12
+}.freeze
+
+DATE_MENTION_REGEX = /(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+([A-Za-z]+)\s+(\d{1,2})/i
+
 paths = Dir.glob('_posts/*-snow-report*.md').sort
 paths.select! do |path|
   date_part = File.basename(path)[0, 10]
@@ -28,9 +45,28 @@ unicode_re = Regexp.union(UNICODE_QUOTES.keys)
 problems = []
 
 paths.each do |path|
+  date_part = File.basename(path)[0, 10]
+  report_date = Date.parse(date_part) rescue next
   File.foreach(path).with_index(1) do |line, number|
     if line =~ /^\s*-\s+/           # bullet lines must use '*'
       problems << "#{path}:#{number}: hyphen bullet found; use '*' for markdown lists."
+    end
+
+    line.scan(DATE_MENTION_REGEX) do |day_name, month_name, day_number|
+      mention_month = MONTH_NUMBERS[month_name.downcase]
+      next unless mention_month
+      year = report_date.year
+      year -= 1 if mention_month > report_date.month + 1
+      mention_day = day_number.to_i
+      next if mention_day.zero? || mention_day > 31
+      begin
+        mention_date = Date.new(year, mention_month, mention_day)
+      rescue RangeError
+        next
+      end
+      target_fragment = "/#{mention_date.strftime('%Y-%m-%d')}-"
+      next if line.include?(target_fragment)
+      problems << "#{path}:#{number}: #{day_name}, #{month_name} #{mention_day} reference needs a link to /#{mention_date.strftime('%Y-%m-%d')}-whistler-blackcomb-snow-report.md."
     end
 
     line.scan(unicode_re) do |quote_char|
