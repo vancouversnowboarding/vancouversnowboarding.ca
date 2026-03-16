@@ -7,7 +7,7 @@ image: assets/images/2026-03-16-feature.jpg
 featured: true
 ---
 
-Ten centimetres of wet, heavy snow fell overnight, which slowed traffic into the resort and left the Creekside gondola about ten minutes late on its first run.
+10cm of wet, heavy snow fell overnight, which slowed traffic into the resort and left the Creekside gondola about 10 minutes late on its first run.
 
 All alpine chairs on the Whistler side remained closed so the top of the mountain stayed raw and unsettled, but the mid- and lower-mountain terrain was much busier and still skied nicely once the base toasted up. Lower Dave Murray Downhill was the highlight with good flow and solid grip after the fresh load; everything else around the lower lifts felt responsive even though visibility stayed muted.
 
