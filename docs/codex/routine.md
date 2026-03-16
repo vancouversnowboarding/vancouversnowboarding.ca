@@ -13,6 +13,6 @@ This notes the current steps for adding a same-day Whistler Blackcomb (WB) snow 
 * Double-check `_posts` to ensure only the new post still has `featured: true`; edit the previous report that was featured (usually the last one in git history) to `featured: false` so the homepage highlights just the latest entry.
 * Stage `assets/images/<date>-*` plus the new `_posts` file, run `git status`, and commit with a descriptive message like "Add <date> Whistler Blackcomb snow report" so the sequence seen in `git log` stays consistent.
 
-* Run `bin/snow-report-lint` after preparing the markdown so any remaining `-` bullets or curly quotes are caught before commit; the lint targets only 2026‑onward snow reports to keep legacy posts untouched.
+* Run `bin/snow-report-lint` after preparing the markdown so any remaining `-` bullets or curly quotes are caught before commit (add `--auto-correct` to have the script fix those issues automatically); the lint targets only 2026‑onward snow reports to keep legacy posts untouched.
 
 This routine mirrors the commits from March 2026: they added the new `_posts/2026-03-06...` file, introduced the same-date feature image, and set the 2026-03-05 post's `featured` flag to `false`, keeping only the newest report highlighted for readers.

@@ -9,6 +9,18 @@ UNICODE_QUOTES = {
   '”' => 'right double quote'
 }.freeze
 
+UNICODE_REPLACEMENTS = {
+  '‘' => "'",
+  '’' => "'",
+  '“' => '"',
+  '”' => '"'
+}.freeze
+
+AUTO_CORRECT_FLAGS = %w[--auto-correct --autocorrect --fix].freeze
+
+auto_correct = ARGV.any? { |flag| AUTO_CORRECT_FLAGS.include?(flag) }
+ARGV.reject! { |arg| AUTO_CORRECT_FLAGS.include?(arg) }
+
 MONTH_NUMBERS = {
   'january' => 1,
   'february' => 2,
@@ -43,13 +55,24 @@ end
 
 unicode_re = Regexp.union(UNICODE_QUOTES.keys)
 problems = []
+corrections = []
 
 paths.each do |path|
   date_part = File.basename(path)[0, 10]
   report_date = Date.parse(date_part) rescue next
-  File.foreach(path).with_index(1) do |line, number|
+  lines = File.readlines(path, chomp: true)
+  file_modified = false
+  lines.each_with_index do |line, idx|
+    current_line = line.dup
+    number = idx + 1
     if line =~ /^\s*-\s+/           # bullet lines must use '*'
-      problems << "#{path}:#{number}: hyphen bullet found; use '*' for markdown lists."
+      if auto_correct
+        current_line = current_line.sub(/^(\s*)-\s+/, '\1* ')
+        file_modified = true
+        corrections << "#{path}:#{number}: auto-corrected hyphen bullet to '*'"
+      else
+        problems << "#{path}:#{number}: hyphen bullet found; use '*' for markdown lists."
+      end
     end
 
     line.scan(DATE_MENTION_REGEX) do |day_name, month_name, day_number|
@@ -69,11 +92,35 @@ paths.each do |path|
       problems << "#{path}:#{number}: #{day_name}, #{month_name} #{mention_day} reference needs a link to /#{mention_date.strftime('%Y-%m-%d')}-whistler-blackcomb-snow-report.md."
     end
 
+    unicode_found = false
     line.scan(unicode_re) do |quote_char|
       label = UNICODE_QUOTES[quote_char]
-      problems << "#{path}:#{number}: unicode quote #{quote_char.inspect} (#{label}) detected; use ASCII quotes."
+      unicode_found = true
+      if auto_correct
+        corrections << "#{path}:#{number}: auto-corrected #{label} #{quote_char.inspect}"
+      else
+        problems << "#{path}:#{number}: unicode quote #{quote_char.inspect} (#{label}) detected; use ASCII quotes."
+      end
+    end
+
+    if auto_correct && unicode_found
+      current_line = current_line.gsub(unicode_re) { |quote| UNICODE_REPLACEMENTS[quote] || quote }
+      file_modified = true
+    end
+
+    if auto_correct && current_line != line
+      lines[idx] = current_line
     end
   end
+
+  if auto_correct && file_modified
+    File.write(path, lines.join("\n") + "\n")
+  end
+end
+
+unless corrections.empty?
+  puts "snow-report lint: auto-corrected #{corrections.size} issue(s):"
+  corrections.each { |correction| puts "  #{correction}" }
 end
 
 if problems.empty?
