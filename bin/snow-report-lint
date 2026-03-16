@@ -77,7 +77,7 @@ paths.each do |path|
 
     line.scan(DATE_MENTION_REGEX) do |day_name, month_name, day_number|
       mention_month = MONTH_NUMBERS[month_name.downcase]
-      next unless mention_month
+      next if !mention_month
       year = report_date.year
       year -= 1 if mention_month > report_date.month + 1
       mention_day = day_number.to_i
@@ -118,7 +118,7 @@ paths.each do |path|
   end
 end
 
-unless corrections.empty?
+if !corrections.empty?
   puts "snow-report lint: auto-corrected #{corrections.size} issue(s):"
   corrections.each { |correction| puts "  #{correction}" }
 end
