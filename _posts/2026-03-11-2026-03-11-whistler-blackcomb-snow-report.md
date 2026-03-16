@@ -4,7 +4,7 @@ title: 2026-03-11 Whistler Blackcomb snow report
 date: "2026-03-11T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-03-11-feature.jpg
-featured: true
+featured: false
 ---
 
 3 cm of overnight snow fell, which made the surface better than our [Tuesday, March 10](/2026-03-10-2026-03-10-whistler-blackcomb-snow-report.md/) run two days earlier, but everything still felt packed and clung to a firm base.
