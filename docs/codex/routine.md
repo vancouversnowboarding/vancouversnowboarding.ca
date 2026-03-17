@@ -12,6 +12,7 @@ This notes the current steps for adding a same-day Whistler Blackcomb (WB) snow 
 * When you mention a past visit or another calendar day, link the text to its `_posts` report (for example, `Same as [yesterday](/2026-01-23-2026-01-23-whistler-blackcomb-snow-report.md/)`); this keeps readers able to follow your timeline.
 * Double-check `_posts` to ensure only the new post still has `featured: true`; edit the previous report that was featured (usually the last one in git history) to `featured: false` so the homepage highlights just the latest entry.
 * Stage `assets/images/<date>-*` plus the new `_posts` file, run `git status`, and commit with a descriptive message like "Add <date> Whistler Blackcomb snow report" so the sequence seen in `git log` stays consistent.
+* This blog posts are for Vancouver Snowboarding web site. Therefore, each snow report articles must not take care of skiing at all.
 
 * Run `bin/snow-report-lint` after preparing the markdown so any remaining `-` bullets or curly quotes are caught before commit (add `--auto-correct` to have the script fix those issues automatically); the lint targets only 2026‑onward snow reports to keep legacy posts untouched.
 
