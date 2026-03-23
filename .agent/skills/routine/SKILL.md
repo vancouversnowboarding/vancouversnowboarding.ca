@@ -1,3 +1,9 @@
+---
+name: routine
+description: >
+  Create a new whistler blackcomb snow report post for vancouversnowboarding.ca web page.
+---
+
 # Whistler Blackcomb Report Routine
 
 This notes the current steps for adding a same-day Whistler Blackcomb (WB) snow report so the next WB report stays in sync with recent git history.
