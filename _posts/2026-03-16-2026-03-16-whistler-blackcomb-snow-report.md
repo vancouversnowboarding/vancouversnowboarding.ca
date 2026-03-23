@@ -4,7 +4,7 @@ title: 2026-03-16 Whistler Blackcomb snow report
 date: "2026-03-16T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-03-16-feature.jpg
-featured: true
+featured: false
 ---
 
 10cm of wet, heavy snow fell overnight, which slowed traffic into the resort and left the Creekside gondola about 10 minutes late on its first run.
