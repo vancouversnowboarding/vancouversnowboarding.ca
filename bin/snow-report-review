@@ -28,34 +28,55 @@ end
 errors = []
 
 reports = Dir.glob(REPORT_GLOB).map do |path|
-  basename = File.basename(path)
-  date_str = basename[0, 10]
-  begin
-    report_date = Date.parse(date_str)
-  rescue ArgumentError
-    errors << "#{path}: cannot parse date from filename"
-    next
-  end
-
-  next if report_date < MIN_DATE
-
   front_matter = extract_front_matter(path)
   unless front_matter
     errors << "#{path}: missing YAML front matter"
     next
   end
 
-  metadata = YAML.safe_load(front_matter) || {}
+  metadata = YAML.safe_load(
+    front_matter,
+    permitted_classes: [Date, Time, DateTime],
+    aliases: true
+  ) || {}
   featured_value = metadata['featured']
   featured_flag = bool_from_value(featured_value)
   image_path = metadata['image']
+  fm_date_value = metadata['date']
+  fm_date_string =
+    if fm_date_value.is_a?(String)
+      fm_date_value
+    else
+      fm_date_value&.to_s
+    end
+
+  report_date =
+    begin
+      Date.parse(fm_date_string) if fm_date_string
+    rescue ArgumentError => e
+      errors << "#{path}: invalid date '#{fm_date_value}' in front matter (#{e.message})"
+      nil
+    end
+  unless report_date
+    basename = File.basename(path)
+    date_str = basename[0, 10]
+    begin
+      report_date = Date.parse(date_str)
+    rescue ArgumentError
+      errors << "#{path}: cannot parse date from filename or front matter"
+      next
+    end
+  end
+
+  next if report_date < MIN_DATE
 
   reports_data = {
     path: path,
     date: report_date,
     featured_flag: featured_flag,
     raw_featured: featured_value,
-    image_path: image_path
+    image_path: image_path,
+    front_matter_date: fm_date_value
   }
 
   if image_path && !image_path.start_with?('assets/images/')
@@ -71,6 +92,12 @@ if reports.empty?
 end
 
 latest_report = reports.max_by { |report| report[:date] }
+featured_reports = reports.select { |report| report[:featured_flag] }
+if featured_reports.empty?
+  errors << 'At least one 2026+ Whistler Blackcomb report must have featured: true (the most recent report should be featured).'
+elsif featured_reports.size > 1
+  errors << "Multiple featured posts found: #{featured_reports.map { |r| r[:path] }.join(', ')} (only the newest report should be featured)."
+end
 
 reports.each do |report|
   expected_featured = (report[:path] == latest_report[:path])
