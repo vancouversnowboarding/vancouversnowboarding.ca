@@ -1,0 +1,108 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'date'
+require 'yaml'
+
+MIN_DATE = Date.parse('2026-01-01') # Date.new is strictly prohibited
+REPORT_GLOB = '_posts/*-whistler-blackcomb-snow-report.md'
+
+def extract_front_matter(path)
+  content = File.read(path)
+  match = content.match(/\A---\s*\n(.*?)\n---/m)
+  return nil unless match
+  match[1]
+end
+
+def bool_from_value(value)
+  case value
+  when true, 'true'
+    true
+  when false, 'false'
+    false
+  else
+    nil
+  end
+end
+
+errors = []
+
+reports = Dir.glob(REPORT_GLOB).map do |path|
+  basename = File.basename(path)
+  date_str = basename[0, 10]
+  begin
+    report_date = Date.parse(date_str)
+  rescue ArgumentError
+    errors << "#{path}: cannot parse date from filename"
+    next
+  end
+
+  next if report_date < MIN_DATE
+
+  front_matter = extract_front_matter(path)
+  unless front_matter
+    errors << "#{path}: missing YAML front matter"
+    next
+  end
+
+  metadata = YAML.safe_load(front_matter) || {}
+  featured_value = metadata['featured']
+  featured_flag = bool_from_value(featured_value)
+  image_path = metadata['image']
+
+  reports_data = {
+    path: path,
+    date: report_date,
+    featured_flag: featured_flag,
+    raw_featured: featured_value,
+    image_path: image_path
+  }
+
+  if image_path && !image_path.start_with?('assets/images/')
+    errors << "#{path}: image must be inside assets/images but references #{image_path}"
+  end
+
+  reports_data
+end.compact
+
+if reports.empty?
+  puts 'snow-report review: no 2026+ Whistler Blackcomb posts to evaluate.'
+  exit 0
+end
+
+latest_report = reports.max_by { |report| report[:date] }
+
+reports.each do |report|
+  expected_featured = (report[:path] == latest_report[:path])
+  if report[:featured_flag].nil?
+    errors << "#{report[:path]}: featured flag is missing or invalid (found #{report[:raw_featured].inspect})"
+  elsif report[:featured_flag] != expected_featured
+    errors << "#{report[:path]}: featured must be #{expected_featured} (#{expected_featured ? 'latest post should be featured' : 'only the newest report may be featured'})"
+  end
+
+  expected_base = "assets/images/#{report[:date].strftime('%Y-%m-%d')}-feature"
+  unless report[:image_path]
+    errors << "#{report[:path]}: image property is missing"
+  else
+    unless report[:image_path].start_with?(expected_base)
+      errors << "#{report[:path]}: image should start with #{expected_base} but is #{report[:image_path]}"
+    end
+    unless %w[.jpg .jpeg .png].include?(File.extname(report[:image_path]).downcase)
+      errors << "#{report[:path]}: image extension should be .jpg/.jpeg/.png but is #{File.extname(report[:image_path])}"
+    end
+    unless File.exist?(report[:image_path])
+      errors << "#{report[:path]}: referenced image #{report[:image_path]} does not exist"
+    end
+  end
+end
+
+if errors.empty?
+  puts 'snow-report review: ok'
+  exit 0
+end
+
+STDERR.puts "snow-report review: #{errors.size} issue(s) detected:"
+errors.each do |error|
+  STDERR.puts "  #{error}"
+end
+exit 1
