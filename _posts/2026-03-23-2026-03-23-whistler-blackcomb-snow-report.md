@@ -4,7 +4,7 @@ title: 2026-03-23 Whistler Blackcomb snow report
 date: "2026-03-23T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-03-23-feature.jpg
-featured: true
+featured: false
 ---
 
 Bulletproof icy but under a bluebird sky, the alpine snow stayed good for carving despite the firm crust. Visibility held up across the ridges, so it felt stable up top even though the hardpack demanded precise board control.
