@@ -1,1 +1,1 @@
-Read ./docs/codex/routine.md
+Read ./.agent/skills/routine/SKILL.md
