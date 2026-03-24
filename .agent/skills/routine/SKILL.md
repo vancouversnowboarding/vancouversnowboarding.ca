@@ -9,7 +9,7 @@ description: >
 This notes the current steps for adding a same-day Whistler Blackcomb (WB) snow report so the next WB report stays in sync with recent git history.
 
 * Review the most recent commits/`git log` entries that touch `_posts/*-whistler-blackcomb-snow-report.md` to confirm which post currently still has `featured: true`; that post needs to be flipped to `false` before the new entry becomes featured.
-* Prepare the feature image(s) ahead of time by placing them in `/tmp`—the helper script expects all source images there, so you (the human teammate) must copy them before running tooling.
+* Images including the feature image are already prepared ahead of time in `/tmp` by the real human -- the helper script expects all source images there
 * Run `./image.sh YYYY-MM-DD` with the report date to resize/crop every `/tmp` image into `assets/images/`; the script prefixes each file with the date (example: `assets/images/2026-03-06-feature.jpg`) and uses ImageMagick (`magick ... -scale`/`-crop`) so the generated files are ready to be committed.
 * Create `_posts/YYYY-MM-DD-YYYY-MM-DD-whistler-blackcomb-snow-report.md` with front matter matching the existing pattern: `layout: post`, `title: <date> Whistler Blackcomb snow report`, `date: "<date>T14:10:00-08:00"`, `tag: Whistler Blackcomb`, `image: assets/images/<date>-feature.jpg`, and `featured: true`.
 * Write the body text describing that day's conditions (fog/visibility, snow quality, crowd/weather notes) and add any optional summary line such as `Overall rate: 4/5 ★★★★☆` if desired.
