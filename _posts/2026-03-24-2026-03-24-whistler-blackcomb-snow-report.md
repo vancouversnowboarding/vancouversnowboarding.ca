@@ -4,7 +4,7 @@ title: 2026-03-24 Whistler Blackcomb snow report
 date: "2026-03-24T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-03-24-feature.jpg
-featured: true
+featured: false
 ---
 
 The base stayed icier than I wanted, the same unforgiving foundations from yesterday, but the new top layer actually felt better than the official 1cm overnight number suggested—there was more fresh snow once I chased it around the midday laps.
