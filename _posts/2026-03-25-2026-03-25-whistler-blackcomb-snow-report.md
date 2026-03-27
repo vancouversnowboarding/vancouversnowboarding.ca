@@ -4,7 +4,7 @@ title: 2026-03-25 Whistler Blackcomb snow report
 date: "2026-03-25T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-03-25-feature.jpg
-featured: true
+featured: false
 ---
 
 9cm overnight gave the upper mountain a decent reset, but it only felt like about 1cm by the lower half of Big Red, especially around Pony Trail.
