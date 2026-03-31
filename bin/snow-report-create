@@ -1,0 +1,300 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'date'
+require 'fileutils'
+require 'optparse'
+require 'open3'
+require 'tempfile'
+
+STYLE_CAPSULE = <<~TEXT.freeze
+  Write a Vancouver Snowboarding Whistler Blackcomb snow report.
+  Use Canadian English.
+  Use ASCII only.
+  Keep it concise: exactly 2 short paragraphs.
+  Cover weather, visibility, snow quality, and how busy it was.
+  Use numeric digits for all counts, totals, delays, and ratings.
+  Do not mention skiing.
+  Do not include front matter or a title.
+  Do not include the rating line; the script will add it.
+  If you mention another day, use markdown links to the matching report path.
+TEXT
+
+DEFAULT_MODEL = 'gpt-5.1-codex-mini'
+DEFAULT_REFERENCE_DATE = '2025-04-18'
+REPORT_GLOB = '_posts/*-whistler-blackcomb-snow-report.md'
+TMP_IMAGE_GLOB = '/tmp/*.{jpg,jpeg,JPG,png,PNG}'
+
+options = {
+  model: DEFAULT_MODEL,
+  reference_date: DEFAULT_REFERENCE_DATE
+}
+
+parser = OptionParser.new do |opts|
+  opts.banner = 'Usage: bin/snow-report-create --summary "rate 4, partially sunny & cloudy, not busy" [--date YYYY-MM-DD]'
+  opts.on('--date DATE', 'Report date in YYYY-MM-DD format; defaults to today in Vancouver') do |value|
+    options[:date] = value
+  end
+  opts.on('--summary TEXT', 'Short human summary of the day; must include a rating like "rate 4"') do |value|
+    options[:summary] = value
+  end
+  opts.on('--model MODEL', "Codex model to use (default: #{DEFAULT_MODEL})") do |value|
+    options[:model] = value
+  end
+  opts.on('--reference-date DATE', "Reference report date for style sampling (default: #{DEFAULT_REFERENCE_DATE})") do |value|
+    options[:reference_date] = value
+  end
+  opts.on('--dry-run', 'Print the planned actions without writing files') do
+    options[:dry_run] = true
+  end
+  opts.on('-h', '--help', 'Show help') do
+    puts opts
+    exit 0
+  end
+end
+
+parser.parse!(ARGV)
+
+def abort_with_usage(parser, message)
+  warn(message)
+  warn(parser.to_s)
+  exit 1
+end
+
+abort_with_usage(parser, '--summary is required') unless options[:summary]
+
+ENV['TZ'] = 'America/Vancouver'
+
+def git_root
+  stdout, status = Open3.capture2('git', 'rev-parse', '--show-toplevel')
+  return stdout.strip if status.success?
+
+  abort('snow-report create: could not determine git root')
+end
+
+def parse_date(value, parser)
+  Date.strptime(value, '%Y-%m-%d')
+rescue ArgumentError
+  abort_with_usage(parser, "--date must be YYYY-MM-DD, got #{value.inspect}")
+end
+
+def parse_rating(summary, parser)
+  match = summary.match(/\b(?:rate|rating)\s*:?\s*([1-5])(?:\s*\/\s*5)?\b/i)
+  return match[1].to_i if match
+
+  abort_with_usage(parser, '--summary must include a rating like "rate 4"')
+end
+
+def stars_for_rating(rating)
+  '★' * rating + '☆' * (5 - rating)
+end
+
+def reference_path(root, reference_date)
+  File.join(root, '_posts', "#{reference_date}-#{reference_date}-whistler-blackcomb-snow-report.md")
+end
+
+def body_from_reference(path)
+  content = File.read(path)
+  body = content.split(/\A---\s*\n.*?\n---\s*\n/m, 2).last || ''
+  paragraphs = body.split(/\n{2,}/).map(&:strip).reject(&:empty?)
+  paragraphs.take(2).join("\n\n")
+end
+
+def normalize_model_body(text)
+  body = text.to_s.strip
+  body = body.sub(/\A```(?:markdown)?\s*\n/, '')
+  body = body.sub(/\n```\z/, '')
+  body.strip
+end
+
+def local_time_string(date)
+  Time.local(date.year, date.month, date.day, 14, 10, 0).strftime('%Y-%m-%dT%H:%M:%S%:z')
+end
+
+def feature_image_path(date_string)
+  Dir.glob("assets/images/#{date_string}-feature.{jpg,jpeg,JPG,png,PNG}").first
+end
+
+def ruby_prompt(reference_excerpt:, date:, summary:, rating:, stars:)
+  <<~PROMPT
+    Do not inspect files or run commands. Use only the text in this prompt.
+
+    #{STYLE_CAPSULE}
+
+    Facts:
+    * date: #{date}
+    * summary: #{summary}
+    * rating: #{rating}/5 #{stars}
+
+    Reference sample:
+    #{reference_excerpt}
+
+    Return markdown body only.
+  PROMPT
+end
+
+def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, stars:)
+  <<~PROMPT
+    Do not inspect files or run commands. Use only the text in this prompt.
+
+    #{STYLE_CAPSULE}
+
+    Check this draft against the facts and style.
+    If it is good, reply exactly PASS.
+    If it needs changes, reply exactly FIXED_BODY: followed by the revised markdown body only.
+
+    Facts:
+    * date: #{date}
+    * summary: #{summary}
+    * rating: #{rating}/5 #{stars}
+
+    Reference sample:
+    #{reference_excerpt}
+
+    Draft:
+    #{draft_body}
+  PROMPT
+end
+
+def run_codex(root:, model:, prompt:)
+  out = Tempfile.new(['snow-report-create', '.txt'])
+  out.close
+  cmd = [
+    'codex', 'exec',
+    '--ephemeral',
+    '--full-auto',
+    '--model', model,
+    '--cd', root,
+    '--output-last-message', out.path,
+    '-'
+  ]
+  stdout, stderr, status = Open3.capture3(*cmd, stdin_data: prompt)
+  unless status.success?
+    warn stdout unless stdout.empty?
+    warn stderr unless stderr.empty?
+    abort("snow-report create: codex exec failed with status #{status.exitstatus}")
+  end
+
+  File.read(out.path).strip
+ensure
+  out.unlink if out && out.path && File.exist?(out.path)
+end
+
+def update_featured_flags(root:, report_date:)
+  reports = Dir.glob(File.join(root, REPORT_GLOB)).sort
+  reports.each do |path|
+    basename = File.basename(path)
+    existing_date = basename[0, 10]
+    next if existing_date >= report_date
+
+    content = File.read(path)
+    next unless content.include?('featured: true')
+
+    updated = content.sub(/^featured:\s*true\s*$/m, 'featured: false')
+    next if updated == content
+
+    File.write(path, updated)
+  end
+end
+
+root = git_root
+Dir.chdir(root)
+
+date = parse_date(options[:date] || Date.today.strftime('%Y-%m-%d'), parser)
+date_string = date.strftime('%Y-%m-%d')
+report_relpath = "_posts/#{date_string}-#{date_string}-whistler-blackcomb-snow-report.md"
+report_path = File.join(root, report_relpath)
+feature_image = feature_image_path(date_string)
+rating = parse_rating(options[:summary], parser)
+stars = stars_for_rating(rating)
+reference_file = reference_path(root, options[:reference_date])
+
+abort("snow-report create: no /tmp images found; put the source images in /tmp first") if Dir.glob(TMP_IMAGE_GLOB).empty?
+abort("snow-report create: reference report not found at #{reference_file}") unless File.exist?(reference_file)
+abort("snow-report create: report already exists at #{report_path}") if File.exist?(report_path)
+
+puts "snow-report create: processing /tmp images for #{date_string}"
+puts "snow-report create: using reference #{reference_file}"
+
+if options[:dry_run]
+  puts "snow-report create: dry run only"
+  puts "snow-report create: would write #{report_path}"
+  puts "snow-report create: would use model #{options[:model]}"
+  exit 0
+end
+
+system('./image.sh', date_string) or abort('snow-report create: image.sh failed')
+feature_image = feature_image_path(date_string)
+abort("snow-report create: feature image not found for #{date_string}") unless feature_image
+
+reference_excerpt = body_from_reference(reference_file)
+prompt = ruby_prompt(
+  reference_excerpt: reference_excerpt,
+  date: date_string,
+  summary: options[:summary],
+  rating: rating,
+  stars: stars
+)
+
+draft_body = normalize_model_body(run_codex(root: root, model: options[:model], prompt: prompt))
+
+review = review_prompt(
+  reference_excerpt: reference_excerpt,
+  draft_body: draft_body,
+  date: date_string,
+  summary: options[:summary],
+  rating: rating,
+  stars: stars
+)
+review_result = run_codex(root: root, model: options[:model], prompt: review)
+if review_result.start_with?('FIXED_BODY:')
+  draft_body = normalize_model_body(review_result.sub(/\AFIXED_BODY:\s*\n?/, ''))
+  second_review = run_codex(root: root, model: options[:model], prompt: review_prompt(
+    reference_excerpt: reference_excerpt,
+    draft_body: draft_body,
+    date: date_string,
+    summary: options[:summary],
+    rating: rating,
+    stars: stars
+  ))
+  abort('snow-report create: review still failed after one retry') unless second_review.start_with?('PASS')
+elsif !review_result.start_with?('PASS')
+  abort("snow-report create: unexpected review response: #{review_result.inspect}")
+end
+
+front_matter = <<~FRONT
+  ---
+  layout: post
+  title: #{date_string} Whistler Blackcomb snow report
+  date: "#{local_time_string(date)}"
+  tag: Whistler Blackcomb
+  image: #{feature_image || "assets/images/#{date_string}-feature.jpg"}
+  featured: true
+  ---
+FRONT
+
+body = draft_body.strip
+body = "#{body}\n\nOverall rate: #{rating}/5 #{stars}" unless body.match?(/Overall rate:/)
+
+File.write(report_path, "#{front_matter}\n#{body}\n")
+update_featured_flags(root: root, report_date: date_string)
+
+puts "snow-report create: wrote #{report_path}"
+puts "snow-report create: feature image #{feature_image || "assets/images/#{date_string}-feature.jpg"}"
+puts 'snow-report create: running lint'
+system('bin/snow-report-lint', '--auto-correct') or abort('snow-report create: lint failed')
+puts 'snow-report create: running review'
+system('bin/snow-report-review') or abort('snow-report create: review failed')
+
+stage_files = Dir.glob(File.join('assets/images', "#{date_string}-*"))
+stage_files << report_relpath
+stage_files.uniq!
+
+puts "snow-report create: staging #{stage_files.size} file(s)"
+system('git', 'add', '--', *stage_files) or abort('snow-report create: git add failed')
+
+commit_message = "Add #{date_string} Whistler Blackcomb snow report"
+puts "snow-report create: committing with #{commit_message.inspect}"
+system('git', 'commit', '-m', commit_message) or abort('snow-report create: git commit failed')
+
+puts 'snow-report create: done'
