@@ -16,6 +16,7 @@ STYLE_CAPSULE = <<~TEXT.freeze
   Cover weather, visibility, snow quality, and how busy it was.
   Use numeric digits for all counts, totals, delays, and ratings.
   Do not mention skiing.
+  Do not repeat the report's own date in prose.
   Do not include front matter or a title.
   Do not include the rating line; the script will add it.
   If you mention another day, use markdown links to the matching report path.
@@ -159,6 +160,7 @@ def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, sta
     Check this draft against the facts and style.
     If it is good, reply with JSON: {"verdict":"pass","body":""}.
     If it needs changes, reply with JSON: {"verdict":"fix","body":"..."}.
+    Reject any draft that repeats the report's own date in prose.
 
     Facts:
     * date: #{date}
