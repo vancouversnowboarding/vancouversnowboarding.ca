@@ -192,17 +192,7 @@ def review_schema
     'properties' => {
       'verdict' => { 'type' => 'string', 'enum' => ['pass', 'fix'] },
       'body' => { 'type' => 'string' }
-    },
-    'allOf' => [
-      {
-        'if' => {
-          'properties' => { 'verdict' => { 'const' => 'fix' } }
-        },
-        'then' => {
-          'required' => ['body']
-        }
-      }
-    ]
+    }
   }
 end
 
@@ -315,7 +305,9 @@ review_result = run_codex_structured(
   context: 'review'
 )
 if review_result.fetch('verdict') == 'fix'
-  draft_body = normalize_model_body(review_result.fetch('body'))
+  fixed_body = review_result['body'].to_s
+  abort('snow-report create: review requested a fix but returned no body') if fixed_body.strip.empty?
+  draft_body = normalize_model_body(fixed_body)
   second_review = run_codex_structured(root: root, model: options[:model], prompt: review_prompt(
     reference_excerpt: reference_excerpt,
     draft_body: draft_body,
