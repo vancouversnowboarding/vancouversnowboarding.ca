@@ -157,7 +157,7 @@ def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, sta
     #{STYLE_CAPSULE}
 
     Check this draft against the facts and style.
-    If it is good, reply with JSON: {"verdict":"pass"}.
+    If it is good, reply with JSON: {"verdict":"pass","body":""}.
     If it needs changes, reply with JSON: {"verdict":"fix","body":"..."}.
 
     Facts:
@@ -188,7 +188,7 @@ def review_schema
   {
     'type' => 'object',
     'additionalProperties' => false,
-    'required' => ['verdict'],
+    'required' => ['verdict', 'body'],
     'properties' => {
       'verdict' => { 'type' => 'string', 'enum' => ['pass', 'fix'] },
       'body' => { 'type' => 'string' }
