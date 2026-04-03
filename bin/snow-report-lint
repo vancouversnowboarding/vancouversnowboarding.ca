@@ -62,9 +62,17 @@ paths.each do |path|
   report_date = Date.parse(date_part) rescue next
   lines = File.readlines(path, chomp: true)
   file_modified = false
+  in_front_matter = true
+  self_date_regex = /\b#{Regexp.escape(date_part)}\b/
   lines.each_with_index do |line, idx|
     current_line = line.dup
     number = idx + 1
+
+    if in_front_matter
+      in_front_matter = false if idx.positive? && line == '---'
+      next
+    end
+
     if line =~ /^\s*-\s+/           # bullet lines must use '*'
       if auto_correct
         current_line = current_line.sub(/^(\s*)-\s+/, '\1* ')
@@ -90,6 +98,11 @@ paths.each do |path|
       target_fragment = "/#{mention_date.strftime('%Y-%m-%d')}-"
       next if line.include?(target_fragment)
       problems << "#{path}:#{number}: #{day_name}, #{month_name} #{mention_day} reference needs a link to /#{mention_date.strftime('%Y-%m-%d')}-whistler-blackcomb-snow-report.md."
+    end
+
+    line_without_links = line.gsub(/\[[^\]]*\]\([^)]+\)/, '')
+    if line_without_links.match?(self_date_regex)
+      problems << "#{path}:#{number}: body must not repeat its own report date (found #{date_part}); rewrite it without the date."
     end
 
     unicode_found = false
