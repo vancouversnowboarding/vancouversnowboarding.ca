@@ -3,6 +3,7 @@
 
 require 'date'
 require 'fileutils'
+require 'json'
 require 'optparse'
 require 'open3'
 require 'tempfile'
@@ -107,6 +108,22 @@ def normalize_model_body(text)
   body.strip
 end
 
+def json_schema_tempfile(schema)
+  file = Tempfile.new(['snow-report-schema', '.json'])
+  file.write(JSON.pretty_generate(schema))
+  file.close
+  file
+end
+
+def parse_structured_response!(raw, context)
+  body = raw.to_s.strip
+  abort("snow-report create: #{context} returned empty output") if body.empty?
+
+  JSON.parse(body)
+rescue JSON::ParserError => e
+  abort("snow-report create: #{context} returned invalid JSON: #{e.message}")
+end
+
 def local_time_string(date)
   Time.local(date.year, date.month, date.day, 14, 10, 0).strftime('%Y-%m-%dT%H:%M:%S%:z')
 end
@@ -156,15 +173,50 @@ def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, sta
   PROMPT
 end
 
-def run_codex(root:, model:, prompt:)
+def draft_schema
+  {
+    'type' => 'object',
+    'additionalProperties' => false,
+    'required' => ['body'],
+    'properties' => {
+      'body' => { 'type' => 'string' }
+    }
+  }
+end
+
+def review_schema
+  {
+    'type' => 'object',
+    'additionalProperties' => false,
+    'required' => ['verdict'],
+    'properties' => {
+      'verdict' => { 'type' => 'string', 'enum' => ['pass', 'fix'] },
+      'body' => { 'type' => 'string' }
+    },
+    'allOf' => [
+      {
+        'if' => {
+          'properties' => { 'verdict' => { 'const' => 'fix' } }
+        },
+        'then' => {
+          'required' => ['body']
+        }
+      }
+    ]
+  }
+end
+
+def run_codex_structured(root:, model:, prompt:, schema:, context:)
   out = Tempfile.new(['snow-report-create', '.txt'])
   out.close
+  schema_file = json_schema_tempfile(schema)
   cmd = [
     'codex', 'exec',
     '--ephemeral',
     '--full-auto',
     '--model', model,
     '--cd', root,
+    '--output-schema', schema_file.path,
     '--output-last-message', out.path,
     '-'
   ]
@@ -175,9 +227,10 @@ def run_codex(root:, model:, prompt:)
     abort("snow-report create: codex exec failed with status #{status.exitstatus}")
   end
 
-  File.read(out.path).strip
+  parse_structured_response!(File.read(out.path), context)
 ensure
   out.unlink if out && out.path && File.exist?(out.path)
+  schema_file.unlink if schema_file && schema_file.path && File.exist?(schema_file.path)
 end
 
 def update_featured_flags(root:, report_date:)
