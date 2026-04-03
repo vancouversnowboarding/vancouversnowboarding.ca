@@ -146,7 +146,7 @@ def ruby_prompt(reference_excerpt:, date:, summary:, rating:, stars:)
     Reference sample:
     #{reference_excerpt}
 
-    Return markdown body only.
+    Return JSON with a single key: body.
   PROMPT
 end
 
@@ -290,7 +290,14 @@ prompt = ruby_prompt(
 )
 
 puts ('waiting for codex...')
-draft_body = normalize_model_body(run_codex(root: root, model: options[:model], prompt: prompt))
+draft_response = run_codex_structured(
+  root: root,
+  model: options[:model],
+  prompt: prompt,
+  schema: draft_schema,
+  context: 'draft generation'
+)
+draft_body = normalize_model_body(draft_response.fetch('body'))
 
 review = review_prompt(
   reference_excerpt: reference_excerpt,
