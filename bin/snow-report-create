@@ -157,8 +157,8 @@ def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, sta
     #{STYLE_CAPSULE}
 
     Check this draft against the facts and style.
-    If it is good, YOU MUST reply exactly "PASS".
-    If it needs changes, YOU MUST reply exactly "FIXED_BODY:" followed by the revised markdown body only.
+    If it is good, reply with JSON: {"verdict":"pass"}.
+    If it needs changes, reply with JSON: {"verdict":"fix","body":"..."}.
 
     Facts:
     * date: #{date}
@@ -307,23 +307,27 @@ review = review_prompt(
   rating: rating,
   stars: stars
 )
-review_result = run_codex(root: root, model: options[:model], prompt: review)
-if review_result.start_with?('FIXED_BODY:')
-  draft_body = normalize_model_body(review_result.sub(/\AFIXED_BODY:\s*\n?/, ''))
-  second_review = run_codex(root: root, model: options[:model], prompt: review_prompt(
+review_result = run_codex_structured(
+  root: root,
+  model: options[:model],
+  prompt: review,
+  schema: review_schema,
+  context: 'review'
+)
+if review_result.fetch('verdict') == 'fix'
+  draft_body = normalize_model_body(review_result.fetch('body'))
+  second_review = run_codex_structured(root: root, model: options[:model], prompt: review_prompt(
     reference_excerpt: reference_excerpt,
     draft_body: draft_body,
     date: date_string,
     summary: options[:summary],
     rating: rating,
     stars: stars
-  ))
-  if !second_review.start_with?('PASS')
-    puts second_review
+  ), schema: review_schema, context: 'review retry')
+  if second_review.fetch('verdict') != 'pass'
+    puts second_review.inspect
     abort('snow-report create: review still failed after one retry')
   end
-elsif !review_result.start_with?('PASS')
-  abort("snow-report create: unexpected review response: #{review_result.inspect}")
 end
 
 front_matter = <<~FRONT
