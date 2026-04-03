@@ -299,6 +299,6 @@ system('git', 'add', '--', *stage_files) or abort('snow-report create: git add f
 
 commit_message = "Add #{date_string} Whistler Blackcomb snow report"
 puts "snow-report create: committing with #{commit_message.inspect}"
-system('git', 'commit', '-m', commit_message) or abort('snow-report create: git commit failed')
+system('git', 'commit', '-am', commit_message) or abort('snow-report create: git commit failed')
 
 puts 'snow-report create: done'
