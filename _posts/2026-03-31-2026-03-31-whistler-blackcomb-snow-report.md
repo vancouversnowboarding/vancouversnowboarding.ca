@@ -7,7 +7,7 @@ image: assets/images/2026-03-31-feature.jpg
 featured: false
 ---
 
-Calm weather on 2026-03-31 brought mild air, cloudless sky, and 0cm overnight snow, keeping the mountain stable for carving.
+Calm weather brought mild air, cloudless sky, and 0cm overnight snow, keeping the mountain stable for carving.
 
 Visibility stayed perfect, snow quality steady all day, and the lifts felt quiet with almost no queues.
 
