@@ -12,8 +12,13 @@ STYLE_CAPSULE = <<~TEXT.freeze
   Write a Vancouver Snowboarding Whistler Blackcomb snow report.
   Use Canadian English.
   Use ASCII only.
-  Keep it concise: exactly 2 short paragraphs.
-  Markdown images may appear naturally inside those 2 short paragraphs.
+  Keep it concise: exactly 2 short prose paragraphs.
+  Paragraph 1 should cover weather, visibility, and any hut or food ambience.
+  Paragraph 2 should cover snow quality, busyness, and race-event impacts.
+  A caption line and standalone Markdown image line may appear between those paragraphs and do not count as prose paragraphs.
+  Each image must be on its own line.
+  Any caption or lead-in text should be on a separate line immediately before the image.
+  Do not append image markdown to a sentence.
   Cover weather, visibility, snow quality, and how busy it was.
   Use numeric digits for all counts, totals, delays, and ratings.
   Do not mention skiing.
@@ -180,6 +185,15 @@ def image_value(image, key)
   image[key] || image[key.to_s]
 end
 
+MARKDOWN_IMAGE_ANYWHERE_REGEX = /!\[[^\]]*\]\(([^)]+)\)/
+MARKDOWN_IMAGE_LINE_REGEX = /\A\s*!\[[^\]]*\]\(([^)]+)\)\s*\z/
+
+def normalize_markdown_image_target(target)
+  path = target.to_s.strip
+  path = path.sub(/\A<([^>]+)>\z/, '\1')
+  path.split(/\s+/, 2).first
+end
+
 def prompt_image_metadata(image_metadata: nil, feature_image: nil, body_candidates: nil)
   if image_metadata
     feature_path = image_metadata[:feature_image] || image_metadata['feature_image']
@@ -220,17 +234,33 @@ def image_metadata_prompt(image_metadata: nil, feature_image: nil, body_candidat
 end
 
 def markdown_image_paths(body)
-  body.to_s.scan(/!\[[^\]]*\]\(([^)]+)\)/).flatten.map do |target|
-    path = target.strip.sub(/\A<([^>]+)>\z/, '\1').split(/\s+/, 2).first
+  body.to_s.scan(MARKDOWN_IMAGE_ANYWHERE_REGEX).flatten.map do |target|
+    path = normalize_markdown_image_target(target)
     next unless path
 
     path.start_with?('assets/images/') ? "/#{path}" : path
   end.compact
 end
 
+def markdown_image_paths_on_own_lines(body)
+  body.to_s.each_line.filter_map do |line|
+    match = line.match(MARKDOWN_IMAGE_LINE_REGEX)
+    next unless match
+
+    path = normalize_markdown_image_target(match[1])
+    next unless path
+
+    path.start_with?('assets/images/') ? "/#{path}" : path
+  end
+end
+
 def validate_body_image_links!(body:, image_metadata:)
   metadata = prompt_image_metadata(image_metadata: image_metadata)
-  referenced_paths = markdown_image_paths(body).select { |path| path.start_with?('/assets/images/') }
+  referenced_paths = markdown_image_paths(body)
+  standalone_paths = markdown_image_paths_on_own_lines(body)
+  raise 'snow-report create: markdown images must be on their own line' unless referenced_paths == standalone_paths
+
+  referenced_paths = standalone_paths.select { |path| path.start_with?('/assets/images/') }
   allowed_paths = metadata[:body_candidates].map { |image| image.fetch(:path) }
   feature_path = metadata[:feature_image] && asset_path_for_prompt(metadata[:feature_image])
 
@@ -263,7 +293,11 @@ def ruby_prompt(reference_excerpt:, date:, summary:, rating:, stars:, image_meta
     Image rules:
     * If body candidate images exist, include at least 1 in the body.
     * Never use the feature image inside the body.
-    * Place each image adjacent to related text; do not dump images as a tail gallery.
+    * Place each image on its own line, with any caption or lead-in text on a separate line immediately before it.
+    * Paragraph 1 should cover weather, visibility, and any hut or food ambience.
+    * Paragraph 2 should cover snow quality, busyness, and race-event impacts.
+    * A caption line and standalone Markdown image line may appear between the prose paragraphs and do not count as prose paragraphs.
+    * Do not append image markdown to a sentence or dump images as a tail gallery.
 
     Facts:
     * date: #{date}
@@ -292,7 +326,11 @@ def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, sta
     Reject any draft that repeats the report's own date in prose.
     If body candidate images exist, include at least 1 in the body.
     Never use the feature image inside the body.
-    Place each image adjacent to related text; do not dump images as a tail gallery.
+    Place each image on its own line, with any caption or lead-in text on a separate line immediately before it.
+    Paragraph 1 should cover weather, visibility, and any hut or food ambience.
+    Paragraph 2 should cover snow quality, busyness, and race-event impacts.
+    A caption line and standalone Markdown image line may appear between the prose paragraphs and do not count as prose paragraphs.
+    Do not append image markdown to a sentence or dump images as a tail gallery.
 
     Facts:
     * date: #{date}

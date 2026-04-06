@@ -7,7 +7,11 @@ image: assets/images/2026-04-06-feature.jpg
 featured: true
 ---
 
-Warm sun with a thin layer of cloud kept visibility steady east-west despite a bit of glare, and the Chick Pea Hut garage door wide open filled the deck with cinnamon bun aroma as cheerful crews shuffled past; ![chickpea hut](/assets/images/2026-04-06-chickpea-hut.jpg)
-Snow proved inconsistent, icy at first before thawing into soft, unstable patches, with Upper Olympic at 10am the only consistently pleasant window even though the runs stayed busy and felt unsafe because multiple race events were happening; the crowds kept the usual flow heavier than normal, with the cinnamon bun scent still hanging in the commons for those stopping by the Hut after the heats ran through the day. ![cinnamon bun](/assets/images/2026-04-06-cinnamon-bun.jpg)
+Warm sun poked through a thin cloud layer and kept visibility crisp while the open Chick Pea Hut garage let cinnamon bun aromas spill onto the deck.
+
+Chick Pea Hut garage view
+![](/assets/images/2026-04-06-chickpea-hut.jpg)
+
+Snow started inconsistent and icy, then softened into unstable slush; Upper Olympic at 10 am was the only decent line, and the usually steady crowds stayed muted because multiple race events (2+) left many runs unsafe.
 
 Overall rate: 3/5 ★★★☆☆

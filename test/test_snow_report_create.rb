@@ -74,7 +74,14 @@ class SnowReportCreateTest < Minitest::Test
     [prompt, review].each do |text|
       assert_includes text, 'If body candidate images exist, include at least 1 in the body.'
       assert_includes text, 'Never use the feature image inside the body.'
-      assert_includes text, 'Place each image adjacent to related text; do not dump images as a tail gallery.'
+      assert_includes text, 'Keep it concise: exactly 2 short prose paragraphs.'
+      assert_includes text, 'Paragraph 1 should cover weather, visibility, and any hut or food ambience.'
+      assert_includes text, 'Paragraph 2 should cover snow quality, busyness, and race-event impacts.'
+      assert_includes text, 'A caption line and standalone Markdown image line may appear between those paragraphs and do not count as prose paragraphs.'
+      assert_includes text, 'Each image must be on its own line.'
+      assert_includes text, 'Any caption or lead-in text should be on a separate line immediately before the image.'
+      assert_includes text, 'Do not append image markdown to a sentence.'
+      assert_includes text, 'Do not append image markdown to a sentence or dump images as a tail gallery.'
       assert_includes text, '/assets/images/2026-01-02-upper-village-2.jpg'
       assert_includes text, 'upper village 2'
       assert_includes text, 'assets/images/2026-01-02-feature.jpg'
@@ -116,6 +123,16 @@ class SnowReportCreateTest < Minitest::Test
       )
     end
     assert_includes error.message, 'at least 1 body image'
+  end
+
+  def test_validation_rejects_inline_image_usage_in_prose
+    error = assert_raises(RuntimeError) do
+      validate_body_image_links!(
+        body: "Warm sun with a thin layer of cloud kept visibility steady east-west despite a bit of glare, and the Chick Pea Hut garage door wide open filled the deck with cinnamon bun aroma as cheerful crews shuffled past; ![](/assets/images/2026-01-02-upper-village-2.jpg)",
+        image_metadata: sample_image_metadata
+      )
+    end
+    assert_includes error.message, 'own line'
   end
 
   def test_review_retry_flow_with_stubbed_codex_runner
