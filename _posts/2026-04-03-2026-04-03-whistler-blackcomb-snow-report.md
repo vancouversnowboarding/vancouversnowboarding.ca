@@ -4,7 +4,7 @@ title: 2026-04-03 Whistler Blackcomb snow report
 date: "2026-04-03T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-04-03-feature.jpg
-featured: true
+featured: false
 ---
 
 Weather stayed gray and damp, with poor visibility lingering across the alpine yet the lifts ran steadily despite the Good Friday crowd, so the operation felt busier than usual without any major delays. Guest density on the lower mountain was noticeably higher than earlier in the week, mostly around gondola access points, and the lack of overnight snow left the surface more compact than preferred.
