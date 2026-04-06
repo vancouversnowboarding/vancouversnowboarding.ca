@@ -6,12 +6,17 @@ require 'yaml'
 
 MIN_DATE = Date.parse('2026-01-01') # Date.new is strictly prohibited
 REPORT_GLOB = '_posts/*-whistler-blackcomb-snow-report.md'
+BODY_IMAGE_REGEX = /!\[[^\]]*\]\(([^)]+)\)/
 
 def extract_front_matter(path)
   content = File.read(path)
   match = content.match(/\A---\s*\n(.*?)\n---/m)
   return nil unless match
   match[1]
+end
+
+def extract_body(content)
+  content.split(/\A---\s*\n.*?\n---\s*\n/m, 2).last || ''
 end
 
 def bool_from_value(value)
@@ -22,6 +27,36 @@ def bool_from_value(value)
     false
   else
     nil
+  end
+end
+
+def body_image_paths(body)
+  body.scan(BODY_IMAGE_REGEX).flatten.select do |path|
+    path.start_with?('/assets/images/') || path.start_with?('assets/images/')
+  end
+end
+
+def normalize_image_path(path)
+  path.sub(%r{\A/}, '')
+end
+
+def validate_body_image_paths(report:, body:, errors:)
+  body_image_paths(body).each do |body_image_path|
+    normalized_path = normalize_image_path(body_image_path)
+
+    if normalized_path == report[:image_path]
+      errors << "#{report[:path]}: feature image must not appear in the body"
+      next
+    end
+
+    expected_prefix = "assets/images/#{report[:date].strftime('%Y-%m-%d')}-"
+    unless normalized_path.start_with?(expected_prefix)
+      errors << "#{report[:path]}: body image must use the same report date prefix"
+    end
+
+    unless File.exist?(normalized_path)
+      errors << "#{report[:path]}: referenced body image does not exist"
+    end
   end
 end
 
@@ -39,6 +74,7 @@ reports = Dir.glob(REPORT_GLOB).map do |path|
     permitted_classes: [Date, Time, DateTime],
     aliases: true
   ) || {}
+  content = File.read(path)
   featured_value = metadata['featured']
   featured_flag = bool_from_value(featured_value)
   image_path = metadata['image']
@@ -76,7 +112,8 @@ reports = Dir.glob(REPORT_GLOB).map do |path|
     featured_flag: featured_flag,
     raw_featured: featured_value,
     image_path: image_path,
-    front_matter_date: fm_date_value
+    front_matter_date: fm_date_value,
+    body: extract_body(content)
   }
 
   if image_path && !image_path.start_with?('assets/images/')
@@ -121,6 +158,8 @@ reports.each do |report|
       errors << "#{report[:path]}: referenced image #{report[:image_path]} does not exist"
     end
   end
+
+  validate_body_image_paths(report: report, body: report[:body], errors: errors)
 end
 
 if errors.empty?
