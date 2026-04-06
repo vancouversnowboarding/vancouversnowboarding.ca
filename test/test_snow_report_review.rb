@@ -75,6 +75,34 @@ class SnowReportReviewTest < Minitest::Test
     end
   end
 
+  def test_valid_angle_bracket_inline_image_passes
+    with_temp_repo do |root|
+      write_image(root, 'assets/images/2026-01-02-feature.jpg', 'feature')
+      write_image(root, 'assets/images/2026-01-02-upper-olympic.jpg', 'body')
+      write_post(
+        root,
+        '2026-01-02',
+        body: "Warm and clear.\n\n![](</assets/images/2026-01-02-upper-olympic.jpg>)"
+      )
+
+      assert_review_passes(root)
+    end
+  end
+
+  def test_valid_inline_image_with_title_passes
+    with_temp_repo do |root|
+      write_image(root, 'assets/images/2026-01-02-feature.jpg', 'feature')
+      write_image(root, 'assets/images/2026-01-02-upper-olympic.jpg', 'body')
+      write_post(
+        root,
+        '2026-01-02',
+        body: "Warm and clear.\n\n![](/assets/images/2026-01-02-upper-olympic.jpg \"Upper Olympic\")"
+      )
+
+      assert_review_passes(root)
+    end
+  end
+
   def test_body_image_with_wrong_date_prefix_fails
     with_temp_repo do |root|
       write_image(root, 'assets/images/2026-01-02-feature.jpg', 'feature')

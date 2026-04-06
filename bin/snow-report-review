@@ -31,18 +31,27 @@ def bool_from_value(value)
 end
 
 def body_image_paths(body)
-  body.scan(BODY_IMAGE_REGEX).flatten.select do |path|
-    path.start_with?('/assets/images/') || path.start_with?('assets/images/')
+  body.scan(BODY_IMAGE_REGEX).flatten.map do |path|
+    normalize_body_image_path(path)
+  end.select do |path|
+    path.start_with?('assets/images/')
   end
 end
 
-def normalize_image_path(path)
-  path.sub(%r{\A/}, '')
+def normalize_body_image_path(path)
+  normalized_path = path.to_s.strip
+  if normalized_path.start_with?('<')
+    normalized_path = normalized_path[1..].split('>', 2).first.to_s
+  else
+    normalized_path = normalized_path.split(/\s+/, 2).first.to_s
+  end
+
+  normalized_path.sub(%r{\A/}, '')
 end
 
 def validate_body_image_paths(report:, body:, errors:)
   body_image_paths(body).each do |body_image_path|
-    normalized_path = normalize_image_path(body_image_path)
+    normalized_path = normalize_body_image_path(body_image_path)
 
     if normalized_path == report[:image_path]
       errors << "#{report[:path]}: feature image must not appear in the body"
