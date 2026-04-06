@@ -13,6 +13,7 @@ STYLE_CAPSULE = <<~TEXT.freeze
   Use Canadian English.
   Use ASCII only.
   Keep it concise: exactly 2 short paragraphs.
+  Markdown images may appear naturally inside those 2 short paragraphs.
   Cover weather, visibility, snow quality, and how busy it was.
   Use numeric digits for all counts, totals, delays, and ratings.
   Do not mention skiing.
@@ -26,6 +27,7 @@ DEFAULT_MODEL = 'gpt-5.1-codex-mini'
 DEFAULT_REFERENCE_DATE = '2025-04-18'
 REPORT_GLOB = '_posts/*-whistler-blackcomb-snow-report.md'
 TMP_IMAGE_GLOB = '/tmp/*.{jpg,jpeg,JPG,png,PNG}'
+IMAGE_EXTENSIONS = '.{jpg,jpeg,JPG,png,PNG}'
 
 options = {
   model: DEFAULT_MODEL,
@@ -55,17 +57,11 @@ parser = OptionParser.new do |opts|
   end
 end
 
-parser.parse!(ARGV)
-
 def abort_with_usage(parser, message)
   warn(message)
   warn(parser.to_s)
   exit 1
 end
-
-abort_with_usage(parser, '--summary is required') unless options[:summary]
-
-ENV['TZ'] = 'America/Vancouver'
 
 def git_root
   stdout, status = Open3.capture2('git', 'rev-parse', '--show-toplevel')
@@ -129,20 +125,153 @@ def local_time_string(date)
   Time.local(date.year, date.month, date.day, 14, 10, 0).strftime('%Y-%m-%dT%H:%M:%S%:z')
 end
 
-def feature_image_path(date_string)
-  Dir.glob("assets/images/#{date_string}-feature.{jpg,jpeg,JPG,png,PNG}").first
+def image_glob_for(date_string)
+  "assets/images/#{date_string}-*#{IMAGE_EXTENSIONS}"
 end
 
-def ruby_prompt(reference_excerpt:, date:, summary:, rating:, stars:)
+def asset_path_for_prompt(path)
+  relpath = path.sub(%r{\A\./}, '')
+  relpath.start_with?('/') ? relpath : "/#{relpath}"
+end
+
+def normalize_image_label(first, second)
+  if first.to_s.match?(/\A\d{4}-\d{2}-\d{2}\z/)
+    date_string = first
+    path = second
+  else
+    path = first
+    date_string = second
+  end
+  basename = File.basename(path, File.extname(path))
+  label = basename.sub(/\A#{Regexp.escape(date_string)}-/, '')
+  label = label.tr('_-', ' ')
+  label.gsub(/\s+/, ' ').strip
+end
+
+def image_metadata_for(date_string, path)
+  {
+    'path' => asset_path_for_prompt(path),
+    'label' => normalize_image_label(date_string, path)
+  }
+end
+
+def discover_image_metadata(date_string)
+  all_images = Dir.glob(image_glob_for(date_string)).sort_by { |path| [path.downcase, path] }
+  feature_image = all_images.find { |path| File.basename(path).match?(/\A#{Regexp.escape(date_string)}-feature\./) }
+  body_candidates = all_images.reject { |path| path == feature_image }.map { |path| image_metadata_for(date_string, path) }
+
+  {
+    feature_image: feature_image && image_metadata_for(date_string, feature_image),
+    body_candidates: body_candidates
+  }
+end
+
+def collect_image_metadata(date_string)
+  discovered = discover_image_metadata(date_string)
+  {
+    feature_image: discovered[:feature_image] && discovered[:feature_image].fetch('path').delete_prefix('/'),
+    body_candidates: discovered[:body_candidates].map do |image|
+      { path: image.fetch('path'), label: image.fetch('label') }
+    end
+  }
+end
+
+def image_value(image, key)
+  image[key] || image[key.to_s]
+end
+
+def prompt_image_metadata(image_metadata: nil, feature_image: nil, body_candidates: nil)
+  if image_metadata
+    feature_path = image_metadata[:feature_image] || image_metadata['feature_image']
+    candidates = image_metadata[:body_candidates] || image_metadata['body_candidates'] || []
+  else
+    feature_path = feature_image && (feature_image['path'] || feature_image[:path])
+    candidates = body_candidates || []
+  end
+
+  {
+    feature_image: feature_path,
+    body_candidates: candidates.map do |image|
+      { path: image_value(image, :path), label: image_value(image, :label) }
+    end
+  }
+end
+
+def image_metadata_prompt(image_metadata: nil, feature_image: nil, body_candidates: nil)
+  metadata = prompt_image_metadata(image_metadata: image_metadata, feature_image: feature_image, body_candidates: body_candidates)
+  lines = []
+  lines << 'Feature image:'
+  if metadata[:feature_image]
+    lines << "- path: #{metadata[:feature_image]}"
+  else
+    lines << '- none'
+  end
+  lines << ''
+  lines << 'Body candidate images:'
+  if metadata[:body_candidates].empty?
+    lines << '- none'
+  else
+    metadata[:body_candidates].each do |image|
+      lines << "- path: #{image.fetch(:path)}"
+      lines << "  label: #{image.fetch(:label)}"
+    end
+  end
+  lines.join("\n")
+end
+
+def markdown_image_paths(body)
+  body.to_s.scan(/!\[[^\]]*\]\(([^)]+)\)/).flatten.map do |target|
+    path = target.strip.sub(/\A<([^>]+)>\z/, '\1').split(/\s+/, 2).first
+    next unless path
+
+    path.start_with?('assets/images/') ? "/#{path}" : path
+  end.compact
+end
+
+def validate_body_image_links!(body:, image_metadata:)
+  metadata = prompt_image_metadata(image_metadata: image_metadata)
+  referenced_paths = markdown_image_paths(body).select { |path| path.start_with?('/assets/images/') }
+  allowed_paths = metadata[:body_candidates].map { |image| image.fetch(:path) }
+  feature_path = metadata[:feature_image] && asset_path_for_prompt(metadata[:feature_image])
+
+  raise 'snow-report create: body must not use the feature image' if feature_path && referenced_paths.include?(feature_path)
+
+  unknown_paths = referenced_paths.reject { |path| allowed_paths.include?(path) || path == feature_path }
+  raise "snow-report create: body used unknown image path #{unknown_paths.first}" unless unknown_paths.empty?
+
+  if !allowed_paths.empty? && (referenced_paths & allowed_paths).empty?
+    raise 'snow-report create: body must use at least 1 body image'
+  end
+end
+
+def validate_body_image_usage!(body:, feature_image:, body_candidates:)
+  image_metadata = {
+    feature_image: feature_image && feature_image.fetch('path').delete_prefix('/'),
+    body_candidates: body_candidates.map { |image| { path: image.fetch('path'), label: image.fetch('label') } }
+  }
+  validate_body_image_links!(body: body, image_metadata: image_metadata)
+rescue RuntimeError => e
+  abort(e.message)
+end
+
+def ruby_prompt(reference_excerpt:, date:, summary:, rating:, stars:, image_metadata: nil, feature_image: nil, body_candidates: nil)
   <<~PROMPT
     Do not inspect files or run commands. Use only the text in this prompt.
 
     #{STYLE_CAPSULE}
 
+    Image rules:
+    * If body candidate images exist, include at least 1 in the body.
+    * Never use the feature image inside the body.
+    * Place each image adjacent to related text; do not dump images as a tail gallery.
+
     Facts:
     * date: #{date}
     * summary: #{summary}
     * rating: #{rating}/5 #{stars}
+
+    Images:
+    #{image_metadata_prompt(image_metadata: image_metadata, feature_image: feature_image, body_candidates: body_candidates)}
 
     Reference sample:
     #{reference_excerpt}
@@ -151,7 +280,7 @@ def ruby_prompt(reference_excerpt:, date:, summary:, rating:, stars:)
   PROMPT
 end
 
-def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, stars:)
+def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, stars:, image_metadata: nil, feature_image: nil, body_candidates: nil)
   <<~PROMPT
     Do not inspect files or run commands. Use only the text in this prompt.
 
@@ -161,11 +290,17 @@ def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, sta
     If it is good, reply with JSON: {"verdict":"pass","body":""}.
     If it needs changes, reply with JSON: {"verdict":"fix","body":"..."}.
     Reject any draft that repeats the report's own date in prose.
+    If body candidate images exist, include at least 1 in the body.
+    Never use the feature image inside the body.
+    Place each image adjacent to related text; do not dump images as a tail gallery.
 
     Facts:
     * date: #{date}
     * summary: #{summary}
     * rating: #{rating}/5 #{stars}
+
+    Images:
+    #{image_metadata_prompt(image_metadata: image_metadata, feature_image: feature_image, body_candidates: body_candidates)}
 
     Reference sample:
     #{reference_excerpt}
@@ -173,6 +308,71 @@ def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, sta
     Draft:
     #{draft_body}
   PROMPT
+end
+
+def generate_reviewed_body(root:, model:, reference_excerpt:, date_string:, summary:, rating:, stars:, image_metadata:, codex_runner: nil)
+  codex_runner ||= lambda { |args| run_codex_structured(**args) }
+
+  prompt = ruby_prompt(
+    reference_excerpt: reference_excerpt,
+    date: date_string,
+    summary: summary,
+    rating: rating,
+    stars: stars,
+    image_metadata: image_metadata
+  )
+  draft_response = codex_runner.call(
+    root: root,
+    model: model,
+    prompt: prompt,
+    schema: draft_schema,
+    context: 'draft generation'
+  )
+  draft_body = normalize_model_body(draft_response.fetch('body'))
+
+  review = review_prompt(
+    reference_excerpt: reference_excerpt,
+    draft_body: draft_body,
+    date: date_string,
+    summary: summary,
+    rating: rating,
+    stars: stars,
+    image_metadata: image_metadata
+  )
+  review_result = codex_runner.call(
+    root: root,
+    model: model,
+    prompt: review,
+    schema: review_schema,
+    context: 'review'
+  )
+  if review_result.fetch('verdict') == 'fix'
+    fixed_body = review_result['body'].to_s
+    abort('snow-report create: review requested a fix but returned no body') if fixed_body.strip.empty?
+    draft_body = normalize_model_body(fixed_body)
+    second_review = codex_runner.call(
+      root: root,
+      model: model,
+      prompt: review_prompt(
+        reference_excerpt: reference_excerpt,
+        draft_body: draft_body,
+        date: date_string,
+        summary: summary,
+        rating: rating,
+        stars: stars,
+        image_metadata: image_metadata
+      ),
+      schema: review_schema,
+      context: 'review retry'
+    )
+    if second_review.fetch('verdict') != 'pass'
+      puts second_review.inspect
+      abort('snow-report create: review still failed after one retry')
+    end
+  end
+
+  validate_body_image_links!(body: draft_body, image_metadata: image_metadata)
+  draft_body
 end
 
 def draft_schema
@@ -242,121 +442,92 @@ def update_featured_flags(root:, report_date:)
   end
 end
 
-root = git_root
-Dir.chdir(root)
+def run!(options, parser)
+  root = git_root
+  Dir.chdir(root)
 
-date = parse_date(options[:date] || Date.today.strftime('%Y-%m-%d'), parser)
-date_string = date.strftime('%Y-%m-%d')
-report_relpath = "_posts/#{date_string}-#{date_string}-whistler-blackcomb-snow-report.md"
-report_path = File.join(root, report_relpath)
-feature_image = feature_image_path(date_string)
-rating = parse_rating(options[:summary], parser)
-stars = stars_for_rating(rating)
-reference_file = reference_path(root, options[:reference_date])
+  date = parse_date(options[:date] || Date.today.strftime('%Y-%m-%d'), parser)
+  date_string = date.strftime('%Y-%m-%d')
+  report_relpath = "_posts/#{date_string}-#{date_string}-whistler-blackcomb-snow-report.md"
+  report_path = File.join(root, report_relpath)
+  rating = parse_rating(options[:summary], parser)
+  stars = stars_for_rating(rating)
+  reference_file = reference_path(root, options[:reference_date])
 
-abort("snow-report create: no /tmp images found; put the source images in /tmp first") if Dir.glob(TMP_IMAGE_GLOB).empty?
-abort("snow-report create: reference report not found at #{reference_file}") unless File.exist?(reference_file)
-abort("snow-report create: report already exists at #{report_path}") if File.exist?(report_path)
+  abort("snow-report create: no /tmp images found; put the source images in /tmp first") if Dir.glob(TMP_IMAGE_GLOB).empty?
+  abort("snow-report create: reference report not found at #{reference_file}") unless File.exist?(reference_file)
+  abort("snow-report create: report already exists at #{report_path}") if File.exist?(report_path)
 
-puts "snow-report create: processing /tmp images for #{date_string}"
-puts "snow-report create: using reference #{reference_file}"
+  puts "snow-report create: processing /tmp images for #{date_string}"
+  puts "snow-report create: using reference #{reference_file}"
 
-if options[:dry_run]
-  puts "snow-report create: dry run only"
-  puts "snow-report create: would write #{report_path}"
-  puts "snow-report create: would use model #{options[:model]}"
-  exit 0
-end
+  if options[:dry_run]
+    puts 'snow-report create: dry run only'
+    puts "snow-report create: would write #{report_path}"
+    puts "snow-report create: would use model #{options[:model]}"
+    exit 0
+  end
 
-system('./image.sh', date_string) or abort('snow-report create: image.sh failed')
-feature_image = feature_image_path(date_string)
-abort("snow-report create: feature image not found for #{date_string}") unless feature_image
+  system('./image.sh', date_string) or abort('snow-report create: image.sh failed')
+  image_metadata = collect_image_metadata(date_string)
+  feature_image = image_metadata[:feature_image]
+  abort("snow-report create: feature image not found for #{date_string}") unless feature_image
 
-reference_excerpt = body_from_reference(reference_file)
-prompt = ruby_prompt(
-  reference_excerpt: reference_excerpt,
-  date: date_string,
-  summary: options[:summary],
-  rating: rating,
-  stars: stars
-)
+  reference_excerpt = body_from_reference(reference_file)
 
-puts ('waiting for codex...')
-draft_response = run_codex_structured(
-  root: root,
-  model: options[:model],
-  prompt: prompt,
-  schema: draft_schema,
-  context: 'draft generation'
-)
-draft_body = normalize_model_body(draft_response.fetch('body'))
-
-review = review_prompt(
-  reference_excerpt: reference_excerpt,
-  draft_body: draft_body,
-  date: date_string,
-  summary: options[:summary],
-  rating: rating,
-  stars: stars
-)
-review_result = run_codex_structured(
-  root: root,
-  model: options[:model],
-  prompt: review,
-  schema: review_schema,
-  context: 'review'
-)
-if review_result.fetch('verdict') == 'fix'
-  fixed_body = review_result['body'].to_s
-  abort('snow-report create: review requested a fix but returned no body') if fixed_body.strip.empty?
-  draft_body = normalize_model_body(fixed_body)
-  second_review = run_codex_structured(root: root, model: options[:model], prompt: review_prompt(
+  puts 'waiting for codex...'
+  draft_body = generate_reviewed_body(
+    root: root,
+    model: options[:model],
     reference_excerpt: reference_excerpt,
-    draft_body: draft_body,
-    date: date_string,
+    date_string: date_string,
     summary: options[:summary],
     rating: rating,
-    stars: stars
-  ), schema: review_schema, context: 'review retry')
-  if second_review.fetch('verdict') != 'pass'
-    puts second_review.inspect
-    abort('snow-report create: review still failed after one retry')
-  end
+    stars: stars,
+    image_metadata: image_metadata
+  )
+
+  front_matter = <<~FRONT
+    ---
+    layout: post
+    title: #{date_string} Whistler Blackcomb snow report
+    date: "#{local_time_string(date)}"
+    tag: Whistler Blackcomb
+    image: #{feature_image || "assets/images/#{date_string}-feature.jpg"}
+    featured: true
+    ---
+  FRONT
+
+  body = draft_body.strip
+  body = "#{body}\n\nOverall rate: #{rating}/5 #{stars}" unless body.match?(/Overall rate:/)
+
+  File.write(report_path, "#{front_matter}\n#{body}\n")
+  update_featured_flags(root: root, report_date: date_string)
+
+  puts "snow-report create: wrote #{report_path}"
+  puts "snow-report create: feature image #{feature_image || "assets/images/#{date_string}-feature.jpg"}"
+  puts 'snow-report create: running lint'
+  system('bin/snow-report-lint', '--auto-correct') or abort('snow-report create: lint failed')
+  puts 'snow-report create: running review'
+  system('bin/snow-report-review') or abort('snow-report create: review failed')
+
+  stage_files = Dir.glob(File.join('assets/images', "#{date_string}-*"))
+  stage_files << report_relpath
+  stage_files.uniq!
+
+  puts "snow-report create: staging #{stage_files.size} file(s)"
+  system('git', 'add', '--', *stage_files) or abort('snow-report create: git add failed')
+
+  commit_message = "Add #{date_string} Whistler Blackcomb snow report"
+  puts "snow-report create: committing with #{commit_message.inspect}"
+  system('git', 'commit', '-am', commit_message) or abort('snow-report create: git commit failed')
+
+  puts 'snow-report create: done'
 end
 
-front_matter = <<~FRONT
-  ---
-  layout: post
-  title: #{date_string} Whistler Blackcomb snow report
-  date: "#{local_time_string(date)}"
-  tag: Whistler Blackcomb
-  image: #{feature_image || "assets/images/#{date_string}-feature.jpg"}
-  featured: true
-  ---
-FRONT
-
-body = draft_body.strip
-body = "#{body}\n\nOverall rate: #{rating}/5 #{stars}" unless body.match?(/Overall rate:/)
-
-File.write(report_path, "#{front_matter}\n#{body}\n")
-update_featured_flags(root: root, report_date: date_string)
-
-puts "snow-report create: wrote #{report_path}"
-puts "snow-report create: feature image #{feature_image || "assets/images/#{date_string}-feature.jpg"}"
-puts 'snow-report create: running lint'
-system('bin/snow-report-lint', '--auto-correct') or abort('snow-report create: lint failed')
-puts 'snow-report create: running review'
-system('bin/snow-report-review') or abort('snow-report create: review failed')
-
-stage_files = Dir.glob(File.join('assets/images', "#{date_string}-*"))
-stage_files << report_relpath
-stage_files.uniq!
-
-puts "snow-report create: staging #{stage_files.size} file(s)"
-system('git', 'add', '--', *stage_files) or abort('snow-report create: git add failed')
-
-commit_message = "Add #{date_string} Whistler Blackcomb snow report"
-puts "snow-report create: committing with #{commit_message.inspect}"
-system('git', 'commit', '-am', commit_message) or abort('snow-report create: git commit failed')
-
-puts 'snow-report create: done'
+if __FILE__ == $PROGRAM_NAME
+  parser.parse!(ARGV)
+  abort_with_usage(parser, '--summary is required') unless options[:summary]
+  ENV['TZ'] = 'America/Vancouver'
+  run!(options, parser)
+end
