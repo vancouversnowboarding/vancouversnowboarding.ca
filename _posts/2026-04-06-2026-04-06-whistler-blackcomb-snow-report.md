@@ -4,7 +4,7 @@ title: 2026-04-06 Whistler Blackcomb snow report
 date: "2026-04-06T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-04-06-feature.jpg
-featured: true
+featured: false
 ---
 
 Warm sun poked through a thin cloud layer and kept visibility crisp while the open Chick Pea Hut garage let cinnamon bun aromas spill onto the deck.
