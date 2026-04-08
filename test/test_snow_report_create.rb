@@ -75,8 +75,12 @@ class SnowReportCreateTest < Minitest::Test
       assert_includes text, 'If body candidate images exist, include at least 1 in the body.'
       assert_includes text, 'Never use the feature image inside the body.'
       assert_includes text, 'Keep it concise: exactly 2 short prose paragraphs.'
-      assert_includes text, 'Paragraph 1 should cover weather, visibility, and any hut or food ambience.'
-      assert_includes text, 'Paragraph 2 should cover snow quality, busyness, and race-event impacts.'
+      assert_includes text, 'Use only facts that are explicitly supported by the provided summary or image labels.'
+      assert_includes text, 'If a fact is not provided, leave it unsaid.'
+      assert_includes text, 'Do not invent weather, visibility, hut, or food details.'
+      assert_includes text, 'Paragraph 1 may cover weather and visibility if provided.'
+      assert_includes text, 'Paragraph 2 should cover snow quality, busyness, and race-event impacts if provided.'
+      assert_includes text, 'If the summary does not provide a detail, omit it instead of guessing.'
       assert_includes text, 'A caption line and standalone Markdown image line may appear between those paragraphs and do not count as prose paragraphs.'
       assert_includes text, 'Each image must be on its own line.'
       assert_includes text, 'Any caption or lead-in text should be on a separate line immediately before the image.'
@@ -133,6 +137,24 @@ class SnowReportCreateTest < Minitest::Test
       )
     end
     assert_includes error.message, 'own line'
+  end
+
+  def test_fact_validation_rejects_unsupported_weather_visibility_and_food_details
+    error = assert_raises(RuntimeError) do
+      validate_body_facts!(
+        body: "Grey skies kept temps just below freezing while a fine spitting drizzle blurred visibility to the tree line; the mid-mountain hut served thick broth and toasted bannock.\n\n![](/assets/images/2026-01-02-upper-village-2.jpg)\n\nSnow quality stayed essentially icy, with Pony Trail standing out as the worst section.",
+        summary: "rate 1. Extremely icy. Simply Don't go there. Pony Trail was particularly bad."
+      )
+    end
+
+    assert_includes error.message, 'unsupported'
+  end
+
+  def test_fact_validation_allows_supported_weather_and_visibility_details
+    validate_body_facts!(
+      body: "Sunny skies kept visibility good across the open slopes.\n\n![](/assets/images/2026-01-02-upper-village-2.jpg)\n\nIt stayed extremely icy, and Pony Trail was particularly bad.",
+      summary: "rate 1. Sunny. Visibility was good. Extremely icy. Pony Trail was particularly bad."
+    )
   end
 
   def test_review_retry_flow_with_stubbed_codex_runner

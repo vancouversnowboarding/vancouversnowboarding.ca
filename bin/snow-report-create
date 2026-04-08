@@ -13,13 +13,15 @@ STYLE_CAPSULE = <<~TEXT.freeze
   Use Canadian English.
   Use ASCII only.
   Keep it concise: exactly 2 short prose paragraphs.
-  Paragraph 1 should cover weather, visibility, and any hut or food ambience.
-  Paragraph 2 should cover snow quality, busyness, and race-event impacts.
+  Use only facts that are explicitly supported by the provided summary or image labels.
+  If a fact is not provided, leave it unsaid.
+  Do not invent weather, visibility, hut, or food details.
+  Paragraph 1 may cover weather and visibility if provided.
+  Paragraph 2 should cover snow quality, busyness, and race-event impacts if provided.
   A caption line and standalone Markdown image line may appear between those paragraphs and do not count as prose paragraphs.
   Each image must be on its own line.
   Any caption or lead-in text should be on a separate line immediately before the image.
   Do not append image markdown to a sentence.
-  Cover weather, visibility, snow quality, and how busy it was.
   Use numeric digits for all counts, totals, delays, and ratings.
   Do not mention skiing.
   Do not repeat the report's own date in prose.
@@ -187,6 +189,23 @@ end
 
 MARKDOWN_IMAGE_ANYWHERE_REGEX = /!\[[^\]]*\]\(([^)]+)\)/
 MARKDOWN_IMAGE_LINE_REGEX = /\A\s*!\[[^\]]*\]\(([^)]+)\)\s*\z/
+FACT_CATEGORIES = {
+  weather: {
+    sunny: /\b(?:sunny|sun|bright|clear skies?)\b/i,
+    cloudy: /\b(?:cloudy|cloud|grey skies?|gray skies?|overcast)\b/i,
+    rainy: /\b(?:rain|rainy|drizzle|drizzly|wet)\b/i,
+    snowy: /\b(?:snow|snowing|flurr(?:y|ies))\b/i,
+    foggy: /\b(?:fog|foggy|mist|misty)\b/i
+  },
+  visibility: {
+    good: /\b(?:visibility (?:was |stayed |kept )?(?:good|great|clear)|vis(?:ibility)? (?:was |stayed |kept )?(?:good|great|clear)|crisp visibility|clear visibility)\b/i,
+    poor: /\b(?:visibility (?:was |stayed |kept )?(?:poor|bad|low|limited)|vis(?:ibility)? (?:was |stayed |kept )?(?:poor|bad|low|limited)|flat light|whiteout)\b/i
+  },
+  hut_food: {
+    hut: /\b(?:hut|lodge|chalet|cafeteria|garage|deck)\b/i,
+    food: /\b(?:bannock|broth|cinnamon bun|soup|coffee|tea|sandwich)\b/i
+  }
+}.freeze
 
 def normalize_markdown_image_target(target)
   path = target.to_s.strip
@@ -284,6 +303,37 @@ rescue RuntimeError => e
   abort(e.message)
 end
 
+def extract_fact_categories(text)
+  FACT_CATEGORIES.transform_values do |patterns|
+    patterns.each_with_object([]) do |(name, regex), matches|
+      matches << name if text.to_s.match?(regex)
+    end
+  end.transform_values(&:uniq)
+end
+
+def validate_body_facts!(body:, summary:)
+  summary_facts = extract_fact_categories(summary)
+  body_facts = extract_fact_categories(body)
+
+  unsupported = []
+  body_facts.each do |category, values|
+    next if values.empty?
+
+    supported_values = summary_facts.fetch(category)
+    if supported_values.empty?
+      unsupported << "#{category}=#{values.join(',')}"
+      next
+    end
+
+    extra_values = values - supported_values
+    unsupported << "#{category}=#{extra_values.join(',')}" unless extra_values.empty?
+  end
+
+  return if unsupported.empty?
+
+  raise "snow-report create: body includes unsupported factual detail(s): #{unsupported.join('; ')}"
+end
+
 def ruby_prompt(reference_excerpt:, date:, summary:, rating:, stars:, image_metadata: nil, feature_image: nil, body_candidates: nil)
   <<~PROMPT
     Do not inspect files or run commands. Use only the text in this prompt.
@@ -294,8 +344,10 @@ def ruby_prompt(reference_excerpt:, date:, summary:, rating:, stars:, image_meta
     * If body candidate images exist, include at least 1 in the body.
     * Never use the feature image inside the body.
     * Place each image on its own line, with any caption or lead-in text on a separate line immediately before it.
-    * Paragraph 1 should cover weather, visibility, and any hut or food ambience.
-    * Paragraph 2 should cover snow quality, busyness, and race-event impacts.
+    * Mention weather, visibility, hut, or food only when they are explicitly supported by the summary or image labels.
+    * If the summary does not provide a detail, omit it instead of guessing.
+    * Paragraph 1 may cover weather and visibility when provided.
+    * Paragraph 2 should cover snow quality, busyness, and race-event impacts when provided.
     * A caption line and standalone Markdown image line may appear between the prose paragraphs and do not count as prose paragraphs.
     * Do not append image markdown to a sentence or dump images as a tail gallery.
 
@@ -323,12 +375,15 @@ def review_prompt(reference_excerpt:, draft_body:, date:, summary:, rating:, sta
     Check this draft against the facts and style.
     If it is good, reply with JSON: {"verdict":"pass","body":""}.
     If it needs changes, reply with JSON: {"verdict":"fix","body":"..."}.
+    Reject any unsupported factual detail that is not explicitly supported by the summary or image labels.
     Reject any draft that repeats the report's own date in prose.
     If body candidate images exist, include at least 1 in the body.
     Never use the feature image inside the body.
     Place each image on its own line, with any caption or lead-in text on a separate line immediately before it.
-    Paragraph 1 should cover weather, visibility, and any hut or food ambience.
-    Paragraph 2 should cover snow quality, busyness, and race-event impacts.
+    Mention weather, visibility, hut, or food only when they are explicitly supported by the summary or image labels.
+    If the summary does not provide a detail, omit it instead of guessing.
+    Paragraph 1 may cover weather and visibility when provided.
+    Paragraph 2 should cover snow quality, busyness, and race-event impacts when provided.
     A caption line and standalone Markdown image line may appear between the prose paragraphs and do not count as prose paragraphs.
     Do not append image markdown to a sentence or dump images as a tail gallery.
 
@@ -410,6 +465,7 @@ def generate_reviewed_body(root:, model:, reference_excerpt:, date_string:, summ
   end
 
   validate_body_image_links!(body: draft_body, image_metadata: image_metadata)
+  validate_body_facts!(body: draft_body, summary: summary)
   draft_body
 end
 
