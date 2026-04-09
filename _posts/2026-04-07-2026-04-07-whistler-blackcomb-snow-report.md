@@ -9,7 +9,7 @@ featured: true
 
 Sunny weather kept visibility good across the open slopes.
 
-Caption: Pony Trail ice
+Pony Trail:
 ![pony trail](/assets/images/2026-04-07-pony-trail.jpg)
 
 Snow quality was extremely icy, and Pony Trail was particularly bad. At a 1/5 day, it was simply not worth going there.
