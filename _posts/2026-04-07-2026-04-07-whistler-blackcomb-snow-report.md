@@ -4,7 +4,7 @@ title: 2026-04-07 Whistler Blackcomb snow report
 date: "2026-04-07T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-04-07-feature.jpg
-featured: true
+featured: false
 ---
 
 Sunny weather kept visibility good across the open slopes.
