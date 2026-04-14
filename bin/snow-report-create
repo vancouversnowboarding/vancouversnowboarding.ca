@@ -30,7 +30,7 @@ STYLE_CAPSULE = <<~TEXT.freeze
   If you mention another day, use markdown links to the matching report path.
 TEXT
 
-DEFAULT_MODEL = 'gpt-5.1-codex-mini'
+DEFAULT_MODEL = 'gpt-5.4-mini'
 DEFAULT_REFERENCE_DATE = '2025-04-18'
 REPORT_GLOB = '_posts/*-whistler-blackcomb-snow-report.md'
 TMP_IMAGE_GLOB = '/tmp/*.{jpg,jpeg,JPG,png,PNG}'
