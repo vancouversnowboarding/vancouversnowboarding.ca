@@ -4,7 +4,7 @@ title: 2026-04-14 Whistler Blackcomb snow report
 date: "2026-04-14T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-04-14-feature.jpg
-featured: true
+featured: false
 ---
 
 The mountain was not busy at all and felt rather empty, which was great.
