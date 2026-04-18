@@ -4,7 +4,7 @@ title: 2026-04-15 Whistler Blackcomb snow report
 date: "2026-04-15T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-04-15-feature.jpg
-featured: true
+featured: false
 ---
 
 It was sunny and cold after 7 cm of overnight snow, making for a bluebird powder day.
