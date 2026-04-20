@@ -4,7 +4,7 @@ title: 2026-04-17 Whistler Blackcomb snow report
 date: "2026-04-17T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-04-17-feature.jpg
-featured: true
+featured: false
 ---
 
 It stayed cold since the last powder day, with no overnight snow.
