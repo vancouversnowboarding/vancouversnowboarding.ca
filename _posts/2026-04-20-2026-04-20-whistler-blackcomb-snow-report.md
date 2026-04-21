@@ -4,7 +4,7 @@ title: 2026-04-20 Whistler Blackcomb snow report
 date: "2026-04-20T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-04-20-feature.jpg
-featured: true
+featured: false
 ---
 
 Blackcomb-only day, with the resort opening at 9:00am this week instead of 8:30am. It was a hot, sunny, 11C slushy day.
