@@ -4,7 +4,7 @@ title: 2026-04-23 Whistler Blackcomb snow report
 date: "2026-04-23T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-04-23-feature.jpg
-featured: true
+featured: false
 ---
 
 It was sunny, and the cold air felt comfortable.
