@@ -499,7 +499,7 @@ def run_codex_structured(root:, model:, prompt:, schema:, context:)
   cmd = [
     'codex', 'exec',
     '--ephemeral',
-    '--full-auto',
+    '--approve-for-me',
     '--model', model,
     '--cd', root,
     '--output-schema', schema_file.path,

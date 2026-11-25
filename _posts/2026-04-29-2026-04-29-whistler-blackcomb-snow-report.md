@@ -4,7 +4,7 @@ title: 2026-04-29 Whistler Blackcomb snow report
 date: "2026-04-29T14:10:00-07:00"
 tag: Whistler Blackcomb
 image: assets/images/2026-04-29-feature.jpg
-featured: true
+featured: false
 ---
 
 Sunny weather with a warning that it was not too hot.
