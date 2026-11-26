@@ -7,10 +7,8 @@ image: assets/images/2026-11-25-feature.jpg
 featured: true
 ---
 
-Warm temperatures made the heavy powder hard. Whistler side conditions were great.
+Whistler side received 27 cm overnight, with 40 cm over 24 hours and a 91 cm base. The powder was deep, but the warm temperatures made it heavy and hard.
 
-![Kininaru](/assets/images/2026-11-25-kininaru.png)
-
-There were 27 cm overnight and 40 cm in 24 hours, with a 91 cm base. It was less busy than an opening day.
+Despite the heavy, hard snow, conditions were great overall. It was quieter than on opening day.
 
 Overall rate: 3/5 ★★★☆☆
