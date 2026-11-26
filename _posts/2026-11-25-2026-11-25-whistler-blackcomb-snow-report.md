@@ -9,6 +9,6 @@ featured: true
 
 Whistler side opened today after 27 cm of overnight snow. The 24-hour total was 40 cm, with a 91 cm base.
 
-The heat left the bottomless powder heavy and hard. Off-piste conditions were the worst, and the mountain did not feel busy.
+Warm temperatures left the bottomless powder heavy and hard. Groomed runs were in great condition, but off-piste conditions were the worst. The mountain did not feel busy.
 
 Overall rate: 3/5 ★★★☆☆
