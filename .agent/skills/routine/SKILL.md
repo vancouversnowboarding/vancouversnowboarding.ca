@@ -22,3 +22,9 @@ Optional flags:
 The script handles image conversion, low-token AI drafting/review, featured flipping, linting, review, and commit.
 
 Keep the summary short and factual. Include the rating in the summary, use digits for counts, use Canadian English, and do not talk about skiing.
+
+Before drafting, map each detail in the summary to the report text. Preserve distinctions between groomed runs and off-piste conditions, and between different areas or opening status. Do not turn a terrain-specific assessment into a general condition claim.
+
+Read comparisons literally. If the report date is an opening day, do not compare busyness with an opening day. Keep only a supported non-comparative crowd description or omit it.
+
+If a phrase, contrast, or comparison cannot be interpreted confidently, ask the user before running the generator. Do not guess or silently resolve ambiguity in the draft.
