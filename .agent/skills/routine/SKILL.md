@@ -15,7 +15,7 @@ bin/snow-report-create --summary "rate 4, partially sunny & cloudy, not busy"
 Optional flags:
 
 * `--date YYYY-MM-DD` to override today
-* `--model gpt-5.1-codex-mini` to use a different Codex model
+* `--model MODEL` to override the Codex CLI configured default with a supported model
 * `--reference-date 2025-04-18` to change the style sample
 * `--dry-run` to stop after planning
 

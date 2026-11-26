@@ -30,14 +30,13 @@ STYLE_CAPSULE = <<~TEXT.freeze
   If you mention another day, use markdown links to the matching report path.
 TEXT
 
-DEFAULT_MODEL = 'gpt-5.4-mini'
 DEFAULT_REFERENCE_DATE = '2025-04-18'
 REPORT_GLOB = '_posts/*-whistler-blackcomb-snow-report.md'
 TMP_IMAGE_GLOB = '/tmp/*.{jpg,jpeg,JPG,png,PNG}'
 IMAGE_EXTENSIONS = '.{jpg,jpeg,JPG,png,PNG}'
 
 options = {
-  model: DEFAULT_MODEL,
+  model: nil,
   reference_date: DEFAULT_REFERENCE_DATE
 }
 
@@ -49,7 +48,7 @@ parser = OptionParser.new do |opts|
   opts.on('--summary TEXT', 'Short human summary of the day; must include a rating like "rate 4"') do |value|
     options[:summary] = value
   end
-  opts.on('--model MODEL', "Codex model to use (default: #{DEFAULT_MODEL})") do |value|
+  opts.on('--model MODEL', 'Codex model to use (defaults to the Codex CLI configuration)') do |value|
     options[:model] = value
   end
   opts.on('--reference-date DATE', "Reference report date for style sampling (default: #{DEFAULT_REFERENCE_DATE})") do |value|
@@ -499,13 +498,15 @@ def run_codex_structured(root:, model:, prompt:, schema:, context:)
   cmd = [
     'codex', 'exec',
     '--ephemeral',
-    '--approve-for-me',
-    '--model', model,
+    '--approve-for-me'
+  ]
+  cmd.concat(['--model', model]) if model
+  cmd.concat([
     '--cd', root,
     '--output-schema', schema_file.path,
     '--output-last-message', out.path,
     '-'
-  ]
+  ])
   stdout, stderr, status = Open3.capture3(*cmd, stdin_data: prompt)
   unless status.success?
     warn stdout unless stdout.empty?
@@ -558,7 +559,8 @@ def run!(options, parser)
   if options[:dry_run]
     puts 'snow-report create: dry run only'
     puts "snow-report create: would write #{report_path}"
-    puts "snow-report create: would use model #{options[:model]}"
+    model_description = options[:model] || 'the Codex CLI configured default'
+    puts "snow-report create: would use model #{model_description}"
     exit 0
   end
 
